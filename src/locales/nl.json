@@ -1,0 +1,15 @@
+{
+  "navigation": ["Naar de inhoud", "Onze apps", "De studio", "Contact", "Taal"],
+  "hero": ["Onafhankelijke appstudio", "Kleine apps.", "Een wereld aan", "mogelijkheden.", "Iets nieuws leren. Een reden om te bewegen. Een moment om te spelen. We maken apps voor de kleine dingen die het leven verrijken.", "Vind je volgende app", "Een kleine rondleiding", "Gemaakt met nieuwsgierigheid. Voor jouw dagelijks leven."],
+  "motion": ["Animaties", "Animaties pauzeren", "Animaties inschakelen", "Animaties zijn uit: op je apparaat is verminderde beweging ingeschakeld"],
+  "story": ["Haal een beetje meer\nuit elke dag."],
+  "learn": ["Nieuwsgierigheid", "Leer\neen beetje meer.", "Een vraag wordt een ontdekking. Verken de elementen en hun verbanden en volg je nieuwsgierigheid.", "Een hele wereld aan elementen."],
+  "move": ["Beweging", "Beweeg\neen beetje meer.", "Maak van de neiging om je telefoon te pakken een reden om te bewegen. Een paar oefeningen kunnen het ritme van je dag veranderen.", "Je volgende kleine stap."],
+  "play": ["Fijne momenten", "Speel\neen beetje meer.", "Een vrij moment of een avond met vrienden. Kies een spel, zet zorgen op pauze en geniet van het hier en nu.", "Een beetje minder gewoon."],
+  "apps": ["De collectie", "Vind de app die bij je past.", "Volg je nieuwsgierigheid. Elke app heeft een eigen kleine wereld om te ontdekken.", "Ontdek de app"],
+  "studio": ["Kleine ideeën.\nMet betekenis.", "Ultimate Digital is een onafhankelijke appstudio. We beginnen eenvoudig: iets nuttigs maken dat prettig is om te gebruiken.", "Van een lastige vergelijking tot je volgende hardlooproute maken we van nieuwsgierigheid kleine digitale metgezellen.", "Een kleine studio.\nEen open blik."],
+  "principles": ["Een duidelijk doel", "Een nuttig idee vormt de kern van elke app.", "Aandacht voor details", "De kleine dingen maken deel uit van de ervaring.", "Ruimte om te ontdekken", "Leren, maken, bewegen en iets nieuws proberen."],
+  "contact": ["Goede dingen beginnen\nmet een hallo.", "Een vraag over een app of een nieuw idee? We horen graag van je.", "Mail de studio", "Vind ons op GitHub", "Terug naar boven", "Elke dag een beetje nieuwsgieriger."],
+  "screenshot": ["Schermafbeelding van de app"],
+  "tags": ["Focus en beweging", "Hardlopen en ontdekken", "Planten en gemeenschap", "Spellen en goed gezelschap", "Natuur & spel", "Leren en oefenen", "Scheikunde", "Natuurkunde", "Biologie", "Meetkunde", "Algebra", "Aardrijkskunde"]
+}

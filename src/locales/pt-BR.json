@@ -1,0 +1,15 @@
+{
+  "navigation": ["Ir para o conteúdo", "Nossos apps", "O estúdio", "Fale com a gente", "Idioma"],
+  "hero": ["Estúdio independente de aplicativos", "Pequenos apps.", "Um mundo de", "possibilidades.", "Algo novo para aprender. Um motivo para se movimentar. Um momento para brincar. Criamos apps para as pequenas coisas que enriquecem a vida.", "Encontre seu próximo app", "Um pequeno passeio", "Feitos com curiosidade. Pensados para o seu dia a dia."],
+  "motion": ["Animações", "Pausar animações", "Ativar animações", "Animações desativadas: a redução de movimento está ativada no seu dispositivo"],
+  "story": ["Descubra um pouco mais\nem cada dia."],
+  "learn": ["Curiosidade", "Aprenda\num pouco mais.", "Uma pergunta vira uma descoberta. Explore os elementos, entenda suas conexões e siga sua curiosidade.", "Um mundo inteiro de elementos."],
+  "move": ["Movimento", "Movimente-se\num pouco mais.", "Transforme a vontade de pegar o celular em um motivo para se movimentar. Alguns exercícios podem mudar o ritmo do dia.", "Seu próximo pequeno passo."],
+  "play": ["Bons momentos", "Jogue\num pouco mais.", "Um momento livre ou um encontro com amigos. Escolha um jogo, deixe as preocupações de lado e aproveite o presente.", "Um pouco menos de rotina."],
+  "apps": ["A coleção", "Encontre o app para você.", "Siga sua curiosidade. Cada app tem seu próprio mundo para explorar.", "Conheça o aplicativo"],
+  "studio": ["Pequenas ideias.\nCom propósito.", "Ultimate Digital é um estúdio independente de aplicativos. Começamos com uma ideia simples: criar algo útil e gostoso de usar.", "De uma equação difícil ao próximo percurso de corrida, transformamos a curiosidade em pequenos companheiros digitais.", "Um pequeno estúdio.\nUma mente aberta."],
+  "principles": ["Um propósito claro", "Uma ideia útil no centro de cada app.", "Cuidado com os detalhes", "As pequenas coisas fazem parte da experiência.", "Espaço para descobrir", "Aprender, criar, se movimentar e experimentar algo novo."],
+  "contact": ["Coisas boas\ncomeçam com um oi.", "Uma dúvida sobre um app ou uma ideia nova? Vamos adorar receber sua mensagem.", "Enviar e-mail ao estúdio", "Encontre a gente no GitHub", "Voltar ao topo", "Um pouco mais de curiosidade, todos os dias."],
+  "screenshot": ["Captura de tela do aplicativo"],
+  "tags": ["Foco e movimento", "Corrida e exploração", "Plantas e comunidade", "Jogos e boa companhia", "Natureza e diversão", "Estudo e prática", "Química", "Física", "Biologia", "Geometria", "Álgebra", "Geografia"]
+}

@@ -1,0 +1,15 @@
+{
+  "navigation": ["Ugrás a tartalomra", "Alkalmazásaink", "A stúdió", "Kapcsolat", "Nyelv"],
+  "hero": ["Független alkalmazásstúdió", "Kis appok.", "Lehetőségek", "egész világa.", "Valami új, amit megtanulhatsz. Egy ok a mozgásra. Egy kis játék. Alkalmazásokat készítünk az életet gazdagító apróságokhoz.", "Találd meg a következő appod", "Egy rövid felfedezőút", "Kíváncsisággal készülnek. A mindennapjaidra tervezve."],
+  "motion": ["Animációk", "Animációk szüneteltetése", "Animációk bekapcsolása", "Az animációk ki vannak kapcsolva: az eszközön aktív a mozgás csökkentése"],
+  "story": ["Fedezz fel egy kicsivel többet\nminden napban."],
+  "learn": ["Kíváncsiság", "Tanulj\negy kicsit többet.", "Egy kérdésből felfedezés lesz. Ismerd meg az elemeket és kapcsolataikat, és kövesd a kíváncsiságod.", "Az elemek egész világa."],
+  "move": ["Mozgás", "Mozogj\negy kicsit többet.", "Változtasd a telefon utáni vágyat a mozgás indokává. Néhány gyakorlat megváltoztathatja a napod ritmusát.", "A következő kis lépésed."],
+  "play": ["Jó pillanatok", "Játssz\negy kicsit többet.", "Egy szabad perc vagy este a barátokkal. Válassz egy játékot, tedd félre a gondokat, és élvezd a jelent.", "Egy kicsit kevesebb rutin."],
+  "apps": ["A gyűjtemény", "Találd meg a neked való appot.", "Kövesd a kíváncsiságod. Minden alkalmazás egy kis felfedezésre váró világ.", "Az alkalmazás felfedezése"],
+  "studio": ["Kis ötletek.\nValódi jelentőség.", "Az Ultimate Digital független alkalmazásstúdió. Egyszerű ötletből indulunk: hasznos dolgokat készítünk, amelyeket öröm használni.", "A nehéz egyenlettől a következő futóútvonalig kis digitális társakká alakítjuk a kíváncsiságot.", "Kis stúdió.\nNyitott gondolkodás."],
+  "principles": ["Világos cél", "Minden alkalmazás középpontjában egy hasznos ötlet áll.", "Gondos részletek", "Az apróságok is az élmény részei.", "Tér a felfedezésnek", "Tanulás, alkotás, mozgás és új dolgok kipróbálása."],
+  "contact": ["A jó dolgok\negy köszönéssel kezdődnek.", "Kérdésed van egy appról, vagy új ötleted támadt? Örömmel olvassuk az üzeneted.", "E-mail a stúdiónak", "Keress minket a GitHubon", "Vissza az elejére", "Minden nap egy kicsivel kíváncsibban."],
+  "screenshot": ["Az alkalmazás képernyőképe"],
+  "tags": ["Figyelem és mozgás", "Futás és felfedezés", "Növények és közösség", "Játékok és jó társaság", "Természet és játék", "Tanulás és gyakorlás", "Kémia", "Fizika", "Biológia", "Geometria", "Algebra", "Földrajz"]
+}

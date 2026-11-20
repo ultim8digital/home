@@ -1,0 +1,15 @@
+{
+  "navigation": ["Vai al contenuto", "Le nostre app", "Lo studio", "Contatti", "Lingua"],
+  "hero": ["Studio indipendente di app", "Piccole app.", "Un mondo di", "possibilità.", "Qualcosa da imparare. Un motivo per muoversi. Un momento per giocare. Creiamo app per le piccole cose che arricchiscono la vita.", "Trova la tua prossima app", "Un piccolo tour", "Create con curiosità. Pensate per ogni giorno."],
+  "motion": ["Animazioni", "Metti in pausa le animazioni", "Attiva le animazioni", "Animazioni disattivate: sul dispositivo è attiva la riduzione del movimento"],
+  "story": ["Un po’ più di scoperte\nnel tuo quotidiano."],
+  "learn": ["Curiosità", "Impara\nqualcosa in più.", "Una domanda diventa una scoperta. Esplora gli elementi e i loro legami e lascia spazio alla curiosità.", "Un intero mondo di elementi."],
+  "move": ["Movimento", "Muoviti\nun po’ di più.", "Trasforma la voglia di prendere il telefono in un’occasione per muoverti. Qualche esercizio può cambiare il ritmo della giornata.", "Il tuo prossimo piccolo passo."],
+  "play": ["Bei momenti", "Gioca\nun po’ di più.", "Un momento libero o una serata con gli amici. Scegli un gioco, metti in pausa i pensieri e goditi il presente.", "Un po’ meno routine."],
+  "apps": ["La collezione", "Trova l’app che fa per te.", "Segui la curiosità. Ogni app ha un piccolo mondo da esplorare.", "Scopri l’app"],
+  "studio": ["Piccole idee.\nUn vero significato.", "Ultimate Digital è uno studio indipendente di app. Partiamo da un’idea semplice: creare qualcosa di utile e piacevole da usare.", "Da un’equazione difficile al prossimo percorso di corsa, trasformiamo la curiosità in piccoli compagni digitali.", "Un piccolo studio.\nUna mente aperta."],
+  "principles": ["Uno scopo chiaro", "Un’idea utile al centro di ogni app.", "Cura dei dettagli", "Le piccole cose fanno parte dell’esperienza.", "Spazio alle scoperte", "Imparare, creare, muoversi e provare qualcosa di nuovo."],
+  "contact": ["Le cose belle\niniziano con un ciao.", "Una domanda su un’app o un’idea nuova? Saremo felici di leggerti.", "Scrivi allo studio", "Ci trovi su GitHub", "Torna in alto", "Ogni giorno, un po’ più di curiosità."],
+  "screenshot": ["Schermata dell’app"],
+  "tags": ["Concentrazione e movimento", "Corsa ed esplorazione", "Piante e comunità", "Giochi e buona compagnia", "Natura e gioco", "Studio ed esercizio", "Chimica", "Fisica", "Biologia", "Geometria", "Algebra", "Geografia"]
+}

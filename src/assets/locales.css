@@ -1,0 +1,141 @@
+@font-face { font-family: "Picker Arabic"; src: url("fonts/picker-arabic.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Bengali"; src: url("fonts/picker-bengali.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Devanagari"; src: url("fonts/picker-devanagari.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Gujarati"; src: url("fonts/picker-gujarati.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Gurmukhi"; src: url("fonts/picker-gurmukhi.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Hebrew"; src: url("fonts/picker-hebrew.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Kannada"; src: url("fonts/picker-kannada.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Malayalam"; src: url("fonts/picker-malayalam.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Oriya"; src: url("fonts/picker-oriya.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Tamil"; src: url("fonts/picker-tamil.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Telugu"; src: url("fonts/picker-telugu.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Picker Thai"; src: url("fonts/picker-thai.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+
+@font-face { font-family: "Noto Arabic"; src: url("fonts/NotoSansArabic.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(ar) { --locale-font: "Noto Arabic"; }
+.languages a:lang(ar) { font-family: "Picker Arabic", system-ui, sans-serif; }
+html:lang(ur) { --locale-font: "Noto Arabic"; }
+.languages a:lang(ur) { font-family: "Picker Arabic", system-ui, sans-serif; }
+@font-face { font-family: "Noto Bengali"; src: url("fonts/NotoSansBengali.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(bn) { --locale-font: "Noto Bengali"; }
+.languages a:lang(bn) { font-family: "Picker Bengali", system-ui, sans-serif; }
+@font-face { font-family: "Noto Devanagari"; src: url("fonts/NotoSansDevanagari.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(hi) { --locale-font: "Noto Devanagari"; }
+.languages a:lang(hi) { font-family: "Picker Devanagari", system-ui, sans-serif; }
+html:lang(mr) { --locale-font: "Noto Devanagari"; }
+.languages a:lang(mr) { font-family: "Picker Devanagari", system-ui, sans-serif; }
+@font-face { font-family: "Noto Gujarati"; src: url("fonts/NotoSansGujarati.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(gu) { --locale-font: "Noto Gujarati"; }
+.languages a:lang(gu) { font-family: "Picker Gujarati", system-ui, sans-serif; }
+@font-face { font-family: "Noto Gurmukhi"; src: url("fonts/NotoSansGurmukhi.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(pa) { --locale-font: "Noto Gurmukhi"; }
+.languages a:lang(pa) { font-family: "Picker Gurmukhi", system-ui, sans-serif; }
+@font-face { font-family: "Noto Hebrew"; src: url("fonts/NotoSansHebrew.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(he) { --locale-font: "Noto Hebrew"; }
+.languages a:lang(he) { font-family: "Picker Hebrew", system-ui, sans-serif; }
+@font-face { font-family: "Noto Kannada"; src: url("fonts/NotoSansKannada.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(kn) { --locale-font: "Noto Kannada"; }
+.languages a:lang(kn) { font-family: "Picker Kannada", system-ui, sans-serif; }
+@font-face { font-family: "Noto Malayalam"; src: url("fonts/NotoSansMalayalam.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(ml) { --locale-font: "Noto Malayalam"; }
+.languages a:lang(ml) { font-family: "Picker Malayalam", system-ui, sans-serif; }
+@font-face { font-family: "Noto Oriya"; src: url("fonts/NotoSansOriya.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(or) { --locale-font: "Noto Oriya"; }
+.languages a:lang(or) { font-family: "Picker Oriya", system-ui, sans-serif; }
+@font-face { font-family: "Noto Tamil"; src: url("fonts/NotoSansTamil.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(ta) { --locale-font: "Noto Tamil"; }
+.languages a:lang(ta) { font-family: "Picker Tamil", system-ui, sans-serif; }
+@font-face { font-family: "Noto Telugu"; src: url("fonts/NotoSansTelugu.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(te) { --locale-font: "Noto Telugu"; }
+.languages a:lang(te) { font-family: "Picker Telugu", system-ui, sans-serif; }
+@font-face { font-family: "Noto Thai"; src: url("fonts/NotoSansThai.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+html:lang(th) { --locale-font: "Noto Thai"; }
+.languages a:lang(th) { font-family: "Picker Thai", system-ui, sans-serif; }
+
+/* Locale layout is shared by every edition; only the needed fonts are loaded. */
+.language-picker { position: relative; min-width: 0; font-size: 12px; font-weight: 500; }
+.language-picker > summary { display: flex; align-items: center; gap: 8px; min-height: 44px; max-width: 185px; padding: 9px 12px; border: 1px solid var(--line); border-radius: 24px; cursor: pointer; list-style: none; background: var(--paper); }
+.language-picker > summary::-webkit-details-marker { display: none; }
+.language-current { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.language-short { display: none; direction: ltr; }
+.language-chevron { flex-shrink: 0; }
+.language-picker[open] > summary { background: #e8eddf; }
+.language-picker .languages { position: absolute; inset-inline-end: 0; top: calc(100% + 8px); display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px; width: min(440px, calc(100vw - 40px)); max-height: min(65dvh, 480px); overflow-y: auto; overscroll-behavior: contain; padding: 10px; border: 1px solid var(--line); border-radius: 16px; background: var(--paper); color: var(--ink); box-shadow: 0 20px 45px -16px #172e2859; font-family: system-ui, sans-serif; }
+.languages a { display: flex; align-items: center; min-width: 0; min-height: 44px; padding: 8px 11px; border-radius: 8px; font-size: 13px; font-weight: 400; line-height: 1.6; overflow-wrap: anywhere; }
+.languages a:hover { background: #e8eddf; }
+.languages a[aria-current] { color: white; background: var(--pine); }
+.languages a:focus-visible { outline-offset: -3px; }
+.wordmark, .header-utilities, .main-nav, .hero-copy, .studio-copy, .contact-copy, .chapter-copy, .section-heading > div, .footer-inner > * { min-width: 0; }
+.header-utilities { flex-shrink: 0; }
+.status-dot, .app-icon, .app-card-arrow { flex-shrink: 0; }
+.main-nav { gap: clamp(15px, 2.3vw, 36px); }
+.main-nav a { line-height: 1.5; }
+.hero { grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr); }
+h1, h2, h3, .hero-note, .eyebrow, .app-card-bottom, .chapter-link, .button, .text-link, .strip-inner > span { overflow-wrap: anywhere; }
+h1, h2, h3 { hyphens: auto; }
+.hero-line { text-wrap: balance; }
+.hero-description, .app-description, .chapter-description, .studio-description, .contact-copy p { overflow-wrap: anywhere; }
+.hero-title-accent { overflow-wrap: anywhere; }
+.eyebrow { text-transform: uppercase; }
+.button, .text-link { max-width: 100%; line-height: 1.6; }
+.button > span, .text-link > span { flex-shrink: 0; }
+.app-tag { text-align: end; }
+.principles dd { margin-inline: 0; }
+.contact-flower { margin-right: 0; margin-inline-end: 28px; }
+.story-heading-arrow { right: auto; inset-inline-end: 5px; }
+.scene-badge { right: auto; inset-inline-end: 10%; }
+.story-rail { right: auto; inset-inline-end: 25px; }
+.story-device { direction: ltr; flex-shrink: 0; }
+.strip-inner > span:not(.strip-star) { min-width: 0; }
+.strip-star { flex-shrink: 0; }
+html[dir="rtl"] .page-progress { transform-origin: right; }
+html[dir="rtl"] .wordmark { justify-content: flex-end; }
+html[dir="rtl"] .story-rail > span::after { transform-origin: right; }
+
+/* The original display face covers Latin and Cyrillic. Script fonts preserve
+   shaping, combining marks and readable line height in the other editions. */
+html:not(:lang(en)):not(:lang(ru)) h1 { font-size: clamp(48px, 5.6vw, 76px); letter-spacing: -.045em; line-height: 1.12; }
+html[data-script="complex"] { font-family: var(--locale-font), system-ui, sans-serif; }
+html[data-script="complex"] :is(h1, h2, h3, .hero-title-accent, .eyebrow, .chapter-label, .strip-inner > span) { letter-spacing: 0; }
+html[data-script="complex"] :is(h1, h2, h3) { line-height: 1.4; }
+html[data-script="complex"] .hero-title-accent { font-family: inherit; font-style: normal; }
+html[data-script="complex"] .eyebrow { line-height: 1.9; }
+html:lang(ja), html:lang(zh), html:lang(ko) { font-family: Onest, var(--locale-font), system-ui, sans-serif; }
+html:lang(ja) { --locale-font: "Hiragino Sans", "Yu Gothic", "Noto Sans CJK JP"; }
+html:lang(zh-Hans) { --locale-font: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC"; }
+html:lang(zh-Hant) { --locale-font: "PingFang TC", "Microsoft JhengHei", "Noto Sans CJK TC"; }
+html:lang(ko) { --locale-font: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans CJK KR"; }
+html:lang(ja) :is(h1,h2,h3,.hero-title-accent), html:lang(zh) :is(h1,h2,h3,.hero-title-accent), html:lang(ko) :is(h1,h2,h3,.hero-title-accent) { font-family: inherit; font-style: normal; letter-spacing: 0; line-height: 1.4; }
+.wordmark, .studio-tile, .footer-brand { font-family: Onest, system-ui, sans-serif; }
+
+@media (max-width: 1100px) and (min-width: 641px) {
+  .header-inner { flex-wrap: wrap; justify-content: space-between; gap: 10px 24px; padding-block: 14px 7px; }
+  .main-nav { order: 3; width: 100%; gap: 30px; }
+  .language-picker > summary { max-width: 200px; }
+}
+@media (max-width: 800px) { .hero { grid-template-columns: 1fr; } }
+@media (max-width: 640px) {
+  .header-inner { column-gap: 12px; }
+  .main-nav { gap: clamp(14px, 4vw, 26px); flex-wrap: wrap; }
+  .main-nav a { font-size: 11px; }
+  .header-utilities { justify-self: end; }
+  .language-picker > summary { padding: 8px 9px; gap: 5px; max-width: 117px; }
+  .language-current { display: none; }
+  .language-short { display: inline; font-size: 10px; }
+  .language-picker .languages { width: min(300px, calc(100vw - 32px)); grid-template-columns: 1fr; }
+  .hero { grid-template-columns: 1fr; }
+  html:not(:lang(en)):not(:lang(ru)) h1 { font-size: clamp(39px, 10.4vw, 63px); letter-spacing: -.04em; line-height: 1.15; }
+  html[data-script="complex"] h1 { font-size: clamp(32px, 8.8vw, 52px); letter-spacing: 0; line-height: 1.4; }
+  html[data-script="complex"] :is(h2,.story-heading h2,.studio-copy h2,.contact-copy h2) { font-size: 29px; letter-spacing: 0; line-height: 1.45; }
+  html[data-script="complex"] .story-chapter h3 { font-size: 25px; letter-spacing: 0; line-height: 1.5; }
+  .strip-inner { gap: 10px; padding-block: 15px; }
+  .strip-inner > span:not(.strip-star) { font-size: 10px; line-height: 1.7; letter-spacing: 0; }
+  .strip-star { font-size: 13px; }
+  .story-chapter { grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); }
+  html:not(:lang(en)):not(:lang(ru)) .story-chapter { grid-template-columns: 1fr; }
+  html:not(:lang(en)):not(:lang(ru)) .chapter-preview { margin-top: 12px; padding: 25px; }
+  html:not(:lang(en)):not(:lang(ru)) .story-device { width: 145px; }
+  .app-card-bottom { font-size: 11px; }
+  .footer-inner { grid-template-columns: minmax(0, 1fr) auto; }
+  .back-to-top { max-width: 105px; line-height: 1.6; }
+}

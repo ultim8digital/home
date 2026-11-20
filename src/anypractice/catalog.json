@@ -1,0 +1,252 @@
+{
+  "en": {
+    "name": "AnyPractice",
+    "tag": "Study & practice",
+    "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+  },
+  "en-GB": {
+    "name": "AnyPractice",
+    "tag": "Study & practice",
+    "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+  },
+  "en-AU": {
+    "name": "AnyPractice",
+    "tag": "Study & practice",
+    "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+  },
+  "en-CA": {
+    "name": "AnyPractice",
+    "tag": "Study & practice",
+    "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+  },
+  "ru": {
+    "name": "AnyPractice",
+    "tag": "Учёба и практика",
+    "description": "Превращайте фотографии, PDF и заметки в уроки, карточки и тренировочные тесты. Проверяйте черновики и учитесь в своём темпе."
+  },
+  "ar": {
+    "name": "AnyPractice",
+    "tag": "الدراسة والتدريب",
+    "description": "حوّل صورك وملفات PDF وملاحظاتك إلى دروس وبطاقات تعليمية واختبارات تدريبية. راجع المسودات وتعلّم بالوتيرة التي تناسبك."
+  },
+  "bn": {
+    "name": "AnyPractice",
+    "tag": "পড়াশোনা ও অনুশীলন",
+    "description": "আপনার ছবি, PDF ও নোট থেকে পাঠ, ফ্ল্যাশকার্ড ও অনুশীলনের কুইজ তৈরি করুন। খসড়াগুলো যাচাই করে নিজের গতিতে শিখুন।"
+  },
+  "ca": {
+    "name": "AnyPractice",
+    "tag": "Estudi i pràctica",
+    "description": "Transforma les teves fotos, PDF i apunts en lliçons, targetes d'estudi i qüestionaris de pràctica. Revisa els esborranys i aprèn al teu ritme."
+  },
+  "cs": {
+    "name": "AnyPractice",
+    "tag": "Učení a procvičování",
+    "description": "Proměňte své fotografie, PDF a poznámky v lekce, kartičky a procvičovací kvízy. Zkontrolujte návrhy a učte se vlastním tempem."
+  },
+  "da": {
+    "name": "AnyPractice",
+    "tag": "Læring og øvelse",
+    "description": "Lav dine fotos, PDF-filer og noter om til lektioner, læringskort og øvelsesquizzer. Gennemgå udkastene, og lær i dit eget tempo."
+  },
+  "de": {
+    "name": "AnyPractice",
+    "tag": "Lernen und üben",
+    "description": "Verwandle deine Fotos, PDFs und Notizen in Lektionen, Lernkarten und Übungsquizze. Prüfe die Entwürfe und lerne in deinem eigenen Tempo."
+  },
+  "el": {
+    "name": "AnyPractice",
+    "tag": "Μελέτη και εξάσκηση",
+    "description": "Μετέτρεψε τις φωτογραφίες, τα PDF και τις σημειώσεις σου σε μαθήματα, κάρτες μελέτης και κουίζ εξάσκησης. Έλεγξε τα προσχέδια και μάθε με τον δικό σου ρυθμό."
+  },
+  "es": {
+    "name": "AnyPractice",
+    "tag": "Estudio y práctica",
+    "description": "Convierte tus fotos, PDF y apuntes en lecciones, tarjetas de estudio y cuestionarios de práctica. Revisa los borradores y aprende a tu ritmo."
+  },
+  "es-419": {
+    "name": "AnyPractice",
+    "tag": "Estudio y práctica",
+    "description": "Convierte tus fotos, PDF y notas en lecciones, tarjetas de estudio y cuestionarios de práctica. Revisa los borradores y aprende a tu ritmo."
+  },
+  "fi": {
+    "name": "AnyPractice",
+    "tag": "Opiskelu ja harjoittelu",
+    "description": "Muuta kuvasi, PDF-tiedostosi ja muistiinpanosi oppitunneiksi, muistikorteiksi ja harjoitusvisoiksi. Tarkista luonnokset ja opiskele omaan tahtiisi."
+  },
+  "fr": {
+    "name": "AnyPractice",
+    "tag": "Étude et entraînement",
+    "description": "Transformez vos photos, PDF et notes en leçons, cartes de révision et quiz d'entraînement. Vérifiez les brouillons et apprenez à votre rythme."
+  },
+  "fr-CA": {
+    "name": "AnyPractice",
+    "tag": "Étude et pratique",
+    "description": "Transformez vos photos, PDF et notes en leçons, cartes de révision et questionnaires de pratique. Vérifiez les brouillons et apprenez à votre rythme."
+  },
+  "gu": {
+    "name": "AnyPractice",
+    "tag": "ભણતર અને અભ્યાસ",
+    "description": "તમારા ફોટા, PDF અને નોંધોમાંથી પાઠ, ફ્લૅશકાર્ડ અને અભ્યાસ માટેની ક્વિઝ બનાવો. તૈયાર થયેલા ડ્રાફ્ટ તપાસો અને તમારી પોતાની ગતિએ શીખો."
+  },
+  "he": {
+    "name": "AnyPractice",
+    "tag": "לימוד ותרגול",
+    "description": "הפכו תמונות, קובצי PDF והערות לשיעורים, כרטיסיות לימוד וחידוני תרגול. בדקו את הטיוטות ולמדו בקצב שלכם."
+  },
+  "hi": {
+    "name": "AnyPractice",
+    "tag": "पढ़ाई और अभ्यास",
+    "description": "अपनी तस्वीरों, PDF और नोट्स से पाठ, फ़्लैशकार्ड और अभ्यास क्विज़ बनाएं। मसौदों की जाँच करें और अपनी गति से सीखें।"
+  },
+  "hr": {
+    "name": "AnyPractice",
+    "tag": "Učenje i vježbanje",
+    "description": "Pretvorite fotografije, PDF-ove i bilješke u lekcije, kartice za učenje i kvizove za vježbu. Provjerite nacrte i učite vlastitim tempom."
+  },
+  "hu": {
+    "name": "AnyPractice",
+    "tag": "Tanulás és gyakorlás",
+    "description": "Alakítsd fotóidat, PDF-jeidet és jegyzeteidet leckékké, tanulókártyákká és gyakorló kvízekké. Ellenőrizd a vázlatokat, és tanulj a saját tempódban."
+  },
+  "id": {
+    "name": "AnyPractice",
+    "tag": "Belajar dan berlatih",
+    "description": "Ubah foto, PDF, dan catatanmu menjadi pelajaran, kartu belajar, dan kuis latihan. Tinjau drafnya dan belajar sesuai kecepatanmu sendiri."
+  },
+  "it": {
+    "name": "AnyPractice",
+    "tag": "Studio ed esercizio",
+    "description": "Trasforma foto, PDF e appunti in lezioni, schede di ripasso e quiz di esercitazione. Controlla le bozze e impara al tuo ritmo."
+  },
+  "ja": {
+    "name": "AnyPractice",
+    "tag": "学習と練習",
+    "description": "写真、PDF、ノートからレッスン、暗記カード、練習クイズを作成。下書きを確認しながら、自分のペースで学べます。"
+  },
+  "kn": {
+    "name": "AnyPractice",
+    "tag": "ಕಲಿಕೆ ಮತ್ತು ಅಭ್ಯಾಸ",
+    "description": "ನಿಮ್ಮ ಫೋಟೋಗಳು, PDF ಮತ್ತು ಟಿಪ್ಪಣಿಗಳಿಂದ ಪಾಠಗಳು, ಫ್ಲ್ಯಾಶ್‌ಕಾರ್ಡ್‌ಗಳು ಮತ್ತು ಅಭ್ಯಾಸ ರಸಪ್ರಶ್ನೆಗಳನ್ನು ರಚಿಸಿ. ಕರಡುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ, ನಿಮ್ಮದೇ ವೇಗದಲ್ಲಿ ಕಲಿಯಿರಿ."
+  },
+  "ko": {
+    "name": "AnyPractice",
+    "tag": "학습과 연습",
+    "description": "사진, PDF, 노트로 수업, 암기 카드, 연습 퀴즈를 만들어 보세요. 초안을 검토하고 자신의 속도에 맞춰 학습하세요."
+  },
+  "ml": {
+    "name": "AnyPractice",
+    "tag": "പഠനവും പരിശീലനവും",
+    "description": "നിങ്ങളുടെ ഫോട്ടോകൾ, PDF-കൾ, കുറിപ്പുകൾ എന്നിവയിൽ നിന്ന് പാഠങ്ങൾ, ഫ്ലാഷ്‌കാർഡുകൾ, പരിശീലന ക്വിസുകൾ എന്നിവ തയ്യാറാക്കൂ. കരടുകൾ പരിശോധിച്ച് നിങ്ങളുടെ വേഗത്തിൽ പഠിക്കൂ."
+  },
+  "mr": {
+    "name": "AnyPractice",
+    "tag": "अभ्यास आणि सराव",
+    "description": "तुमचे फोटो, PDF आणि नोट्स यांपासून धडे, फ्लॅशकार्ड आणि सराव प्रश्नमंजुषा तयार करा. मसुदे तपासा आणि तुमच्या गतीने शिका."
+  },
+  "ms": {
+    "name": "AnyPractice",
+    "tag": "Belajar dan berlatih",
+    "description": "Jadikan foto, PDF dan nota anda sebagai pelajaran, kad imbas dan kuiz latihan. Semak draf dan belajar mengikut rentak anda sendiri."
+  },
+  "nb": {
+    "name": "AnyPractice",
+    "tag": "Læring og øving",
+    "description": "Gjør bilder, PDF-er og notater om til leksjoner, læringskort og øvingsquizer. Se gjennom utkastene og lær i ditt eget tempo."
+  },
+  "nl": {
+    "name": "AnyPractice",
+    "tag": "Leren en oefenen",
+    "description": "Maak van je foto's, pdf's en notities lessen, leerkaartjes en oefenquizzen. Controleer de concepten en leer in je eigen tempo."
+  },
+  "or": {
+    "name": "AnyPractice",
+    "tag": "ପଢ଼ା ଓ ଅଭ୍ୟାସ",
+    "description": "ଆପଣଙ୍କ ଫଟୋ, PDF ଓ ନୋଟ୍‌ରୁ ପାଠ, ଫ୍ଲାଶ୍‌କାର୍ଡ ଓ ଅଭ୍ୟାସ କୁଇଜ୍ ତିଆରି କରନ୍ତୁ। ଖସଡ଼ାଗୁଡ଼ିକ ଯାଞ୍ଚ କରି ନିଜ ଗତିରେ ଶିଖନ୍ତୁ।"
+  },
+  "pa": {
+    "name": "AnyPractice",
+    "tag": "ਪੜ੍ਹਾਈ ਅਤੇ ਅਭਿਆਸ",
+    "description": "ਆਪਣੀਆਂ ਫ਼ੋਟੋਆਂ, PDF ਅਤੇ ਨੋਟਸ ਤੋਂ ਪਾਠ, ਫਲੈਸ਼ਕਾਰਡ ਅਤੇ ਅਭਿਆਸ ਕਵਿਜ਼ ਬਣਾਓ। ਖਰੜਿਆਂ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਆਪਣੀ ਰਫ਼ਤਾਰ ਨਾਲ ਸਿੱਖੋ।"
+  },
+  "pl": {
+    "name": "AnyPractice",
+    "tag": "Nauka i ćwiczenia",
+    "description": "Zamień zdjęcia, pliki PDF i notatki w lekcje, fiszki i quizy do ćwiczeń. Sprawdź wersje robocze i ucz się we własnym tempie."
+  },
+  "pt-BR": {
+    "name": "AnyPractice",
+    "tag": "Estudo e prática",
+    "description": "Transforme suas fotos, PDFs e anotações em aulas, cartões de estudo e testes de prática. Revise os rascunhos e aprenda no seu ritmo."
+  },
+  "pt-PT": {
+    "name": "AnyPractice",
+    "tag": "Estudo e prática",
+    "description": "Transforme as suas fotografias, PDF e apontamentos em lições, cartões de estudo e testes de prática. Reveja os rascunhos e aprenda ao seu ritmo."
+  },
+  "ro": {
+    "name": "AnyPractice",
+    "tag": "Studiu și exercițiu",
+    "description": "Transformă fotografiile, PDF-urile și notițele în lecții, fișe de memorare și teste de antrenament. Verifică ciornele și învață în ritmul tău."
+  },
+  "sk": {
+    "name": "AnyPractice",
+    "tag": "Učenie a precvičovanie",
+    "description": "Premeňte svoje fotografie, PDF a poznámky na lekcie, kartičky a cvičné kvízy. Skontrolujte návrhy a učte sa vlastným tempom."
+  },
+  "sl": {
+    "name": "AnyPractice",
+    "tag": "Učenje in vaje",
+    "description": "Spremenite fotografije, datoteke PDF in zapiske v lekcije, učne kartice in kvize za vajo. Preglejte osnutke in se učite v svojem tempu."
+  },
+  "sv": {
+    "name": "AnyPractice",
+    "tag": "Lärande och övning",
+    "description": "Gör dina foton, PDF-filer och anteckningar till lektioner, minneskort och övningsquiz. Granska utkasten och lär dig i din egen takt."
+  },
+  "ta": {
+    "name": "AnyPractice",
+    "tag": "கற்றலும் பயிற்சியும்",
+    "description": "உங்கள் புகைப்படங்கள், PDF மற்றும் குறிப்புகளிலிருந்து பாடங்கள், நினைவட்டைகள், பயிற்சி வினாடி வினாக்களை உருவாக்குங்கள். வரைவுகளைச் சரிபார்த்து, உங்கள் வேகத்தில் கற்றுக்கொள்ளுங்கள்."
+  },
+  "te": {
+    "name": "AnyPractice",
+    "tag": "చదువు మరియు సాధన",
+    "description": "మీ ఫోటోలు, PDFలు, నోట్స్ నుంచి పాఠాలు, ఫ్లాష్‌కార్డులు, సాధన క్విజ్‌లు రూపొందించండి. ముసాయిదాలను తనిఖీ చేసి, మీకు అనుకూలమైన వేగంతో నేర్చుకోండి."
+  },
+  "th": {
+    "name": "AnyPractice",
+    "tag": "เรียนรู้และฝึกฝน",
+    "description": "เปลี่ยนรูปภาพ PDF และโน้ตของคุณเป็นบทเรียน บัตรคำ และแบบทดสอบฝึกหัด ตรวจทานฉบับร่างแล้วเรียนรู้ตามจังหวะของตัวเอง"
+  },
+  "tr": {
+    "name": "AnyPractice",
+    "tag": "Öğrenme ve alıştırma",
+    "description": "Fotoğraflarınızı, PDF'lerinizi ve notlarınızı derslere, bilgi kartlarına ve alıştırma testlerine dönüştürün. Taslakları gözden geçirin ve kendi hızınızda öğrenin."
+  },
+  "uk": {
+    "name": "AnyPractice",
+    "tag": "Навчання і практика",
+    "description": "Перетворюйте фотографії, PDF і нотатки на уроки, картки та тренувальні тести. Перевіряйте чернетки й навчайтеся у власному темпі."
+  },
+  "ur": {
+    "name": "AnyPractice",
+    "tag": "مطالعہ اور مشق",
+    "description": "اپنی تصاویر، PDF اور نوٹس سے اسباق، فلیش کارڈز اور مشق کے کوئز بنائیں۔ مسودوں کی جانچ کریں اور اپنی رفتار سے سیکھیں۔"
+  },
+  "vi": {
+    "name": "AnyPractice",
+    "tag": "Học và luyện tập",
+    "description": "Biến ảnh, PDF và ghi chú của bạn thành bài học, thẻ ghi nhớ và câu hỏi luyện tập. Kiểm tra bản nháp và học theo nhịp độ riêng."
+  },
+  "zh-Hans": {
+    "name": "AnyPractice",
+    "tag": "学习与练习",
+    "description": "将照片、PDF 和笔记转化为课程、记忆卡和练习测验。检查草稿，按自己的节奏学习。"
+  },
+  "zh-Hant": {
+    "name": "AnyPractice",
+    "tag": "學習與練習",
+    "description": "將照片、PDF 和筆記轉化為課程、記憶卡和練習測驗。檢查草稿，依自己的步調學習。"
+  }
+}

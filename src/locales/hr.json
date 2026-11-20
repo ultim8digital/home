@@ -1,0 +1,15 @@
+{
+  "navigation": ["Preskoči na sadržaj", "Naše aplikacije", "Studio", "Javite nam se", "Jezik"],
+  "hero": ["Neovisni studio za aplikacije", "Male aplikacije.", "Cijeli svijet", "mogućnosti.", "Naučiti nešto novo. Pronaći razlog za kretanje. Trenutak za igru. Stvaramo aplikacije za male stvari koje obogaćuju život.", "Pronađite svoju aplikaciju", "Kratki obilazak", "Stvorene sa znatiželjom. Za vašu svakodnevicu."],
+  "motion": ["Animacije", "Pauziraj animacije", "Uključi animacije", "Animacije su isključene: na uređaju je uključeno smanjeno kretanje"],
+  "story": ["Otkrijte malo više\nu svakom danu."],
+  "learn": ["Znatiželja", "Naučite\nmalo više.", "Pitanje postaje otkriće. Istražujte elemente i njihove veze te slijedite znatiželju.", "Cijeli svijet elemenata."],
+  "move": ["Kretanje", "Krećite se\nmalo više.", "Pretvorite želju za uzimanjem telefona u razlog za kretanje. Nekoliko vježbi može promijeniti ritam dana.", "Vaš sljedeći mali korak."],
+  "play": ["Lijepi trenuci", "Igrajte se\nmalo više.", "Slobodan trenutak ili večer s prijateljima. Odaberite igru, odložite brige i uživajte ovdje i sada.", "Malo manje rutine."],
+  "apps": ["Kolekcija", "Pronađite aplikaciju za sebe.", "Slijedite znatiželju. Svaka aplikacija ima svoj mali svijet za istraživanje.", "Istražite aplikaciju"],
+  "studio": ["Male ideje.\nPravi smisao.", "Ultimate Digital je neovisni studio za aplikacije. Krećemo od jednostavne ideje: stvoriti nešto korisno što je ugodno upotrebljavati.", "Od složene jednadžbe do sljedeće rute za trčanje pretvaramo znatiželju u male digitalne pratitelje.", "Mali studio.\nOtvoren um."],
+  "principles": ["Jasna svrha", "Korisna ideja u središtu svake aplikacije.", "Pažnja prema detaljima", "Male stvari oblikuju cijelo iskustvo.", "Prostor za otkrića", "Učenje, stvaranje, kretanje i isprobavanje novoga."],
+  "contact": ["Dobre stvari počinju\npozdravom.", "Pitanje o aplikaciji ili nova ideja? Rado ćemo pročitati vašu poruku.", "Pošaljite e-poruku studiju", "Pronađite nas na GitHubu", "Na vrh", "Svaki dan malo više znatiželje."],
+  "screenshot": ["Snimka zaslona aplikacije"],
+  "tags": ["Usredotočenost i kretanje", "Trčanje i istraživanje", "Biljke i zajednica", "Igre i dobro društvo", "Priroda i igra", "Učenje i vježbanje", "Kemija", "Fizika", "Biologija", "Geometrija", "Algebra", "Geografija"]
+}

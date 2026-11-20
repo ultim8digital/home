@@ -1,0 +1,15 @@
+{
+  "navigation": ["Aller au contenu", "Nos applications", "Le studio", "Nous contacter", "Langue"],
+  "hero": ["Studio indépendant d’applications", "Petites applis.", "Tout un monde", "à découvrir.", "Apprendre quelque chose. Trouver l’envie de bouger. Partager un jeu. Nous créons des applications pour ces petits moments qui enrichissent la vie.", "Trouver votre prochaine appli", "Une petite visite", "La curiosité nous inspire. Votre quotidien nous guide."],
+  "motion": ["Animations", "Mettre les animations en pause", "Activer les animations", "Animations désactivées : votre appareil réduit les mouvements"],
+  "story": ["Un peu plus de découvertes\ndans votre quotidien."],
+  "learn": ["Curiosité", "Apprendre\nun peu plus.", "Une question devient une découverte. Explorez les éléments et leurs liens, et laissez votre curiosité vous guider.", "Tout un monde d’éléments."],
+  "move": ["Élan", "Bouger\nun peu plus.", "Transformez l’envie de prendre votre téléphone en occasion de bouger. Quelques exercices peuvent changer le rythme de la journée.", "Votre prochain petit pas."],
+  "play": ["Bons moments", "Jouer\nun peu plus.", "Un moment libre, une soirée entre amis. Choisissez un jeu, mettez les soucis en pause et profitez de l’instant.", "Un quotidien moins ordinaire."],
+  "apps": ["La collection", "Trouvez l’appli qui vous ressemble.", "Suivez votre curiosité. Chaque application a son petit monde à explorer.", "Découvrir l’application"],
+  "studio": ["Petites idées.\nVrai sens.", "Ultimate Digital est un studio indépendant d’applications. Notre point de départ : créer quelque chose d’utile et d’agréable à utiliser.", "D’une équation difficile à votre prochain parcours de course, nous transformons la curiosité en petits compagnons numériques.", "Un petit studio.\nL’esprit ouvert."],
+  "principles": ["Un objectif clair", "Une idée utile au cœur de chaque application.", "Le souci du détail", "Les petites choses font partie de l’expérience.", "Place à la découverte", "Apprendre, créer, bouger et essayer du nouveau."],
+  "contact": ["Tout commence\npar un bonjour.", "Une question sur une application ou une nouvelle idée ? Écrivez-nous, nous serons ravis de vous lire.", "Écrire au studio", "Nous retrouver sur GitHub", "Haut de page", "Un peu plus de curiosité, chaque jour."],
+  "screenshot": ["Capture d’écran de l’application"],
+  "tags": ["Concentration et mouvement", "Course et exploration", "Plantes et communauté", "Jeux et bonne compagnie", "Nature et jeu", "Étude et entraînement", "Chimie", "Physique", "Biologie", "Géométrie", "Algèbre", "Géographie"]
+}

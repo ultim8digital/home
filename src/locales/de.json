@@ -1,0 +1,15 @@
+{
+  "navigation": ["Zum Inhalt", "Unsere Apps", "Das Studio", "Kontakt", "Sprache"],
+  "hero": ["Unabhängiges App-Studio", "Kleine Apps.", "Eine Welt", "voller Ideen.", "Etwas Neues lernen. In Bewegung kommen. Gemeinsam spielen. Wir entwickeln Apps für die kleinen Dinge, die das Leben bereichern.", "Deine nächste App finden", "Eine kleine Entdeckungstour", "Mit Neugier entwickelt. Für deinen Alltag."],
+  "motion": ["Animationen", "Animationen pausieren", "Animationen aktivieren", "Animationen sind aus: Auf deinem Gerät ist die Bewegungsreduzierung aktiviert"],
+  "story": ["Mach ein bisschen mehr\naus deinem Alltag."],
+  "learn": ["Neugier", "Ein bisschen\nmehr lernen.", "Aus einer Frage wird eine Entdeckung. Erkunde die Elemente und ihre Zusammenhänge und folge deiner Neugier.", "Eine ganze Welt der Elemente."],
+  "move": ["Bewegung", "Ein bisschen\nmehr bewegen.", "Mach aus dem Griff zum Handy einen Anlass für Bewegung. Ein paar Übungen geben deinem Tag einen neuen Rhythmus.", "Dein nächster kleiner Schritt."],
+  "play": ["Gute Zeiten", "Ein bisschen\nmehr spielen.", "Ein freier Moment oder ein Abend mit Freunden. Finde ein Spiel, lass den Alltag warten und genieße das Hier und Jetzt.", "Ein bisschen weniger gewöhnlich."],
+  "apps": ["Die Sammlung", "Finde deine App.", "Folge deiner Neugier. Jede App eröffnet eine eigene kleine Welt.", "App entdecken"],
+  "studio": ["Kleine Ideen.\nMit Bedeutung.", "Ultimate Digital ist ein unabhängiges App-Studio. Unser Ausgangspunkt: etwas Nützliches schaffen, das Freude macht.", "Von kniffligen Gleichungen bis zur nächsten Laufstrecke verwandeln wir Neugier in kleine digitale Begleiter.", "Kleines Studio.\nOffener Blick."],
+  "principles": ["Ein klares Ziel", "Im Mittelpunkt jeder App steht eine nützliche Idee.", "Liebe zum Detail", "Die kleinen Dinge prägen das Erlebnis.", "Raum für Entdeckungen", "Lernen, gestalten, bewegen und Neues ausprobieren."],
+  "contact": ["Gute Dinge beginnen\nmit einem Hallo.", "Eine Frage zu einer App oder eine neue Idee? Wir freuen uns auf deine Nachricht.", "E-Mail an das Studio", "Auf GitHub finden", "Nach oben", "Jeden Tag ein bisschen neugieriger."],
+  "screenshot": ["App-Bildschirm"],
+  "tags": ["Fokus & Bewegung", "Laufen & Entdecken", "Pflanzen & Gemeinschaft", "Spiele & gute Gesellschaft", "Natur & Spiel", "Lernen und üben", "Chemie", "Physik", "Biologie", "Geometrie", "Algebra", "Geografie"]
+}

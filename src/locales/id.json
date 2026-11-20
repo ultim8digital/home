@@ -1,0 +1,15 @@
+{
+  "navigation": ["Lewati ke konten", "Aplikasi kami", "Studio", "Hubungi kami", "Bahasa"],
+  "hero": ["Studio aplikasi independen", "Aplikasi kecil.", "Dunia penuh", "kemungkinan.", "Hal baru untuk dipelajari. Alasan untuk bergerak. Waktu untuk bermain. Kami membuat aplikasi untuk hal-hal kecil yang memperkaya hidup.", "Temukan aplikasi berikutnya", "Tur singkat", "Dibuat dengan rasa ingin tahu. Untuk keseharianmu."],
+  "motion": ["Animasi", "Jeda animasi", "Aktifkan animasi", "Animasi nonaktif: perangkatmu mengaktifkan pengurangan gerakan"],
+  "story": ["Temukan sedikit lebih banyak\ndalam setiap hari."],
+  "learn": ["Rasa ingin tahu", "Belajar\nsedikit lebih banyak.", "Sebuah pertanyaan menjadi penemuan. Jelajahi unsur dan kaitannya, lalu ikuti rasa ingin tahumu.", "Dunia unsur yang luas."],
+  "move": ["Gerak", "Bergerak\nsedikit lebih banyak.", "Ubah keinginan mengambil ponsel menjadi alasan untuk bergerak. Beberapa latihan bisa mengubah irama harimu.", "Langkah kecilmu berikutnya."],
+  "play": ["Saat menyenangkan", "Bermain\nsedikit lebih lama.", "Waktu luang atau malam bersama teman. Pilih permainan, kesampingkan kekhawatiran, dan nikmati saat ini.", "Sedikit lebih istimewa."],
+  "apps": ["Koleksi", "Temukan aplikasi yang cocok.", "Ikuti rasa ingin tahumu. Setiap aplikasi punya dunia kecil untuk dijelajahi.", "Jelajahi aplikasi"],
+  "studio": ["Ide kecil.\nMakna nyata.", "Ultimate Digital adalah studio aplikasi independen. Kami berangkat dari ide sederhana: membuat sesuatu yang berguna dan menyenangkan untuk digunakan.", "Dari persamaan sulit hingga rute lari berikutnya, kami mengubah rasa ingin tahu menjadi teman digital kecil.", "Studio kecil.\nPikiran terbuka."],
+  "principles": ["Tujuan yang jelas", "Satu ide berguna menjadi inti setiap aplikasi.", "Perhatian pada detail", "Hal-hal kecil membentuk pengalaman.", "Ruang untuk penemuan", "Belajar, berkarya, bergerak, dan mencoba hal baru."],
+  "contact": ["Hal baik dimulai\ndengan sapaan.", "Ada pertanyaan tentang aplikasi atau ide baru? Kami senang mendengar darimu.", "Kirim email ke studio", "Temukan kami di GitHub", "Kembali ke atas", "Sedikit lebih ingin tahu, setiap hari."],
+  "screenshot": ["Tangkapan layar aplikasi"],
+  "tags": ["Fokus dan gerak", "Lari dan eksplorasi", "Tanaman dan komunitas", "Permainan dan teman", "Alam & permainan", "Belajar dan berlatih", "Kimia", "Fisika", "Biologi", "Geometri", "Aljabar", "Geografi"]
+}

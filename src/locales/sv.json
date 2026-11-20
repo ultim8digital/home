@@ -1,0 +1,15 @@
+{
+  "navigation": ["Hoppa till innehållet", "Våra appar", "Studion", "Kontakta oss", "Språk"],
+  "hero": ["Oberoende appstudio", "Små appar.", "En värld av", "möjligheter.", "Något nytt att lära sig. En anledning att röra på sig. En stund för lek. Vi gör appar för de små sakerna som berikar livet.", "Hitta din nästa app", "En liten rundtur", "Skapade med nyfikenhet. För din vardag."],
+  "motion": ["Animationer", "Pausa animationer", "Aktivera animationer", "Animationer är avstängda: enheten har minskad rörelse aktiverad"],
+  "story": ["Få ut lite mer\nav din vardag."],
+  "learn": ["Nyfikenhet", "Lär dig\nlite mer.", "En fråga blir en upptäckt. Utforska grundämnena och deras samband och följ din nyfikenhet.", "En hel värld av grundämnen."],
+  "move": ["Rörelse", "Rör dig\nlite mer.", "Gör lusten att ta upp telefonen till en anledning att röra på dig. Några övningar kan ändra dagens rytm.", "Ditt nästa lilla steg."],
+  "play": ["Fina stunder", "Spela\nlite mer.", "En ledig stund eller en kväll med vänner. Välj ett spel, lägg bekymren åt sidan och njut av nuet.", "Lite mindre vardag."],
+  "apps": ["Samlingen", "Hitta appen som passar dig.", "Följ din nyfikenhet. Varje app har en egen liten värld att utforska.", "Utforska appen"],
+  "studio": ["Små idéer.\nMed betydelse.", "Ultimate Digital är en oberoende appstudio. Vi börjar enkelt: skapa något användbart som är ett nöje att använda.", "Från en svår ekvation till nästa löprunda gör vi nyfikenhet till små digitala följeslagare.", "En liten studio.\nEtt öppet sinne."],
+  "principles": ["Ett tydligt syfte", "En användbar idé i hjärtat av varje app.", "Omsorg om detaljerna", "De små sakerna är en del av upplevelsen.", "Rum för upptäckter", "Lära, skapa, röra sig och prova något nytt."],
+  "contact": ["Bra saker börjar\nmed ett hej.", "En fråga om en app eller en ny idé? Vi vill gärna höra från dig.", "Mejla studion", "Hitta oss på GitHub", "Till toppen", "Lite mer nyfiken varje dag."],
+  "screenshot": ["Skärmbild från appen"],
+  "tags": ["Fokus och rörelse", "Löpning och upptäckter", "Växter och gemenskap", "Spel och gott sällskap", "Natur och lek", "Lärande och övning", "Kemi", "Fysik", "Biologi", "Geometri", "Algebra", "Geografi"]
+}

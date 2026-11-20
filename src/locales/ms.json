@@ -1,0 +1,15 @@
+{
+  "navigation": ["Langkau ke kandungan", "Aplikasi kami", "Studio", "Hubungi kami", "Bahasa"],
+  "hero": ["Studio aplikasi bebas", "Aplikasi kecil.", "Dunia penuh", "kemungkinan.", "Perkara baharu untuk dipelajari. Sebab untuk bergerak. Masa untuk bermain. Kami membina aplikasi untuk perkara kecil yang memperkaya hidup.", "Cari aplikasi seterusnya", "Lawatan ringkas", "Dibina dengan rasa ingin tahu. Untuk kehidupan harian anda."],
+  "motion": ["Animasi", "Jeda animasi", "Aktifkan animasi", "Animasi dimatikan: pengurangan gerakan diaktifkan pada peranti anda"],
+  "story": ["Temui sedikit lagi\ndalam setiap hari."],
+  "learn": ["Rasa ingin tahu", "Belajar\nsedikit lagi.", "Soalan menjadi penemuan. Terokai unsur dan hubungannya, lalu ikuti rasa ingin tahu anda.", "Seluruh dunia unsur."],
+  "move": ["Pergerakan", "Bergerak\nsedikit lagi.", "Jadikan keinginan mengambil telefon sebagai sebab untuk bergerak. Beberapa senaman boleh mengubah rentak hari anda.", "Langkah kecil anda seterusnya."],
+  "play": ["Detik gembira", "Bermain\nsedikit lagi.", "Masa lapang atau malam bersama rakan. Pilih permainan, ketepikan kerisauan dan nikmati saat ini.", "Sedikit lebih istimewa."],
+  "apps": ["Koleksi", "Cari aplikasi yang sesuai.", "Ikuti rasa ingin tahu anda. Setiap aplikasi mempunyai dunia kecil untuk diterokai.", "Terokai aplikasi"],
+  "studio": ["Idea kecil.\nMakna sebenar.", "Ultimate Digital ialah studio aplikasi bebas. Kami bermula dengan idea mudah: membina sesuatu yang berguna dan menyeronokkan untuk digunakan.", "Daripada persamaan sukar hingga laluan larian seterusnya, kami mengubah rasa ingin tahu menjadi teman digital kecil.", "Studio kecil.\nMinda terbuka."],
+  "principles": ["Tujuan yang jelas", "Idea berguna menjadi teras setiap aplikasi.", "Teliti dalam perincian", "Perkara kecil membentuk pengalaman.", "Ruang untuk penemuan", "Belajar, berkarya, bergerak dan mencuba perkara baharu."],
+  "contact": ["Perkara baik bermula\ndengan sapaan.", "Ada soalan tentang aplikasi atau idea baharu? Kami ingin mendengar daripada anda.", "E-mel studio", "Cari kami di GitHub", "Kembali ke atas", "Sedikit lebih ingin tahu, setiap hari."],
+  "screenshot": ["Tangkapan skrin aplikasi"],
+  "tags": ["Fokus dan pergerakan", "Larian dan penerokaan", "Tumbuhan dan komuniti", "Permainan dan teman", "Alam & permainan", "Belajar dan berlatih", "Kimia", "Fizik", "Biologi", "Geometri", "Algebra", "Geografi"]
+}

@@ -1,0 +1,15 @@
+{
+  "navigation": ["Prejsť na obsah", "Naše aplikácie", "Štúdio", "Napíšte nám", "Jazyk"],
+  "hero": ["Nezávislé štúdio aplikácií", "Malé aplikácie.", "Celý svet", "možností.", "Naučiť sa niečo nové. Nájsť dôvod na pohyb. Chvíľu sa hrať. Tvoríme aplikácie pre drobnosti, ktoré obohacujú život.", "Nájdite svoju ďalšiu aplikáciu", "Malá prehliadka", "Tvoríme so zvedavosťou. Pre váš bežný deň."],
+  "motion": ["Animácie", "Pozastaviť animácie", "Zapnúť animácie", "Animácie sú vypnuté: zariadenie má zapnuté obmedzenie pohybu"],
+  "story": ["Objavte trochu viac\nv každom dni."],
+  "learn": ["Zvedavosť", "Naučte sa\ntrochu viac.", "Z otázky sa stane objav. Skúmajte prvky a ich súvislosti a nechajte sa viesť zvedavosťou.", "Celý svet prvkov."],
+  "move": ["Pohyb", "Hýbte sa\ntrochu viac.", "Premeňte chuť siahnuť po telefóne na dôvod na pohyb. Pár cvikov môže zmeniť rytmus dňa.", "Váš ďalší malý krok."],
+  "play": ["Príjemné chvíle", "Hrajte sa\ntrochu viac.", "Voľná chvíľka alebo večer s priateľmi. Vyberte si hru, odložte starosti a užite si prítomnosť.", "Trochu menej všednosti."],
+  "apps": ["Kolekcia", "Nájdite aplikáciu pre seba.", "Nasledujte zvedavosť. Každá aplikácia má svoj malý svet na objavovanie.", "Preskúmať aplikáciu"],
+  "studio": ["Malé nápady.\nSkutočný zmysel.", "Ultimate Digital je nezávislé štúdio aplikácií. Začíname jednoduchou myšlienkou: vytvoriť niečo užitočné, čo sa príjemne používa.", "Od zložitej rovnice po ďalšiu bežeckú trasu meníme zvedavosť na malých digitálnych spoločníkov.", "Malé štúdio.\nOtvorená myseľ."],
+  "principles": ["Jasný účel", "Užitočný nápad v srdci každej aplikácie.", "Starostlivosť o detaily", "Aj malé veci tvoria celý zážitok.", "Priestor na objavy", "Učiť sa, tvoriť, hýbať sa a skúšať nové veci."],
+  "contact": ["Dobré veci sa začínajú\npozdravom.", "Otázka k aplikácii alebo nový nápad? Radi si prečítame vašu správu.", "Napísať štúdiu", "Nájdete nás na GitHube", "Späť hore", "Každý deň o trochu zvedavejší."],
+  "screenshot": ["Snímka obrazovky aplikácie"],
+  "tags": ["Sústredenie a pohyb", "Beh a objavovanie", "Rastliny a komunita", "Hry a dobrá spoločnosť", "Príroda a hranie", "Učenie a precvičovanie", "Chémia", "Fyzika", "Biológia", "Geometria", "Algebra", "Geografia"]
+}

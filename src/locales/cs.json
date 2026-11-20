@@ -1,0 +1,15 @@
+{
+  "navigation": ["Přejít k obsahu", "Naše aplikace", "Studio", "Napište nám", "Jazyk"],
+  "hero": ["Nezávislé studio aplikací", "Malé aplikace.", "Celý svět", "možností.", "Naučit se něco nového. Najít důvod k pohybu. Chvíli si hrát. Tvoříme aplikace pro drobnosti, které obohacují život.", "Najděte svou další aplikaci", "Malá prohlídka", "Tvoříme se zvídavostí. Pro každý váš den."],
+  "motion": ["Animace", "Pozastavit animace", "Zapnout animace", "Animace jsou vypnuté: zařízení má zapnuté omezení pohybu"],
+  "story": ["Objevte trochu víc\nv každém dni."],
+  "learn": ["Zvídavost", "Naučte se\ntrochu víc.", "Z otázky se stane objev. Prozkoumejte prvky a jejich souvislosti a nechte se vést zvídavostí.", "Celý svět prvků."],
+  "move": ["Pohyb", "Hýbejte se\ntrochu víc.", "Proměňte chuť sáhnout po telefonu v důvod k pohybu. Pár cviků může změnit rytmus dne.", "Váš další malý krok."],
+  "play": ["Příjemné chvíle", "Hrajte si\ntrochu víc.", "Volná chvilka nebo večer s přáteli. Vyberte si hru, odložte starosti a užijte si přítomnost.", "Trochu méně všednosti."],
+  "apps": ["Kolekce", "Najděte aplikaci pro sebe.", "Následujte zvídavost. Každá aplikace má svůj malý svět k objevování.", "Prozkoumat aplikaci"],
+  "studio": ["Malé nápady.\nSkutečný smysl.", "Ultimate Digital je nezávislé studio aplikací. Začínáme jednoduchou myšlenkou: vytvořit něco užitečného, co se příjemně používá.", "Od složité rovnice po další běžeckou trasu měníme zvídavost v malé digitální společníky.", "Malé studio.\nOtevřená mysl."],
+  "principles": ["Jasný účel", "Užitečný nápad v srdci každé aplikace.", "Péče o detaily", "I malé věci tvoří celý zážitek.", "Prostor pro objevy", "Učit se, tvořit, hýbat se a zkoušet nové věci."],
+  "contact": ["Dobré věci začínají\npozdravem.", "Otázka k aplikaci nebo nový nápad? Rádi si přečteme vaši zprávu.", "Napsat studiu", "Najdete nás na GitHubu", "Zpět nahoru", "Každý den o trochu zvídavější."],
+  "screenshot": ["Snímek obrazovky aplikace"],
+  "tags": ["Soustředění a pohyb", "Běh a objevování", "Rostliny a komunita", "Hry a dobrá společnost", "Příroda a hraní", "Učení a procvičování", "Chemie", "Fyzika", "Biologie", "Geometrie", "Algebra", "Zeměpis"]
+}

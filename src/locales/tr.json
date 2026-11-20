@@ -1,0 +1,15 @@
+{
+  "navigation": ["İçeriğe geç", "Uygulamalarımız", "Stüdyo", "İletişim", "Dil"],
+  "hero": ["Bağımsız uygulama stüdyosu", "Küçük uygulamalar.", "Bir dünya", "olasılık.", "Öğrenecek yeni bir şey. Hareket etmek için bir neden. Oyun için bir an. Hayatı zenginleştiren küçük şeyler için uygulamalar yapıyoruz.", "Sıradaki uygulamanı bul", "Küçük bir tur", "Merakla tasarlandı. Günlük yaşamın için."],
+  "motion": ["Animasyonlar", "Animasyonları duraklat", "Animasyonları aç", "Animasyonlar kapalı: cihazında hareketi azaltma etkin"],
+  "story": ["Her günde\nbiraz daha fazlasını keşfet."],
+  "learn": ["Merak", "Biraz daha\nfazla öğren.", "Bir soru keşfe dönüşür. Elementleri ve aralarındaki bağları incele, merakının peşinden git.", "Elementlerden oluşan koca bir dünya."],
+  "move": ["Hareket", "Biraz daha\nfazla hareket et.", "Telefonuna uzanma isteğini hareket etmek için bir nedene dönüştür. Birkaç egzersiz gününün ritmini değiştirebilir.", "Sıradaki küçük adımın."],
+  "play": ["Güzel anlar", "Biraz daha\nfazla oyna.", "Boş bir an ya da arkadaşlarla bir akşam. Bir oyun seç, kaygıları beklet ve anın tadını çıkar.", "Biraz daha az sıradanlık."],
+  "apps": ["Koleksiyon", "Sana uygun uygulamayı bul.", "Merakını takip et. Her uygulamanın keşfedilecek küçük bir dünyası var.", "Uygulamayı keşfet"],
+  "studio": ["Küçük fikirler.\nGerçek anlam.", "Ultimate Digital bağımsız bir uygulama stüdyosudur. Basit bir fikirle başlarız: yararlı ve kullanması keyifli bir şey yapmak.", "Zor bir denklemden sıradaki koşu rotana kadar merakı küçük dijital yol arkadaşlarına dönüştürüyoruz.", "Küçük bir stüdyo.\nAçık bir zihin."],
+  "principles": ["Açık bir amaç", "Her uygulamanın merkezinde yararlı bir fikir.", "Detaylara özen", "Küçük şeyler deneyimin bir parçasıdır.", "Keşfe yer açmak", "Öğrenmek, üretmek, hareket etmek ve yeniyi denemek."],
+  "contact": ["Güzel şeyler\nbir merhabayla başlar.", "Bir uygulamayla ilgili sorun ya da yeni bir fikrin mi var? Senden haber almayı isteriz.", "Stüdyoya e-posta gönder", "Bizi GitHub’da bul", "Başa dön", "Her gün biraz daha merak."],
+  "screenshot": ["Uygulama ekran görüntüsü"],
+  "tags": ["Odaklanma ve hareket", "Koşu ve keşif", "Bitkiler ve topluluk", "Oyunlar ve iyi arkadaşlık", "Doğa ve oyun", "Öğrenme ve alıştırma", "Kimya", "Fizik", "Biyoloji", "Geometri", "Cebir", "Coğrafya"]
+}

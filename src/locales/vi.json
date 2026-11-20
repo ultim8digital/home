@@ -1,0 +1,15 @@
+{
+  "navigation": ["Chuyển đến nội dung", "Ứng dụng của chúng tôi", "Về studio", "Liên hệ", "Ngôn ngữ"],
+  "hero": ["Studio ứng dụng độc lập", "Ứng dụng nhỏ.", "Cả một thế giới", "đầy khả năng.", "Học điều mới. Tìm lý do để vận động. Dành chút thời gian vui chơi. Chúng tôi làm ứng dụng cho những điều nhỏ bé khiến cuộc sống phong phú hơn.", "Tìm ứng dụng tiếp theo", "Tham quan một chút", "Được tạo nên từ sự tò mò. Dành cho mỗi ngày của bạn."],
+  "motion": ["Hiệu ứng chuyển động", "Tạm dừng hiệu ứng", "Bật hiệu ứng", "Hiệu ứng đã tắt: thiết bị của bạn đang bật tính năng giảm chuyển động"],
+  "story": ["Khám phá thêm một chút\ntrong mỗi ngày."],
+  "learn": ["Tò mò", "Học thêm\nmột chút.", "Một câu hỏi trở thành một khám phá. Tìm hiểu các nguyên tố và mối liên hệ giữa chúng, rồi đi theo sự tò mò của bạn.", "Cả một thế giới nguyên tố."],
+  "move": ["Vận động", "Vận động\nthêm một chút.", "Biến ý muốn cầm điện thoại thành lý do để vận động. Một vài bài tập có thể thay đổi nhịp điệu ngày của bạn.", "Bước nhỏ tiếp theo của bạn."],
+  "play": ["Khoảnh khắc vui", "Chơi thêm\nmột chút.", "Một lúc rảnh hay một buổi tối bên bạn bè. Chọn trò chơi, tạm gác lo âu và tận hưởng hiện tại.", "Thêm khác biệt cho ngày thường."],
+  "apps": ["Bộ sưu tập", "Tìm ứng dụng hợp với bạn.", "Đi theo sự tò mò. Mỗi ứng dụng có một thế giới nhỏ để khám phá.", "Khám phá ứng dụng"],
+  "studio": ["Ý tưởng nhỏ.\nÝ nghĩa thật.", "Ultimate Digital là studio ứng dụng độc lập. Chúng tôi bắt đầu từ ý tưởng đơn giản: tạo ra thứ hữu ích và dễ chịu khi sử dụng.", "Từ phương trình khó đến cung đường chạy tiếp theo, chúng tôi biến sự tò mò hằng ngày thành những người bạn đồng hành số nhỏ bé.", "Studio nhỏ.\nTư duy rộng mở."],
+  "principles": ["Mục đích rõ ràng", "Một ý tưởng hữu ích ở trung tâm mỗi ứng dụng.", "Chăm chút chi tiết", "Những điều nhỏ bé góp phần tạo nên trải nghiệm.", "Chỗ cho khám phá", "Học hỏi, sáng tạo, vận động và thử điều mới."],
+  "contact": ["Điều tốt đẹp bắt đầu\nbằng một lời chào.", "Có câu hỏi về ứng dụng hay ý tưởng mới? Chúng tôi rất mong nhận được tin từ bạn.", "Gửi email cho studio", "Tìm chúng tôi trên GitHub", "Về đầu trang", "Mỗi ngày thêm một chút tò mò."],
+  "screenshot": ["Ảnh chụp màn hình ứng dụng"],
+  "tags": ["Tập trung và vận động", "Chạy và khám phá", "Cây xanh và cộng đồng", "Trò chơi và bạn bè", "Thiên nhiên & trò chơi", "Học và luyện tập", "Hóa học", "Vật lý", "Sinh học", "Hình học", "Đại số", "Địa lý"]
+}

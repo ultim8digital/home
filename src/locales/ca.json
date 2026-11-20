@@ -1,0 +1,15 @@
+{
+  "navigation": ["Ves al contingut", "Les nostres apps", "L’estudi", "Contacte", "Idioma"],
+  "hero": ["Estudi independent d’aplicacions", "Petites apps.", "Un món de", "possibilitats.", "Alguna cosa nova per aprendre. Un motiu per moure’s. Una estona per jugar. Creem aplicacions per a les petites coses que enriqueixen la vida.", "Troba la teva pròxima app", "Una petita visita", "Fetes amb curiositat. Pensades per al teu dia a dia."],
+  "motion": ["Animacions", "Posa les animacions en pausa", "Activa les animacions", "Animacions desactivades: el dispositiu té activada la reducció de moviment"],
+  "story": ["Descobreix una mica més\nen cada dia."],
+  "learn": ["Curiositat", "Aprèn\nuna mica més.", "Una pregunta es converteix en una descoberta. Explora els elements i les seves connexions i segueix la curiositat.", "Tot un món d’elements."],
+  "move": ["Moviment", "Mou-te\nuna mica més.", "Converteix les ganes d’agafar el mòbil en un motiu per moure’t. Uns exercicis poden canviar el ritme del dia.", "El teu pròxim petit pas."],
+  "play": ["Bons moments", "Juga\nuna mica més.", "Una estona lliure o una trobada amb amics. Tria un joc, deixa les preocupacions i gaudeix del moment.", "Una mica menys de rutina."],
+  "apps": ["La col·lecció", "Troba la teva app.", "Segueix la curiositat. Cada aplicació té un petit món per explorar.", "Explora l’aplicació"],
+  "studio": ["Petites idees.\nAmb sentit.", "Ultimate Digital és un estudi independent d’aplicacions. Partim d’una idea senzilla: crear alguna cosa útil que sigui un plaer fer servir.", "D’una equació difícil a la teva pròxima ruta per córrer, transformem la curiositat en petits companys digitals.", "Un petit estudi.\nUna ment oberta."],
+  "principles": ["Un propòsit clar", "Una idea útil al centre de cada aplicació.", "Cura dels detalls", "Les petites coses formen part de l’experiència.", "Espai per descobrir", "Aprendre, crear, moure’s i provar coses noves."],
+  "contact": ["Les coses bones\ncomencen amb un hola.", "Una pregunta sobre una app o una idea nova? Ens encantarà rebre el teu missatge.", "Escriu a l’estudi", "Troba’ns a GitHub", "Torna a dalt", "Una mica més de curiositat, cada dia."],
+  "screenshot": ["Captura de pantalla de l’aplicació"],
+  "tags": ["Concentració i moviment", "Córrer i explorar", "Plantes i comunitat", "Jocs i bona companyia", "Natura i joc", "Estudi i pràctica", "Química", "Física", "Biologia", "Geometria", "Àlgebra", "Geografia"]
+}

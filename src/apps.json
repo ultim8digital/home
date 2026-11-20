@@ -1,0 +1,87 @@
+[
+  {
+    "id": "unlocky", "category": "everyday", "color": "#f6eee5",
+    "name": {"en": "Unlocky", "ru": "Unlocky"},
+    "tag": {"en": "Focus & movement", "ru": "Фокус и движение"},
+    "description": {"en": "A little movement. A little screen time. Build a better balance, one exercise at a time.", "ru": "Делайте упражнения, чтобы получить время в любимых приложениях. Маленький шаг к большему балансу."}
+  },
+  {
+    "id": "runbase", "category": "everyday", "color": "#eaf0e8",
+    "name": {"en": "RunBase", "ru": "RunBase"},
+    "tag": {"en": "Running & exploration", "ru": "Бег и открытия"},
+    "description": {"en": "Your neighbourhood is your playground. Run loops, claim territory, and make every route an adventure.", "ru": "Превратите пробежку в приключение: замыкайте маршруты, занимайте территории и исследуйте свой город."}
+  },
+  {
+    "id": "propagate", "category": "everyday", "color": "#f0f2e5",
+    "name": {"en": "Propagate", "ru": "Propagate"},
+    "tag": {"en": "Plants & community", "ru": "Растения и общение"},
+    "description": {"en": "Meet your local plant people. Share a cutting, swap a seedling, and grow something together.", "ru": "Находите любителей растений рядом. Обменивайтесь черенками, семенами и саженцами — и растите вместе."}
+  },
+  {
+    "id": "im-bored", "category": "everyday", "color": "#f5edde",
+    "name": {"en": "I'm Bored", "ru": "I'm Bored"},
+    "tag": {"en": "Games & good company", "ru": "Игры и хорошая компания"},
+    "description": {"en": "Turn a spare moment into a good time. Offline games and fresh ideas, on your own or with friends.", "ru": "Свободная минутка становится интереснее: офлайн-игры и свежие идеи для себя или компании друзей."}
+  },
+  {
+    "id": "heartwood", "category": "everyday", "color": "#f3eee3",
+    "website": "https://ultim8digital-heartwood.web.app/about/",
+    "name": {"en": "Heartwood", "ru": "Heartwood"},
+    "tag": {"en": "Nature & play", "ru": "Природа и игра"},
+    "description": {"en": "A pixel tree, a patch of sky and a world beneath the soil. Grow branch by branch, root by root, through wind, weather and the turning seasons.", "ru": "Пиксельное дерево, кусочек неба и мир под землёй. Растите ветвь за ветвью, корень за корнем — сквозь ветер, непогоду и смену времён года."}
+  },
+  {
+    "id": "anypractice",
+    "category": "learning",
+    "color": "#e2f0e8",
+    "website": "https://ultim8digital.github.io/home/anypractice/",
+    "name": {
+      "en": "AnyPractice",
+      "ru": "AnyPractice"
+    },
+    "tag": {
+      "en": "Study & practice",
+      "ru": "Учёба и практика"
+    },
+    "description": {
+      "en": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace.",
+      "ru": "Превращайте фотографии, PDF и заметки в уроки, карточки и тренировочные тесты. Проверяйте черновики и учитесь в своём темпе."
+    }
+  },
+  {
+    "id": "periodic-table", "category": "learning", "color": "#efebf5",
+    "name": {"en": "Periodic Table", "ru": "Таблица Менделеева"},
+    "tag": {"en": "Chemistry", "ru": "Химия"},
+    "description": {"en": "Meet the elements. Explore their properties and make sense of chemistry, from reactions to calculations.", "ru": "Знакомьтесь с элементами, изучайте их свойства и разбирайтесь в химии — от реакций до расчётов."}
+  },
+  {
+    "id": "physics", "category": "learning", "color": "#eaf0f6",
+    "name": {"en": "Physics Handbook", "ru": "Физика"},
+    "tag": {"en": "Physics", "ru": "Физика"},
+    "description": {"en": "Understand the why behind the formula. Laws, worked examples, and calculators in one handy place.", "ru": "Понимайте, что стоит за формулой. Законы, разобранные примеры и калькуляторы всегда под рукой."}
+  },
+  {
+    "id": "biology", "category": "learning", "color": "#edf1e5",
+    "name": {"en": "Biology Handbook", "ru": "Биология"},
+    "tag": {"en": "Biology", "ru": "Биология"},
+    "description": {"en": "Look a little closer at life. Explore cells, practise genetics, and connect the dots with flashcards.", "ru": "Посмотрите на жизнь внимательнее: клетки, задачи по генетике и карточки для закрепления знаний."}
+  },
+  {
+    "id": "geometry", "category": "learning", "color": "#f7ece5",
+    "name": {"en": "Geometry Handbook", "ru": "Геометрия"},
+    "tag": {"en": "Geometry", "ru": "Геометрия"},
+    "description": {"en": "Think in shapes. Explore constructions, follow proofs, and work through geometry problems.", "ru": "Думайте фигурами. Стройте, исследуйте доказательства и разбирайтесь в геометрических задачах."}
+  },
+  {
+    "id": "algebra", "category": "learning", "color": "#f0f2e2",
+    "name": {"en": "Algebra Handbook", "ru": "Алгебра"},
+    "tag": {"en": "Algebra", "ru": "Алгебра"},
+    "description": {"en": "Give the numbers a little meaning. Explore equations, live graphs, and step-by-step solutions.", "ru": "Находите смысл в числах. Исследуйте уравнения, интерактивные графики и пошаговые решения."}
+  },
+  {
+    "id": "geography", "category": "learning", "color": "#e9f1ec",
+    "name": {"en": "Geography Handbook", "ru": "География"},
+    "tag": {"en": "Geography", "ru": "География"},
+    "description": {"en": "Put your curiosity on the map. Get to know the world through its countries, flags, and capitals.", "ru": "Любопытство ведёт по карте. Узнавайте мир через страны, флаги, столицы и атлас."}
+  }
+]

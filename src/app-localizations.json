@@ -1,0 +1,2502 @@
+{
+  "en": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lock the apps that eat your day. Do a quick set of push-ups, squats or jumping jacks to earn a few minutes back."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Turn your next run into a little conquest. Close a loop, claim the land inside and build your base — one real-world route at a time."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Swap plants, cuttings and seeds with growers in your city. A little less shopping, a little more sharing — and something new to grow."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "More than 60 games for a quiet moment or a room full of friends. Party games, board games, arcade favourites and the idea dice — together, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Get to know all 118 elements. Explore their properties, understand reactions and follow calculations from formula to answer."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "From the first law to the final answer. Formulas, clear explanations and calculators, together in your pocket."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "From a cell to an ecosystem. Clear explanations, genetics practice and flashcards help the whole picture come together."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "A geometry workbench in your pocket. Build constructions, explore shapes and see why a theorem holds."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Follow the steps, move the graph, see the proof. A friendlier way to make sense of school algebra and the beginnings of calculus."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explore the atlas, learn flags and capitals, and turn “somewhere over there” into a place you know."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "A pixel tree, a patch of sky and a world beneath the soil. Grow branch by branch, root by root, through wind, weather and the turning seasons."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+    }
+  },
+  "en-GB": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lock the apps that eat your day. Do a quick set of push-ups, squats or jumping jacks to earn a few minutes back."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Turn your next run into a little conquest. Close a loop, claim the land inside and build your base — one real-world route at a time."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Swap plants, cuttings and seeds with growers in your city. A little less shopping, a little more sharing — and something new to grow."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "More than 60 games for a quiet moment or a room full of friends. Party games, board games, arcade favourites and the idea dice — together, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Get to know all 118 elements. Explore their properties, understand reactions and follow calculations from formula to answer."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "From the first law to the final answer. Formulas, clear explanations and calculators, together in your pocket."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "From a cell to an ecosystem. Clear explanations, genetics practice and flashcards help the whole picture come together."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "A geometry workbench in your pocket. Build constructions, explore shapes and see why a theorem holds."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Follow the steps, move the graph, see the proof. A friendlier way to make sense of school algebra and the beginnings of calculus."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explore the atlas, learn flags and capitals, and turn “somewhere over there” into a place you know."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "A pixel tree, a patch of sky and a world beneath the soil. Grow branch by branch, root by root, through wind, weather and the turning seasons."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+    }
+  },
+  "en-AU": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lock the apps that eat your day. Do a quick set of push-ups, squats or jumping jacks to earn a few minutes back."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Turn your next run into a little conquest. Close a loop, claim the land inside and build your base — one real-world route at a time."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Swap plants, cuttings and seeds with growers in your city. A little less shopping, a little more sharing — and something new to grow."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "More than 60 games for a quiet moment or a room full of friends. Party games, board games, arcade favourites and the idea dice — together, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Get to know all 118 elements. Explore their properties, understand reactions and follow calculations from formula to answer."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "From the first law to the final answer. Formulas, clear explanations and calculators, together in your pocket."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "From a cell to an ecosystem. Clear explanations, genetics practice and flashcards help the whole picture come together."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "A geometry workbench in your pocket. Build constructions, explore shapes and see why a theorem holds."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Follow the steps, move the graph, see the proof. A friendlier way to make sense of school algebra and the beginnings of calculus."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explore the atlas, learn flags and capitals, and turn “somewhere over there” into a place you know."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "A pixel tree, a patch of sky and a world beneath the soil. Grow branch by branch, root by root, through wind, weather and the turning seasons."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+    }
+  },
+  "en-CA": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lock the apps that eat your day. Do a quick set of push-ups, squats or jumping jacks to earn a few minutes back."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Turn your next run into a little conquest. Close a loop, claim the land inside and build your base — one real-world route at a time."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Swap plants, cuttings and seeds with growers in your city. A little less shopping, a little more sharing — and something new to grow."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "More than 60 games for a quiet moment or a room full of friends. Party games, board games, arcade favourites and the idea dice — together, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Get to know all 118 elements. Explore their properties, understand reactions and follow calculations from formula to answer."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "From the first law to the final answer. Formulas, clear explanations and calculators, together in your pocket."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "From a cell to an ecosystem. Clear explanations, genetics practice and flashcards help the whole picture come together."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "A geometry workbench in your pocket. Build constructions, explore shapes and see why a theorem holds."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Follow the steps, move the graph, see the proof. A friendlier way to make sense of school algebra and the beginnings of calculus."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explore the atlas, learn flags and capitals, and turn “somewhere over there” into a place you know."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "A pixel tree, a patch of sky and a world beneath the soil. Grow branch by branch, root by root, through wind, weather and the turning seasons."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Turn your photos, PDFs and notes into lessons, flashcards and practice quizzes. Review drafts and learn at your own pace."
+    }
+  },
+  "ru": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Заблокируйте приложения, которые съедают день. Небольшой подход отжиманий, приседаний или прыжков вернёт несколько минут доступа."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Превратите пробежку в маленькое завоевание. Замкните маршрут, заберите землю внутри и развивайте базу — по одной настоящей пробежке за раз."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Меняйтесь растениями, черенками и семенами с людьми из вашего города. Меньше покупок, больше обмена — и что-то новое на подоконнике."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Больше 60 игр для спокойной паузы или большой компании. Игры для вечеринок, настольные игры, аркады и кубик идей — в одном приложении, без интернета."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Познакомьтесь со всеми 118 элементами. Исследуйте свойства, разбирайтесь в реакциях и следите за вычислениями от формулы до ответа."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "От первого закона до последней единицы в ответе. Формулы, понятные объяснения и калькуляторы — всегда под рукой."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "От клетки до экосистемы. Понятные объяснения, задачи по генетике и карточки помогают собрать целую картину."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Геометрическая мастерская в кармане. Стройте чертежи, исследуйте фигуры и разбирайтесь, почему работает теорема."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Проследите решение, подвигайте график, разберите доказательство. Школьная алгебра и начала анализа становятся нагляднее."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Исследуйте атлас, учите флаги и столицы. Превращайте «где-то там» в место, о котором вы знаете больше."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Пиксельное дерево, кусочек неба и мир под землёй. Растите ветвь за ветвью, корень за корнем — сквозь ветер, непогоду и смену времён года."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Превращайте фотографии, PDF и заметки в уроки, карточки и тренировочные тесты. Проверяйте черновики и учитесь в своём темпе."
+    }
+  },
+  "ar": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "قم بتقييد التطبيقات التي تستهلك وقتك. قم بعمل مجموعة سريعة من تمارين الضغط أو القرفصاء أو القفز للحصول على بضع دقائق إضافية."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "حوّل ركضتك القادمة إلى مغامرة للاستيلاء على الأرض. أغلق حلقة، وامتلك المساحة داخلها، وابنِ قاعدتك — مسارًا حقيقيًا تلو الآخر."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "تبادل النباتات والعُقَل والبذور مع محبي النباتات في مدينتك. تسوّق أقل، وشارك أكثر، وازرع شيئًا جديدًا."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "أكثر من 60 لعبة للحظات الهادئة أو لجلسة تجمع الأصدقاء. ألعاب جماعية ولوحية، وألعاب أركيد محبوبة ونرد الأفكار — كلها معًا، دون إنترنت."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "تعرف على جميع العناصر الـ 118. استكشف خصائصها، وتعرّف على التفاعلات، واتبع العمليات الحسابية من المعادلة إلى الإجابة."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "من القانون الأول إلى الحل النهائي. معادلات، وشروحات واضحة، وآلات حاسبة، كل ذلك في متناول يدك."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "من الخلية إلى النظام البيئي. شروحات واضحة، وتمارين في علم الوراثة، وبطاقات مراجعة تساعدك على ربط المعارف وفهم الصورة الكاملة."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "ورشة هندسة في جيبك. أنشئ الرسومات الهندسية، واستكشف الأشكال، وافهم لماذا تصحّ المبرهنة."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "اتبع الخطوات، وحرك الرسم البياني، وشاهد الإثبات. طريقة أكثر ودية لفهم الجبر المدرسي وبدايات التفاضل والتكامل."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "استكشف الأطلس، وتعلّم الأعلام والعواصم، وحوّل عبارة «مكان ما هناك» إلى مكان تعرفه."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "شجرة من البكسلات، ومساحة من السماء، وعالم تحت التربة. ازرع فرعاً تلو الآخر، وجذراً تلو الآخر، خلال الرياح، والطقس، وفصول السنة المتغيرة."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "حوّل صورك وملفات PDF وملاحظاتك إلى دروس وبطاقات تعليمية واختبارات تدريبية. راجع المسودات وتعلّم بالوتيرة التي تناسبك."
+    }
+  },
+  "bn": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "যে অ্যাপগুলো আপনার অনেকটা সময় নষ্ট করে, সেগুলোকে লক করে দিন। কয়েকটা পুশ-আপ, স্কোয়াট বা জাম্পিং জ্যাক করে কয়েক মিনিট সময় ফিরে পাওয়ার চেষ্টা করুন।"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "পরের দৌড়কে করুন ছোট্ট এক জয়যাত্রা। একটি চক্কর সম্পূর্ণ করুন, ভেতরের জমি দখল করে গড়ুন নিজের ঘাঁটি — বাস্তবের একেকটি পথ ধরে।"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "আপনার শহরের অন্যান্য গাছপালার মালিকদের সাথে গাছ, শাখা এবং বীজ বিনিময় করুন। কেনাকাটার চেয়ে বেশি, জিনিসপত্র ভাগ করে নেওয়াই ভালো—এবং নতুন কিছু ফলানোর সুযোগ রয়েছে।"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "শান্ত এক মুহূর্তে বা বন্ধুতে ভরা ঘরে খেলার জন্য 60টির বেশি গেম। পার্টি গেম, বোর্ড গেম, প্রিয় আর্কেড গেম আর ভাবনার পাশা — সব একসঙ্গে, ইন্টারনেট ছাড়াই।"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "এখানে আপনি 118টি মৌলিক পদার্থ সম্পর্কে জানতে পারবেন। তাদের বৈশিষ্ট্যগুলো দেখুন, বিক্রিয়াগুলো বুঝুন এবং সূত্র থেকে শুরু করে চূড়ান্ত উত্তর পর্যন্ত প্রতিটি হিসাব অনুসরণ করুন।"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "প্রথম সূত্র থেকে শুরু করে চূড়ান্ত উত্তর পর্যন্ত। সূত্র, স্পষ্ট ব্যাখ্যা এবং ক্যালকুলেটর—সবকিছু আপনার হাতের কাছেই।"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "একটি কোষ থেকে শুরু করে একটি বাস্তুতন্ত্র পর্যন্ত। স্পষ্ট ব্যাখ্যা, বংশগতি বিষয়ক অনুশীলন এবং ফ্ল্যাশকার্ড - সবকিছু মিলিয়ে একটি সম্পূর্ণ চিত্র তৈরি হবে।"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "আপনার পকেটে একটি জ্যামিতিক কর্মক্ষেত্র। নির্মাণ তৈরি করুন, আকারগুলি অন্বেষণ করুন এবং দেখুন কেন একটি উপপাদ্য সত্য।"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "ধাপগুলো অনুসরণ করুন, গ্রাফটি সরান এবং প্রমাণটি দেখুন। এটি স্কুলগামী বীজগণিত এবং ক্যালকুলাসের প্রাথমিক ধারণাগুলো বোঝার একটি সহজ উপায়।"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "আটলান্টিস দেখুন, বিভিন্ন দেশের পতাকা ও রাজধানীর বিষয়ে জানুন এবং \"দূরে কোথাও\" -কে একটি পরিচিত স্থানে পরিণত করুন।"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "একটি পিক্সেল গাছ, আকাশের একটি অংশ এবং মাটির নিচে একটি জগৎ। ধীরে ধীরে, প্রতিটি শাখা এবং প্রতিটি মূলের মাধ্যমে, বাতাস, আবহাওয়া এবং ঋতু পরিবর্তনের সাথে সাথে এটি বেড়ে উঠবে।"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "আপনার ছবি, PDF ও নোট থেকে পাঠ, ফ্ল্যাশকার্ড ও অনুশীলনের কুইজ তৈরি করুন। খসড়াগুলো যাচাই করে নিজের গতিতে শিখুন।"
+    }
+  },
+  "ca": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloqueja les aplicacions que et roben el dia. Fes una sèrie curta de flexions, esquats o salts obrint braços i cames per guanyar uns minuts d’accés."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Converteix la pròxima cursa en una petita conquesta. Tanca un circuit, reclama el terreny de dins i construeix la teva base — ruta real rere ruta real."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Intercanvia plantes, esqueixos i llavors amb altres aficionats de la teva ciutat. Menys compres, més intercanvi i alguna cosa nova per cultivar."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Més de 60 jocs per a una estona de calma o una sala plena d'amics. Jocs de festa, de taula, clàssics d'arcade i el dau d'idees — junts, sense connexió."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Construeix una relació amb tots els 118 elements. Explora les seves propietats, entén les reaccions i resol càlculs des de la fórmula fins a la resposta."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Des de la primera llei fins a la solució final. Fórmules, explicacions clares i calculadores, tot plegat al vostre abast."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "De la cèl·lula a l’ecosistema. Explicacions clares, exercicis de genètica i targetes d’estudi perquè tot encaixi."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un espai de treball de geometria al teu abast. Crea construccions, explora formes i observa per què un teorema és cert."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Seguiu els passos, manipuleu el gràfic, observeu la demostració. Una manera més accessible per comprendre l'àlgebra escolar i els primers conceptes del càlcul."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explora l'atlas, aprèn les banderes i les capitals, i transforma \"alguna cosa allà\" en un lloc que coneixes."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un arbre de píxels, un tros de cel i un món sota terra. Fes-lo créixer branca a branca, arrel a arrel, entre el vent, el mal temps i el pas de les estacions."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Transforma les teves fotos, PDF i apunts en lliçons, targetes d'estudi i qüestionaris de pràctica. Revisa els esborranys i aprèn al teu ritme."
+    }
+  },
+  "cs": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Zablokujte aplikace, které vám berou čas. Krátkou sérií kliků, dřepů nebo cviku skákací panák si vyděláte pár minut přístupu."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Proměňte příští běh v malé dobývání. Uzavřete okruh, získejte území uvnitř a budujte základnu — jednu skutečnou trasu za druhou."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Vyměňujte rostliny, řízky a semínka s pěstitele ve vašem městě. Méně nakupování, více sdílení – a něco nového k pěstování."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Více než 60 her pro klidnou chvilku i místnost plnou přátel. Párty hry, deskovky, oblíbené arkády a kostka nápadů — pohromadě, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Seznamte se se všemi 118 prvků. Prozkoumejte jejich vlastnosti, pochopte chemické reakce a sledujte výpočty od vzorce k výsledku."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Od prvního zákona až po konečný výsledek. Vzorce, jasné vysvětlení a kalkulačky – to vše máte po ruce."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Od buňky po ekosystém. Jasná vysvětlení, úlohy z genetiky a studijní kartičky pomáhají propojit znalosti."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Geometrická nástrojovna ve vašem telefonu. Vytvářejte konstrukce, prozkoumávejte tvary a zjistěte, proč platí daná věta."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Postupujte podle kroků, posuňte graf, uvidíte důkaz. Přátelštější způsob, jak pochopit školní algebru a základy matematické analýzy."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Prozkoumejte atlas, naučte se vlajky a hlavní města a přeměňte „někde tam“ na místo, které znáte."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Pixelový strom, kousek oblohy a svět pod zemí. Rostěte větev po větvi, kořen po kořeni, a to i přes vítr, počasí a střídání ročních období."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Proměňte své fotografie, PDF a poznámky v lekce, kartičky a procvičovací kvízy. Zkontrolujte návrhy a učte se vlastním tempem."
+    }
+  },
+  "da": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Begræns de apps, der stjæler din tid. Lav et par push-ups, squats eller jumping jacks for at tjene dig et par minutter tilbage."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Gør din næste løbetur til en lille erobring. Slut en runde, indtag området indenfor, og byg din base — én rute i virkeligheden ad gangen."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Udveksl planter, stiklinger og frø med andre gartnere i din by. Mindre shopping, mere deling – og noget nyt at dyrke."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Mere end 60 spil til en stille stund eller et rum fyldt med venner. Selskabsspil, brætspil, arkadefavoritter og idéterningen — samlet, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Lær alle 118 grundstoffer. Udforsk deres egenskaber, forstå reaktioner og følg beregninger fra formel til svar."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Fra den første lov til det endelige svar. Formler, klare forklaringer og lommeregnere – alt sammen i din lomme."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Fra en enkelt celle til et økosystem. Klare forklaringer, genetikøvelser og flashcards hjælper dig med at få et helhedsindtryk."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Et geometri-værktøj i din lomme. Byg konstruktioner, udforsk former og se, hvorfor et teorem er sandt."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Følg trinene, flyt grafen, se beviset. En mere venlig måde at forstå skolealgebra og begyndelsen på matematik (calculus)."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Udforsk atlasset, lær flag og hovedstæder, og forvandl \"et sted derovre\" til et sted, du kender."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Et pixelt træ, et stykke himmel og en verden under jorden. Dyrk gren for gren, rod for rod, gennem vind, vejr og de skiftende årstider."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Lav dine fotos, PDF-filer og noter om til lektioner, læringskort og øvelsesquizzer. Gennemgå udkastene, og lær i dit eget tempo."
+    }
+  },
+  "de": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Sperren Sie Apps, die Ihre Zeit verschlingen. Machen Sie ein paar Liegestütze, Kniebeugen oder Hampelmänner, um ein paar Minuten zurückzugewinnen."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Mach deinen nächsten Lauf zu einer kleinen Eroberung. Schließe eine Runde, erobere das Land darin und baue deine Basis aus — eine echte Laufstrecke nach der anderen."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Tauschen Sie Pflanzen, Stecklinge und Samen mit anderen Gärtnern in Ihrer Stadt aus. Weniger Einkaufen, mehr Austausch – und etwas Neues zum Anpflanzen."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Über 60 Spiele für einen ruhigen Moment oder einen Raum voller Freunde. Partyspiele, Brettspiele, beliebte Arcade-Spiele und der Ideenwürfel — alles zusammen, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Lernen Sie alle 118 Elemente kennen. Erkunden Sie ihre Eigenschaften, verstehen Sie Reaktionen und verfolgen Sie Berechnungen von der Formel bis zur Lösung."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Vom ersten Gesetz bis zur endgültigen Lösung. Formeln, klare Erklärungen und Rechner – alles zusammen, in Ihrer Tasche."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Von der Zelle bis zum Ökosystem. Klare Erklärungen, Übungen zur Genetik und Karteikarten helfen dabei, das Gesamtbild zu verstehen."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Eine Geometrie-Werkbank in Ihrer Tasche. Erstellen Sie Konstruktionen, erkunden Sie Formen und sehen Sie, warum ein Satz gilt."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Folgen Sie den Schritten, verschieben Sie den Graph, sehen Sie den Beweis. Eine freundlichere Art, Schulalgebra und die Grundlagen der Analysis zu verstehen."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Erkunden Sie den Atlas, lernen Sie Flaggen und Hauptstädte und verwandeln Sie „irgendwo dort“ in einen Ort, den Sie kennen."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Einen Pixelbaum, ein Stück Himmel und eine Welt unter der Erde. Wachsen Sie Zweig für Zweig, Wurzel für Wurzel, durch Wind, Wetter und die wechselnden Jahreszeiten."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Verwandle deine Fotos, PDFs und Notizen in Lektionen, Lernkarten und Übungsquizze. Prüfe die Entwürfe und lerne in deinem eigenen Tempo."
+    }
+  },
+  "el": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Κλειδώστε τις εφαρμογές που σας τρώνε τη μέρα. Κάντε ένα σύντομο σετ από κάμψεις, καθίσματα ή άλματα με άνοιγμα χεριών και ποδιών για να κερδίσετε λίγα λεπτά χρήσης."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Κάνε το επόμενο τρέξιμό σου μια μικρή κατάκτηση. Κλείσε έναν κύκλο, διεκδίκησε την έκταση μέσα του και χτίσε τη βάση σου — μία πραγματική διαδρομή τη φορά."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Ανταλλάξτε φυτά, μοσχεύματα και σπόρους με άλλους που καλλιεργούν στην πόλη σας. Λιγότερες αγορές, περισσότερη ανταλλαγή — και κάτι καινούργιο να καλλιεργήσετε."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Πάνω από 60 παιχνίδια για μια ήσυχη στιγμή ή ένα δωμάτιο γεμάτο φίλους. Παιχνίδια παρέας, επιτραπέζια, αγαπημένα arcade και το ζάρι ιδεών — όλα μαζί, χωρίς σύνδεση."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Γνωρίστε όλα τα 118 στοιχεία. Εξερευνήστε τις ιδιότητές τους, κατανοήστε τις αντιδράσεις και ακολουθήστε τους υπολογισμούς από τον τύπο στην απάντηση."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Από τον πρώτο νόμο μέχρι την τελική απάντηση. Τύποι, σαφείς εξηγήσεις και αριθμομηχανές, όλα μαζί στην τσέπη σας."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Από το κύτταρο μέχρι το οικοσύστημα. Σαφείς εξηγήσεις, ασκήσεις γενετικής και κάρτες μνήμης βοηθούν να σχηματιστεί μια πλήρης εικόνα."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Ένα εργαλείο γεωμετρίας στην τσέπη σας. Δημιουργήστε κατασκευές, εξερευνήστε σχήματα και δείτε γιατί ισχύει ένα θεώρημα."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Ακολουθήστε τα βήματα, μετακινήστε το γράφημα, δείτε την απόδειξη. Ένας πιο φιλικός τρόπος για να κατανοήσετε την άλγεβρα του σχολείου και τις πρώτες έννοιες του λογισμού."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Εξερευνήστε τον άτλαντα, μάθετε σημαίες και πρωτεύουσες και μετατρέψτε το «κάπου εκεί» σε έναν τόπο που γνωρίζετε."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Ένα ψηφιακό δέντρο, ένα κομμάτι ουρανού και ένας κόσμος κάτω από το έδαφος. Αναπτύξτε κλαδί προς κλαδί, ρίζα προς ρίζα, μέσα από τον άνεμο, τις καιρικές συνθήκες και τις εποχές."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Μετέτρεψε τις φωτογραφίες, τα PDF και τις σημειώσεις σου σε μαθήματα, κάρτες μελέτης και κουίζ εξάσκησης. Έλεγξε τα προσχέδια και μάθε με τον δικό σου ρυθμό."
+    }
+  },
+  "es": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloquea las aplicaciones que te consumen el día. Haz una serie breve de flexiones, sentadillas o saltos de tijera para ganar unos minutos de acceso."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Convierte tu próxima carrera en una pequeña conquista. Cierra un circuito, reclama el terreno de dentro y construye tu base — una ruta real a la vez."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Intercambia plantas, esquejes y semillas con otros cultivadores en tu ciudad. Un poco menos de compras, un poco más de intercambio, y algo nuevo para cultivar."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Más de 60 juegos para un rato tranquilo o una sala llena de amigos. Juegos de fiesta, de mesa, clásicos arcade y el dado de ideas — juntos, sin conexión."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Conoce los 118 elementos. Explora sus propiedades, comprende las reacciones y sigue los cálculos, desde la fórmula hasta la respuesta."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Desde la primera ley hasta la respuesta final. Fórmulas, explicaciones claras y calculadoras, todo junto en su bolsillo."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Desde una célula hasta un ecosistema. Explicaciones claras, ejercicios de genética y tarjetas de estudio te ayudarán a comprender el panorama completo."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un taller de geometría en tu bolsillo. Construye figuras, explora formas y comprende por qué se cumple un teorema."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Siga los pasos, mueva el gráfico, vea la demostración. Una forma más amigable para comprender el álgebra escolar y los fundamentos del cálculo."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explora el atlas, aprende las banderas y las capitales, y transforma “algun lugar de ahí” en un lugar que conoces."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un árbol de píxeles, un pedazo de cielo y un mundo bajo la tierra. Crezca rama por rama, raíz por raíz, a través del viento, el clima y las estaciones cambiantes."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Convierte tus fotos, PDF y apuntes en lecciones, tarjetas de estudio y cuestionarios de práctica. Revisa los borradores y aprende a tu ritmo."
+    }
+  },
+  "es-419": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloquea las aplicaciones que te consumen el día. Haz una serie breve de flexiones, sentadillas o saltos de tijera para ganar unos minutos de acceso."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Convierte tu próxima carrera en una pequeña conquista. Cierra un circuito, reclama el terreno de dentro y construye tu base — una ruta real a la vez."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Intercambia plantas, esquejes y semillas con otros cultivadores en tu ciudad. Un poco menos de compras, un poco más de intercambio, y algo nuevo para cultivar."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Más de 60 juegos para un rato tranquilo o una sala llena de amigos. Juegos de fiesta, de mesa, clásicos arcade y el dado de ideas — juntos, sin conexión."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Conoce los 118 elementos. Explora sus propiedades, comprende las reacciones y sigue los cálculos, desde la fórmula hasta la respuesta."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Desde la primera ley hasta la respuesta final. Fórmulas, explicaciones claras y calculadoras, todo junto en su bolsillo."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Desde una célula hasta un ecosistema. Explicaciones claras, ejercicios de genética y tarjetas de estudio te ayudarán a comprender el panorama completo."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un taller de geometría en tu bolsillo. Construye figuras, explora formas y comprende por qué se cumple un teorema."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Siga los pasos, mueva el gráfico, vea la demostración. Una forma más amigable para comprender el álgebra escolar y los fundamentos del cálculo."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explora el atlas, aprende las banderas y las capitales, y transforma “algun lugar de ahí” en un lugar que conoces."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un árbol de píxeles, un pedazo de cielo y un mundo bajo la tierra. Crezca rama por rama, raíz por raíz, a través del viento, el clima y las estaciones cambiantes."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Convierte tus fotos, PDF y notas en lecciones, tarjetas de estudio y cuestionarios de práctica. Revisa los borradores y aprende a tu ritmo."
+    }
+  },
+  "fi": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lukitse sovellukset, jotka vievät päiväsi. Tee lyhyt sarja punnerruksia, kyykkyjä tai haarahyppyjä ja ansaitse muutama minuutti käyttöaikaa."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Tee seuraavasta lenkistäsi pieni valloitusretki. Sulje kierros, valtaa sen sisään jäävä maa ja rakenna tukikohtaasi — yksi oikea reitti kerrallaan."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Vaihda kasveja, pistokkaita ja siemeniä muiden kaupunkisi viljelijöiden kanssa. Vähemmän ostamista, enemmän jakamista – ja jotain uutta kasvatettavaa."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Yli 60 peliä rauhalliseen hetkeen tai huoneelliseen ystäviä. Seurapelejä, lautapelejä, tuttuja arcade-pelejä ja ideanoppa — kaikki yhdessä, ilman nettiä."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Tutustu kaikkiin 118 alkuaineeseen. Tutki niiden ominaisuuksia, ymmärrä reaktioita ja seuraa laskutoimituksia kaavasta vastaukseen."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Ensimmäisestä laista viimeiseen vastaukseen. Kaavoja, selkeitä selityksiä ja laskimia – kaikki yhdessä taskussasi."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Solusta ekosysteemiin. Selkeät selitykset, genetiikan harjoitustehtävät ja muistikortit auttavat kokonaiskuvan muodostumisessa."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Geometrian työasema taskussasi. Rakenna kuvioita, tutki muotoja ja näe, miksi teoreema pätee."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Seuraa vaiheita, siirrä kuvaajaa, näe todistus. Ystävällisempi tapa ymmärtää koulun matematiikkaa ja laskennan perusteita."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Tutki karttaa, opettele lippuja ja pääkaupunkeja, ja muuta \"jossain siellä\" tunnetuksi paikaksi."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Pikselipuu, taivaanpala ja maailma maan alla. Kasvata oksa kerrallaan, juuri kerrallaan, tuulen, sään ja vuodenaikojen läpi."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Muuta kuvasi, PDF-tiedostosi ja muistiinpanosi oppitunneiksi, muistikorteiksi ja harjoitusvisoiksi. Tarkista luonnokset ja opiskele omaan tahtiisi."
+    }
+  },
+  "fr": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloquez les applications qui accaparent votre journée. Une courte série de pompes, de squats ou de jumping jacks vous fait gagner quelques minutes d’accès."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Transformez votre prochaine course en petite conquête. Fermez une boucle, prenez le territoire à l'intérieur et développez votre base — un vrai parcours à la fois."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Échangez des plantes, des boutures et des graines avec d'autres jardiniers dans votre ville. Moins d'achats, plus de partage — et de nouvelles choses à cultiver."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Plus de 60 jeux pour un moment tranquille ou une pièce pleine d'amis. Jeux de soirée, jeux de société, classiques d'arcade et dé à idées — réunis, hors ligne."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Apprenez à connaître les 118 éléments. Explorez leurs propriétés, comprenez les réactions et suivez les calculs, de la formule à la réponse."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "De la première loi à la réponse finale. Formules, explications claires et calculatrices, réunis dans votre poche."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "De la cellule à l’écosystème. Des explications claires, des exercices de génétique et des fiches de révision pour relier les connaissances."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un outil de géométrie à portée de main. Créez des constructions, explorez des formes et comprenez pourquoi un théorème est vrai."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Suivez les étapes, manipulez le graphique, visualisez la démonstration. Une approche plus conviviale pour comprendre l'algèbre scolaire et les bases du calcul différentiel."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explorez l'atlas, apprenez les drapeaux et les capitales, et transformez « quelque part là-bas » en un endroit que vous connaissez."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un arbre en pixels, un coin de ciel et un monde sous la terre. Faites grandir branche par branche, racine par racine, à travers le vent, les intempéries et les saisons."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Transformez vos photos, PDF et notes en leçons, cartes de révision et quiz d'entraînement. Vérifiez les brouillons et apprenez à votre rythme."
+    }
+  },
+  "fr-CA": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloquez les applications qui accaparent votre journée. Une courte série de pompes, de squats ou de jumping jacks vous fait gagner quelques minutes d’accès."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Transformez votre prochaine course en petite conquête. Fermez une boucle, prenez le territoire à l'intérieur et développez votre base — un vrai parcours à la fois."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Échangez des plantes, des boutures et des graines avec d'autres jardiniers dans votre ville. Moins d'achats, plus de partage — et de nouvelles choses à cultiver."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Plus de 60 jeux pour un moment tranquille ou une pièce pleine d'amis. Jeux de soirée, jeux de société, classiques d'arcade et dé à idées — réunis, hors ligne."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Apprenez à connaître les 118 éléments. Explorez leurs propriétés, comprenez les réactions et suivez les calculs, de la formule à la réponse."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "De la première loi à la réponse finale. Formules, explications claires et calculatrices, réunis dans votre poche."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "De la cellule à l’écosystème. Des explications claires, des exercices de génétique et des fiches de révision pour relier les connaissances."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un outil de géométrie à portée de main. Créez des constructions, explorez des formes et comprenez pourquoi un théorème est vrai."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Suivez les étapes, manipulez le graphique, visualisez la démonstration. Une approche plus conviviale pour comprendre l'algèbre scolaire et les bases du calcul différentiel."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explorez l'atlas, apprenez les drapeaux et les capitales, et transformez « quelque part là-bas » en un endroit que vous connaissez."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un arbre en pixels, un coin de ciel et un monde sous la terre. Faites grandir branche par branche, racine par racine, à travers le vent, les intempéries et les saisons."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Transformez vos photos, PDF et notes en leçons, cartes de révision et questionnaires de pratique. Vérifiez les brouillons et apprenez à votre rythme."
+    }
+  },
+  "gu": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "તમારો સમય લઈ લેતી ઍપ્સને લૉક કરો. પુશ-અપ્સ, સ્ક્વૉટ્સ અથવા જમ્પિંગ જૅક્સનો ટૂંકો સેટ કરીને થોડી મિનિટોનો વપરાશ સમય મેળવો."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "તમારી આગલી દોડને નાનકડા વિજયમાં ફેરવો. ચક્કર પૂરું કરો, અંદરની જમીન કબજે કરો અને તમારો બેઝ બનાવો — એક પછી એક વાસ્તવિક રસ્તે."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "તમારા શહેરના અન્ય લોકો સાથે છોડ, કટિંગ અને બીજની આપ-લે કરો. ઓછી ખરીદી અને વધુ વહેંચણી - અને ઉગાડવા માટે કંઈક નવું."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "શાંત પળ માટે કે મિત્રોથી ભરેલા રૂમ માટે 60થી વધુ રમતો. પાર્ટી રમતો, બોર્ડ રમતો, મનપસંદ આર્કેડ રમતો અને વિચારોનો પાસો — બધું એકસાથે, ઇન્ટરનેટ વિના."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "118 તત્વોને જાણો. તેમના ગુણધર્મોનું અન્વેષણ કરો, પ્રતિક્રિયાઓને સમજો અને સૂત્રથી લઈને પરિણામ સુધીની ગણતરીઓ અનુસરો."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "પ્રથમ નિયમથી અંતિમ જવાબ સુધી. ફોર્મ્યુલા, સ્પષ્ટ સમજૂતીઓ અને કેલ્ક્યુલેટર - આ બધું તમારા ખિસ્સામાં."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "એક કોષથી લઈને ઇકોસિસ્ટમ સુધી. સ્પષ્ટ સમજૂતીઓ, જનીનવિજ્ઞાનની પ્રેક્ટિસ અને ફ્લેશકાર્ડ્સ તમને સંપૂર્ણ ચિત્રને એકસાથે સમજવામાં મદદ કરે છે."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "તમારા ખિસ્સામાં ભૂમિતિનું વર્કબેન્ચ. આકારો બનાવો, આકારોનું અન્વેષણ કરો અને જુઓ કે કોઈ સિદ્ધાંત કેવી રીતે સાચો છે."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "પગલાં અનુસરો, ગ્રાફને ખસેડો અને સાબિત જુઓ. આલ્જેબ્રા અને કલનશાસ્ત્રની શરૂઆતને સમજવાનો આ એક સરળ રસ્તો છે."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "એટલાસ (atlas) જુઓ, ધ્વજ અને રાજધાનીઓ વિશે જાણો અને \"ક્યાંક દૂર\" ને એક એવી જગ્યા તરીકે ઓળખો જે તમે જાણો છો."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "એક પિક્સેલ વૃક્ષ, આકાશનો એક ભાગ અને જમીનની અંદરની દુનિયા. એક ડાળ પછી એક ડાળ, એક મૂળ પછી એક મૂળ, પવન, વાતાવરણ અને બદલાતા ઋતુઓ સાથે આગળ વધો."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "તમારા ફોટા, PDF અને નોંધોમાંથી પાઠ, ફ્લૅશકાર્ડ અને અભ્યાસ માટેની ક્વિઝ બનાવો. તૈયાર થયેલા ડ્રાફ્ટ તપાસો અને તમારી પોતાની ગતિએ શીખો."
+    }
+  },
+  "he": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "חסמו את האפליקציות שגוזלות לכם את היום. בצעו סט קצר של שכיבות סמיכה, סקוואטים או קפיצות כוכב כדי להרוויח כמה דקות שימוש."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "הפכו את הריצה הבאה לכיבוש קטן. סגרו מעגל, כבשו את השטח שבתוכו ובנו את הבסיס שלכם — מסלול אמיתי אחד בכל פעם."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "החליפו צמחים, ייחורים וזרעים עם מגדלים בעיר שלכם. קצת פחות קניות, קצת יותר שיתוף — וגם משהו חדש לגדל."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "יותר מ־60 משחקים לרגע שקט או לחדר מלא חברים. משחקי חברה, משחקי לוח, משחקי ארקייד אהובים וקוביית הרעיונות — יחד, בלי אינטרנט."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "הכירו את כל 118 היסודות. בדקו את תכונותיהם, הבינו תגובות ועקבו אחר חישובים, מהנוסחה ועד לתשובה."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "מהחוק הראשון ועד לתשובה הסופית. נוסחאות, הסברים ברורים ומחשבונים — הכול בכיס שלכם."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "מתא בודד ועד מערכת אקולוגית. הסברים ברורים, תרגול בגנטיקה וכרטיסיות עזר עוזרים להשלים את התמונה."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "סביבת עבודה גיאומטרית בכיס שלך. בנה מבנים, חקור צורות וראה מדוע משפט מסוים נכון."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "עקבו אחר השלבים, הזיזו את הגרף, ראו את ההוכחה. דרך ידידותית יותר להבנת אלגברה בבית הספר ותחילת החשבון הדיפרנציאלי והאינטגרלי."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "בדקו את האטלס, למדו דגלים ובירות, והפכו את \"איפשהו שם\" למקום שאתם מכירים."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "עץ פיקסלים, פיסת שמיים ועולם מתחת לאדמה. גדל ענף אחר ענף, שורש אחר שורש, דרך רוח, מזג אוויר ושינויי העונות."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "הפכו תמונות, קובצי PDF והערות לשיעורים, כרטיסיות לימוד וחידוני תרגול. בדקו את הטיוטות ולמדו בקצב שלכם."
+    }
+  },
+  "hi": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "उन ऐप्स को ब्लॉक करें जो आपका बहुत सारा समय बर्बाद करते हैं। कुछ पुश-अप, स्क्वैट्स या जंपिंग जैक्स करें ताकि आप कुछ मिनट वापस पा सकें।"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "अपनी अगली दौड़ को छोटी-सी जीत में बदलें। चक्कर पूरा करें, उसके अंदर की ज़मीन पर कब्ज़ा करें और अपना बेस बनाएँ — असली दुनिया के एक-एक रास्ते पर।"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "अपने शहर के अन्य पौधों के उगाने वालों के साथ पौधे, कटिंग और बीज बदलें। कम खरीदारी, ज़्यादा साझाकरण - और कुछ नया उगाने के लिए।"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "सुकून के पल हों या दोस्तों से भरा कमरा — 60 से ज़्यादा गेम तैयार हैं। पार्टी गेम, बोर्ड गेम, पसंदीदा आर्केड गेम और सुझावों का पासा — सब एक साथ, ऑफ़लाइन।"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "सभी 118 तत्वों को जानें। उनके गुणों का पता लगाएं, प्रतिक्रियाओं को समझें और सूत्र से उत्तर तक की गणनाओं का पालन करें।"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "पहले नियम से लेकर अंतिम उत्तर तक। सूत्र, स्पष्ट स्पष्टीकरण और कैलकुलेटर, ये सभी आपके पास मौजूद होंगे।"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "एक कोशिका से लेकर एक पारिस्थितिकी तंत्र तक। स्पष्ट स्पष्टीकरण, आनुवंशिकी अभ्यास और फ्लैशकार्ड आपको पूरी तस्वीर को समझने में मदद करते हैं।"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "आपके पास एक ज्यामितीय उपकरण है। आकृतियाँ बनाएं, आकृतियों का पता लगाएं और देखें कि एक प्रमेय क्यों सत्य है।"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "चरणों का पालन करें, ग्राफ को स्थानांतरित करें, प्रमाण देखें। यह स्कूल के बीजगणित और कैलकुलस की शुरुआत को समझने का एक आसान तरीका है।"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "विश्व मानचित्र का पता लगाएं, झंडों और राजधानियों के बारे में जानें, और \"वहां कहीं\" को एक ऐसी जगह बनाएं जिसे आप जानते हैं।"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "एक पिक्सेल ट्री, आकाश का एक हिस्सा और मिट्टी के नीचे की दुनिया। शाखा-दर-शाखा, जड़-दर-जड़, हवा, मौसम और बदलते मौसमों के माध्यम से बढ़ें।"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "अपनी तस्वीरों, PDF और नोट्स से पाठ, फ़्लैशकार्ड और अभ्यास क्विज़ बनाएं। मसौदों की जाँच करें और अपनी गति से सीखें।"
+    }
+  },
+  "hr": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Zaključajte aplikacije koje vam oduzimaju vrijeme. Napravite kratku seriju sklekova, čučnjeva ili skokova s odručenjem i raznoženjem za nekoliko minuta pristupa."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Pretvorite sljedeće trčanje u malo osvajanje. Zatvorite krug, osvojite zemljište unutar njega i izgradite bazu — jednu stvarnu rutu za drugom."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Mijenjajte biljke, reznice i sjemenke s uzgajivačima u vašem gradu. Manje kupovine, više dijeljenja – i nešto novo za uzgoj."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Više od 60 igara za miran trenutak ili sobu punu prijatelja. Igre za zabave, igre na ploči, omiljene arkadne igre i kocka ideja — zajedno, bez interneta."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Saznajte sve o svih 118 elemenata. Istražite njihova svojstva, razumite reakcije i pratite izračune od formule do odgovora."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Od prvog pravila do konačnog odgovora. Formule, jasna objašnjenja i kalkulatori, sve to u vašem džepu."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Od stanice do ekosustava. Jasna objašnjenja, vježbe iz genetike i kartice za učenje pomažu povezati znanje u cjelinu."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Radni stol za geometriju u vašem džepu. Izgradite konstrukcije, istražujte oblike i vidite zašto vrijedi određeni teorem."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Slijedite korake, pomaknite graf, vidite dokaz. Jednostavniji način da razumijete školsku algebru i osnove računa."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Istražite atlas, učite zastave i glavne gradove, i pretvorite \"negdje tamo\" u mjesto koje poznajete."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Stablo od piksela, komadić neba i svijet ispod zemlje. Raste granu po granu, korijen po korijen, kroz vjetrove, vremenske uvjete i promjene godišnjih doba."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Pretvorite fotografije, PDF-ove i bilješke u lekcije, kartice za učenje i kvizove za vježbu. Provjerite nacrte i učite vlastitim tempom."
+    }
+  },
+  "hu": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Zárolja a napját felemésztő alkalmazásokat. Egy rövid sorozat fekvőtámasszal, guggolással vagy terpeszugrással néhány perc hozzáférést szerezhet."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Legyen a következő futásod egy kis hódítás. Zárj be egy kört, foglald el a belsejében lévő területet, és építsd a bázisodat — valódi útvonalról útvonalra."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Cserélj növényeket, dugványokat és magokat a városodban élő növénytermesztőkkel. Kevesebb vásárlás, több megosztás – és valami új, aminek a termesztésébe belevághatsz."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Több mint 60 játék egy nyugodt percre vagy egy szobányi barátnak. Társasági játékok, táblás játékok, kedvelt ügyességi játékok és az ötletkocka — együtt, internet nélkül."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Ismerd meg mind a 118 elemet. Fedezd fel a tulajdonságaikat, értsd meg a reakciókat, és kövesd a számításokat a képlettől az eredményig."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Az első egyenlettől a végső megoldásig. Képletek, egyértelmű magyarázatok és számológépek – mindezt a zsebében."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "A sejttől az ökoszisztémáig. Érthető magyarázatok, genetikai feladatok és tanulókártyák segítenek összekapcsolni az ismereteket."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Egy geometriai eszköztár a zsebedben. Építs konstrukciókat, fedezd fel alakokat és nézd meg, miért igaz egy tétel."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Kövesd a lépéseket, mozgasd a grafikont, nézd meg a bizonyítást. Érthetőbb út az iskolai algebra és az analízis alapjaihoz."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Fedd fel az atlaszt, tanulj meg zászlókat és fővárosokat, és változtasd a \"valahol ott\" kifejezést egy olyan helyre, amit ismersz."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Egy pixelfa, egy darab ég és egy világ a talaj alatt. Neveld ágról ágra, gyökérről gyökérre, szélben, változó időjárásban és évszakokban."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Alakítsd fotóidat, PDF-jeidet és jegyzeteidet leckékké, tanulókártyákká és gyakorló kvízekké. Ellenőrizd a vázlatokat, és tanulj a saját tempódban."
+    }
+  },
+  "id": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Kunci aplikasi yang menyita waktu Anda. Lakukan satu set singkat push-up, squat, atau jumping jack untuk mendapatkan beberapa menit akses."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Ubah lari berikutnya jadi penaklukan kecil. Tutup putaran, kuasai tanah di dalamnya, dan bangun markasmu — satu rute nyata setiap kali."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Tukarkan tanaman, stek, dan biji dengan petani di kota Anda. Kurangi belanja, lebih banyak berbagi — dan ada sesuatu yang baru untuk ditanam."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Lebih dari 60 permainan untuk waktu tenang atau ruangan penuh teman. Permainan pesta, papan, arkade favorit, dan dadu ide — jadi satu, tanpa internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Kenali semua 118 unsur. Jelajahi sifat-sifatnya, pahami reaksinya, dan ikuti perhitungan dari rumus hingga jawaban."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Mulai dari hukum pertama hingga jawaban akhir. Rumus, penjelasan yang jelas, dan kalkulator, semuanya ada di saku Anda."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Dari sel hingga ekosistem. Penjelasan yang jelas, latihan genetika, dan kartu belajar membantu Anda melihat gambaran utuh."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Sebuah alat bantu geometri di saku Anda. Bangun konstruksi, jelajahi bentuk, dan lihat mengapa sebuah teorema berlaku."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Ikuti langkah-langkahnya, gerakkan grafik, lihat buktinya. Cara yang lebih mudah untuk memahami aljabar sekolah dan pengantar kalkulus."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Jelajahi atlas, pelajari bendera dan ibu kota, dan ubah \"di sana\" menjadi tempat yang Anda kenal."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Sebuah pohon pixel, sepetak langit, dan dunia di bawah tanah. Tumbuhkan cabang demi cabang, akar demi akar, melalui angin, cuaca, dan pergantian musim."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Ubah foto, PDF, dan catatanmu menjadi pelajaran, kartu belajar, dan kuis latihan. Tinjau drafnya dan belajar sesuai kecepatanmu sendiri."
+    }
+  },
+  "it": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Blocca le app che ti rubano la giornata. Una breve serie di piegamenti, squat o jumping jack ti fa guadagnare qualche minuto di accesso."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Trasforma la prossima corsa in una piccola conquista. Chiudi un percorso ad anello, conquista il terreno al suo interno e costruisci la tua base — un itinerario reale alla volta."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Scambia piante, talee e semi con altri appassionati della tua città. Meno acquisti, più condivisione e qualcosa di nuovo da coltivare."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Oltre 60 giochi per un momento tranquillo o una stanza piena di amici. Giochi di gruppo, da tavolo, classici arcade e il dado delle idee — insieme, offline."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Scopri tutti i 118 elementi. Esplora le loro proprietà, comprendi le reazioni e segui i calcoli dalla formula al risultato."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Dalla prima legge al risultato finale. Formule, spiegazioni chiare e calcolatrici, insieme nella tua tasca."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Dalla cellula all’ecosistema. Spiegazioni chiare, esercizi di genetica e schede di ripasso ti aiutano a collegare le idee."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un laboratorio di geometria in tasca. Crea costruzioni, esplora le figure e scopri perché un teorema è vero."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Segui i passaggi, muovi il grafico, scopri la dimostrazione. Un modo più semplice per capire l’algebra scolastica e le basi dell’analisi matematica."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Esplora l’atlante, impara bandiere e capitali e trasforma un generico «da qualche parte» in un luogo che conosci."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un albero di pixel, un angolo di cielo e un mondo sotto terra. Cresci ramo dopo ramo, radice dopo radice, tra vento, intemperie e stagioni che cambiano."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Trasforma foto, PDF e appunti in lezioni, schede di ripasso e quiz di esercitazione. Controlla le bozze e impara al tuo ritmo."
+    }
+  },
+  "ja": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "時間を使いすぎてしまうアプリをロック。腕立て伏せ、スクワット、ジャンピングジャックを短く行い、数分の利用時間を獲得しましょう。"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "次のランニングを、小さな陣取りに。ひと回りしてルートを閉じ、内側の土地を獲得して拠点を育てよう。実際の道を走るたびに、少しずつ。"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "同じ街の植物好きと、植物、挿し穂、種を交換。買うよりも分け合って、新しい植物を育てましょう。"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "ひとりで過ごす静かな時間にも、友だちが集まる部屋にも。60種類以上のパーティーゲーム、ボードゲーム、おなじみのアーケードゲーム、アイデアサイコロを、まとめてオフラインで。"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "118の元素すべてを知ろう。性質を調べ、反応を理解し、公式から答えまで計算の流れを追えます。"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "最初の法則から最後の答えまで。公式、わかりやすい解説、計算ツールをまとめてポケットに。"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "細胞から生態系まで。わかりやすい解説、遺伝学の演習、暗記カードで知識をつなげましょう。"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "ポケットに入る幾何学の作業台。作図し、図形を調べ、定理が成り立つ理由を確かめましょう。"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "解法をたどり、グラフを動かし、証明を確かめる。学校の代数学から微積分の基礎まで、理解を助けます。"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "地図帳を開き、国旗や首都を学んで、「どこか遠くの場所」を知っている場所に変えましょう。"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ピクセルの木、小さな空、土の下の世界。風や天候、移りゆく季節の中で、枝を伸ばし、根を張って育てましょう。"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "写真、PDF、ノートからレッスン、暗記カード、練習クイズを作成。下書きを確認しながら、自分のペースで学べます。"
+    }
+  },
+  "kn": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "ನಿಮ್ಮ ಸಮಯವನ್ನು ಕಸಿಯುವ ಆ್ಯಪ್‌ಗಳನ್ನು ಲಾಕ್ ಮಾಡಿ. ಪುಶ್-ಅಪ್‌ಗಳು, ಸ್ಕ್ವಾಟ್‌ಗಳು ಅಥವಾ ಜಂಪಿಂಗ್ ಜ್ಯಾಕ್‌ಗಳ ಸಣ್ಣ ಸೆಟ್ ಮಾಡಿ ಕೆಲವು ನಿಮಿಷಗಳ ಬಳಕೆಯ ಸಮಯವನ್ನು ಗಳಿಸಿ."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "ನಿಮ್ಮ ಮುಂದಿನ ಓಟವನ್ನು ಚಿಕ್ಕ ಗೆಲುವಾಗಿ ಮಾಡಿ. ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ, ಒಳಗಿನ ನೆಲವನ್ನು ವಶಪಡಿಸಿಕೊಂಡು ನಿಮ್ಮ ನೆಲೆಯನ್ನು ಬೆಳೆಸಿ — ನೈಜ ಜಗತ್ತಿನ ಒಂದೊಂದು ಮಾರ್ಗದಲ್ಲಿ."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "ನಿಮ್ಮ ನಗರದ ಇತರ ಗಿಡ ಬೆಳೆಸುವವರೊಂದಿಗೆ ಗಿಡಗಳು, ಕಸಿಗಳು ಮತ್ತು ಬೀಜಗಳನ್ನು ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳಿ. ಸ್ವಲ್ಪ ಕಡಿಮೆ ಖರೀದಿ ಮಾಡಿ, ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಹಂಚಿಕೊಳ್ಳಿ - ಮತ್ತು ಹೊಸದನ್ನು ಬೆಳೆಯಿರಿ."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "ನೆಮ್ಮದಿಯ ಕ್ಷಣಕ್ಕಾಗಲಿ, ಸ್ನೇಹಿತರಿಂದ ತುಂಬಿದ ಕೋಣೆಗಾಗಲಿ 60ಕ್ಕೂ ಹೆಚ್ಚು ಆಟಗಳು. ಪಾರ್ಟಿ ಆಟಗಳು, ಬೋರ್ಡ್ ಆಟಗಳು, ನೆಚ್ಚಿನ ಆರ್ಕೇಡ್ ಆಟಗಳು ಮತ್ತು ಐಡಿಯಾ ದಾಳ — ಎಲ್ಲವೂ ಒಟ್ಟಿಗೆ, ಇಂಟರ್ನೆಟ್ ಇಲ್ಲದೆ."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "ಎಲ್ಲಾ 118 ಅಂಶಗಳ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ. ಅವುಗಳ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಅನ್ವೇಷಿಸಿ, ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ ಮತ್ತು ಸೂತ್ರದಿಂದ ಉತ್ತರವನ್ನು ಪಡೆಯಲು ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ಅನುಸರಿಸಿ."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "ಮೊದಲ ನಿಯಮದಿಂದ ಅಂತಿಮ ಉತ್ತರದವರೆಗೆ. ಸೂತ್ರಗಳು, ಸ್ಪಷ್ಟ ವಿವರಣೆಗಳು ಮತ್ತು ಕ್ಯಾಲ್ಕುಲೇಟರ್‌ಗಳು, ಎಲ್ಲವೂ ನಿಮ್ಮ ಜೇಬಿನಲ್ಲಿ."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "ಒಂದು ಜೀವಕೋಶದಿಂದ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯವರೆಗೆ. ಸ್ಪಷ್ಟ ವಿವರಣೆಗಳು, ತಳಿಶಾಸ್ತ್ರದ ಅಭ್ಯಾಸ ಮತ್ತು ಅಧ್ಯಯನ ಕಾರ್ಡ್‌ಗಳು ವಿಷಯಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ನೆರವಾಗುತ್ತವೆ."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "ನಿಮ್ಮ ಜೇಬಿನಲ್ಲಿ ಒಂದು ಜ್ಯಾಮಿತಿ ಕಾರ್ಯಾಗಾರ. ರಚನೆಗಳನ್ನು ನಿರ್ಮಿಸಿ, ಆಕಾರಗಳನ್ನು ಅನ್ವೇಷಿಸಿ ಮತ್ತು ಒಂದು ಪ್ರಮೇಯ ಏಕೆ ನಿಜವಾಗಿದೆ ಎಂಬುದನ್ನು ನೋಡಿ."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "ಹಂತಗಳನ್ನು ಅನುಸರಿಸಿ, ಗ್ರಾಫ್ ಅನ್ನು ಸರಿಸಿ, ಪುರಾವೆಯನ್ನು ನೋಡಿ. ಶಾಲಾ ಬೀಜಗಣಿತ ಮತ್ತು ಕ್ಯಾಲ್ಕುಲಸ್‌ನ ಮೂಲಭೂತ ಅಂಶಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಇದು ಒಂದು ಸುಲಭ ಮಾರ್ಗ."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "ಅಟ್ಲಾಸ್ ಅನ್ನು ಅನ್ವೇಷಿಸಿ, ಧ್ವಜಗಳು ಮತ್ತು ರಾಜಧಾನಿಗಳನ್ನು ಕಲಿಯಿರಿ ಮತ್ತು \"ಅಲ್ಲಿ ಎಲ್ಲಿಗೋ\" ಅನ್ನು ನೀವು ತಿಳಿದಿರುವ ಸ್ಥಳವಾಗಿ ಪರಿವರ್ತಿಸಿ."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ಒಂದು ಪಿಕ್ಸೆಲ್ ಮರ, ಆಕಾಶದ ಒಂದು ಭಾಗ ಮತ್ತು ಮಣ್ಣಿನ ಕೆಳಗಿನ ಒಂದು ಜಗತ್ತು. ಶಾಖೆಗಳ ಮೂಲಕ, ಬೇರುಗಳ ಮೂಲಕ, ಗಾಳಿಯ ಮೂಲಕ, ಹವಾಮಾನದ ಮೂಲಕ ಮತ್ತು ಕಾಲಾವಧಿಯ ಬದಲಾವಳಿಯ ಮೂಲಕ ಬೆಳೆಯಿರಿ."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "ನಿಮ್ಮ ಫೋಟೋಗಳು, PDF ಮತ್ತು ಟಿಪ್ಪಣಿಗಳಿಂದ ಪಾಠಗಳು, ಫ್ಲ್ಯಾಶ್‌ಕಾರ್ಡ್‌ಗಳು ಮತ್ತು ಅಭ್ಯಾಸ ರಸಪ್ರಶ್ನೆಗಳನ್ನು ರಚಿಸಿ. ಕರಡುಗಳನ್ನು ಪರಿಶೀಲಿಸಿ, ನಿಮ್ಮದೇ ವೇಗದಲ್ಲಿ ಕಲಿಯಿರಿ."
+    }
+  },
+  "ko": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "하루를 빼앗는 앱을 잠그세요. 팔굽혀펴기, 스쿼트, 점핑잭을 짧게 하고 몇 분의 사용 시간을 얻을 수 있습니다."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "다음 달리기를 작은 정복으로 바꿔 보세요. 한 바퀴 돌아 경로를 닫고, 안쪽의 땅을 차지해 기지를 키워요. 실제 길을 하나씩 달리면서요."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "같은 도시의 식물 애호가들과 식물, 삽수, 씨앗을 교환하세요. 구매는 줄이고 나눔은 늘려, 새로운 식물을 길러보세요."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "조용히 쉬는 시간에도, 친구들로 가득한 자리에도 어울리는 60가지 이상의 게임. 파티 게임, 보드게임, 인기 아케이드 게임과 아이디어 주사위를 한곳에서, 인터넷 없이 즐겨요."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "118개 원소를 모두 만나보세요. 원소의 성질과 반응을 알아보고, 공식에서 답까지 계산 과정을 따라갈 수 있습니다."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "첫 번째 법칙부터 마지막 답까지. 공식, 이해하기 쉬운 설명, 계산 도구를 주머니 속에 모았습니다."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "세포부터 생태계까지. 명확한 설명, 유전학 연습, 학습 카드로 지식을 연결해 보세요."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "주머니 속 기하학 작업실. 직접 작도하고, 도형을 탐구하며, 정리가 성립하는 이유를 알아보세요."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "풀이 과정을 따라가고, 그래프를 움직이고, 증명을 살펴보세요. 학교 대수학부터 미적분의 기초까지 더 쉽게 이해할 수 있습니다."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "지도를 탐색하고 국기와 수도를 익히세요. 막연히 멀게만 느껴지던 곳이 아는 장소로 바뀝니다."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "픽셀 나무와 작은 하늘, 땅속 세상. 바람과 날씨, 바뀌는 계절 속에서 가지 하나, 뿌리 하나씩 나무를 키우세요."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "사진, PDF, 노트로 수업, 암기 카드, 연습 퀴즈를 만들어 보세요. 초안을 검토하고 자신의 속도에 맞춰 학습하세요."
+    }
+  },
+  "ml": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "നിങ്ങളുടെ സമയം നഷ്ടമാക്കുന്ന ആപ്ലിക്കേഷനുകൾ ലോക്ക് ചെയ്യുക. കുറച്ച് പുഷ്-അപ്പുകൾ, സ്ക്വാട്ടുകൾ അല്ലെങ്കിൽ ജമ്പിംഗ് ജാക്കുകൾ ചെയ്ത് കുറച്ച് സമയം തിരികെ നേടുക."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "അടുത്ത ഓട്ടം ചെറിയൊരു വിജയയാത്രയാക്കൂ. ഒരു വട്ടം പൂർത്തിയാക്കി അതിനുള്ളിലെ സ്ഥലം സ്വന്തമാക്കൂ, നിങ്ങളുടെ താവളം വളർത്തൂ — യഥാർഥ ലോകത്തിലെ ഓരോ വഴിയിലൂടെയും."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "നിങ്ങളുടെ നഗരത്തിലെ മറ്റ് ആളുകളുമായി ചെടികൾ, കമ്പുകൾ, വിത്തുകൾ എന്നിവ കൈമാറ്റം ചെയ്യുക. കുറച്ച് കുറഞ്ഞ രീതിയിൽ സാധനങ്ങൾ വാങ്ങുകയും കൂടുതൽ പങ്കുവെക്കുകയും ചെയ്യുക - അതുവഴി പുതിയ എന്തെങ്കിലും വളർത്താൻ സാധിക്കും."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "ശാന്തമായ ഒരു നേരത്തിനോ കൂട്ടുകാർ നിറഞ്ഞ മുറിക്കോ വേണ്ടി 60-ലധികം ഗെയിമുകൾ. പാർട്ടി ഗെയിമുകൾ, ബോർഡ് ഗെയിമുകൾ, പ്രിയപ്പെട്ട ആർക്കേഡ് ഗെയിമുകൾ, ആശയങ്ങളുടെ പകിട — എല്ലാം ഒന്നിച്ച്, ഇന്റർനെറ്റ് ഇല്ലാതെ."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "118 മൂലകങ്ങളെക്കുറിച്ചും അവയുടെ ഗുണങ്ങളെക്കുറിച്ചും പഠിക്കുക. പ്രതിപ്രവർത്തനങ്ങൾ മനസ്സിലാക്കുകയും, സൂത്രവാക്യത്തിൽ നിന്ന് ഉത്തരം കണ്ടെത്താനുള്ള കണക്കുകൂട്ടലുകൾ പിന്തുടരുകയും ചെയ്യുക."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "ആദ്യനിയമത്തിൽ നിന്ന് അവസാന ഉത്തരത്തിലേക്ക്. സൂത്രവാക്യങ്ങൾ, വ്യക്തമായ വിശദീകരണങ്ങൾ, കാൽക്കുലേറ്ററുകൾ എന്നിവയെല്ലാം നിങ്ങളുടെ പോക്കറ്റിൽ ഒത്തുചേരുന്നു."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "കോശം മുതൽ ആവാസവ്യവസ്ഥ വരെ. വ്യക്തമായ വിശദീകരണങ്ങളും ജനിതകശാസ്ത്ര പരിശീലനവും പഠന കാർഡുകളും അറിവുകൾ തമ്മിൽ ബന്ധിപ്പിക്കാൻ സഹായിക്കുന്നു."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "നിങ്ങളുടെ പോക്കറ്റിൽ ഒതുങ്ങുന്ന ഒരു ജ്യാമിതി വർക്ക്ബെഞ്ച്. രൂപങ്ങൾ നിർമ്മിക്കുക, ആകൃതികൾ പര്യവേക്ഷണം ചെയ്യുക, ഒരു സിദ്ധാന്തം എങ്ങനെ സാധ്യമാകുന്നു എന്ന് കാണുക."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "ഘട്ടങ്ങൾ പിന്തുടരുക, ഗ്രാഫ് മാറ്റുക, തെളിവ് കാണുക. സ്കൂൾ ആൽജബ്രയും കാൽക്കുലസിന്റെ തുടക്കവും മനസ്സിലാക്കാൻ ഇത് ഒരു നല്ല മാർഗ്ഗമാണ്."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "ഭൂപടം ഉപയോഗിച്ച് ലോകം പര്യവേക്ഷണം ചെയ്യുക, രാജ്യങ്ങളുടെ കൊടികൾ, തലസ്ഥാന നഗരങ്ങൾ എന്നിവ പഠിക്കുക, \"അവിടെയെവിടെയോ\" എന്ന സ്ഥലം നിങ്ങൾക്ക് അറിയാവുന്ന ഒരിടമാക്കി മാറ്റുക."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ഒരു പിക്സൽ മരം, ഒരു തുണ്ട് ആകാശം, മണ്ണിനടിയിലെ ഒരു ലോകം. കാറ്റിനും കാലാവസ്ഥയ്ക്കും മാറുന്ന ഋതുക്കൾക്കുമൊപ്പം ഓരോ ശാഖയും ഓരോ വേരും വളർത്തുക."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "നിങ്ങളുടെ ഫോട്ടോകൾ, PDF-കൾ, കുറിപ്പുകൾ എന്നിവയിൽ നിന്ന് പാഠങ്ങൾ, ഫ്ലാഷ്‌കാർഡുകൾ, പരിശീലന ക്വിസുകൾ എന്നിവ തയ്യാറാക്കൂ. കരടുകൾ പരിശോധിച്ച് നിങ്ങളുടെ വേഗത്തിൽ പഠിക്കൂ."
+    }
+  },
+  "mr": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "ज्या ॲप्समुळे तुमचा वेळ वाया जातो, ते लॉक करा. काही मिनिटे परत मिळवण्यासाठी, पुश-अप्स, स्क्वॅट्स किंवा जंपिंग जॅक्स करा."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "पुढच्या धावण्याला छोट्या विजयाचे रूप द्या. फेरी पूर्ण करा, आतील जमीन ताब्यात घ्या आणि आपला तळ उभारा — प्रत्यक्ष जगातील एकेक मार्ग धावत."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "तुमच्या शहरातील इतर रोपवाटिका मालकांशी रोपे, फांद्या आणि बियाणे बदला. कमी खरेदी आणि जास्त वाटाघाटी—आणि वाढवण्यासाठी काहीतरी नवीन."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "निवांत क्षणासाठी किंवा मित्रांनी भरलेल्या खोलीसाठी 60हून अधिक खेळ. पार्टी खेळ, पटावरील खेळ, आवडते आर्केड खेळ आणि कल्पनांचा फासा — सगळे एकत्र, ऑफलाइन."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "सर्व 118 घटकांची माहिती मिळवा. त्यांच्या गुणधर्मांचा अभ्यास करा, रासायनिक क्रिया समजून घ्या आणि फॉर्म्युलापासून उत्तरापर्यंतची गणना करा."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "पहिल्या नियमापासून ते अंतिम उत्तरापर्यंत. सूत्रे, स्पष्ट स्पष्टीकरणे आणि कॅल्क्युलेटर—सर्व काही तुमच्या खिशात."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "एका पेशीपासून ते परिसंस्थेपर्यंत. स्पष्ट स्पष्टीकरण, आनुवंशिकीचा सराव आणि 'फ्लॅशकार्ड्स' (flashcards) यांच्या मदतीने संपूर्ण चित्र स्पष्ट होते."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "तुमच्या खिशात भूमितीचे केंद्र! आकार तयार करा, आकृत्या एक्सप्लोर करा आणि एक प्रमेय का सत्य आहे ते पहा."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "पायऱ्यांचे अनुसरण करा, आलेख हलवा आणि सत्यता तपासा. हे शालेय बीजगणित आणि कॅल्क्युलसच्या सुरुवातीच्या टप्प्यांचा अर्थ लावण्याचा एक सोपा मार्ग आहे."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "नकाशा (atlas) एक्सप्लोर करा, ध्वज आणि राजधान्या जाणून घ्या आणि 'दूर कुठेतरी' असलेल्या ठिकाणांना ओळखा."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "एक पिक्सेल ट्री, आकाशाचा एक भाग आणि जमिनीतील एक जग. फांदी फांदी आणि मूळ मूळ वाढवा, वारा, हवामान आणि बदलत्या ऋतूंच्या माध्यमातून."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "तुमचे फोटो, PDF आणि नोट्स यांपासून धडे, फ्लॅशकार्ड आणि सराव प्रश्नमंजुषा तयार करा. मसुदे तपासा आणि तुमच्या गतीने शिका."
+    }
+  },
+  "ms": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Kunci aplikasi yang mengambil masa anda. Lakukan satu set ringkas tekan tubi, squat atau lompat bintang untuk memperoleh beberapa minit penggunaan."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Jadikan larian seterusnya satu penaklukan kecil. Lengkapkan laluan gelung, tuntut tanah di dalamnya dan bina pangkalan anda — satu laluan di dunia sebenar pada satu masa."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Tukar tumbuhan, keratan dan benih dengan peminat tanaman di bandar anda. Kurangkan membeli, lebihkan berkongsi dan tanam sesuatu yang baharu."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Lebih daripada 60 permainan untuk saat bersantai sendiri atau bersama ramai kawan. Permainan parti, permainan papan, arked kegemaran dan dadu idea — semuanya bersama, tanpa internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Kenali kesemua 118 unsur. Terokai sifatnya, fahami tindak balas dan ikuti pengiraan daripada formula hingga jawapan."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Daripada hukum pertama hingga jawapan akhir. Formula, penerangan jelas dan kalkulator, semuanya dalam poket anda."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Daripada sel hingga ekosistem. Penerangan jelas, latihan genetik dan kad imbas membantu anda menghubungkan pengetahuan."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Ruang kerja geometri dalam poket anda. Bina rajah, terokai bentuk dan fahami sebab sesuatu teorem benar."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Ikuti langkah penyelesaian, gerakkan graf dan fahami pembuktian. Cara yang lebih mudah untuk memahami algebra sekolah dan asas kalkulus."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Terokai atlas, pelajari bendera dan ibu negara, dan kenali tempat yang sebelum ini hanya anda anggap jauh di sana."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Sebatang pokok piksel, sedikit ruang langit dan dunia di bawah tanah. Tumbuh dahan demi dahan, akar demi akar, melalui angin, cuaca dan perubahan musim."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Jadikan foto, PDF dan nota anda sebagai pelajaran, kad imbas dan kuiz latihan. Semak draf dan belajar mengikut rentak anda sendiri."
+    }
+  },
+  "nb": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lås appene som tar over dagen din. Ta et kort sett med armhevinger, knebøy eller spensthopp for å tjene noen minutters tilgang."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Gjør neste løpetur til en liten erobring. Lukk en sløyfe, gjør krav på området innenfor og bygg basen din — én virkelig rute om gangen."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Bytt planter, stiklinger og frø med andre dyrkere i byen din. Litt mindre shopping, litt mer deling og noe nytt å dyrke."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Over 60 spill for en rolig stund eller et rom fullt av venner. Selskapsspill, brettspill, arkadefavoritter og idéterningen — samlet, uten nett."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Bli kjent med alle de 118 grunnstoffene. Utforsk egenskaper, forstå reaksjoner og følg beregningene fra formel til svar."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Fra den første loven til det siste svaret. Formler, tydelige forklaringer og kalkulatorer, samlet i lomma."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Fra celle til økosystem. Tydelige forklaringer, genetikkoppgaver og huskekort hjelper deg å se sammenhengene."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Et geometriverksted i lomma. Lag konstruksjoner, utforsk figurer og se hvorfor et teorem stemmer."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Følg trinnene, flytt på grafen og se beviset. En enklere vei til å forstå skolealgebra og grunnleggende matematisk analyse."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Utforsk atlaset, lær flagg og hovedsteder, og gjør «et sted der borte» til et sted du kjenner."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Et pikseltre, en liten bit av himmelen og en verden under jorda. La det vokse gren for gren, rot for rot, gjennom vind, vær og skiftende årstider."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Gjør bilder, PDF-er og notater om til leksjoner, læringskort og øvingsquizer. Se gjennom utkastene og lær i ditt eget tempo."
+    }
+  },
+  "nl": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Vergrendel de apps die je dag opslokken. Doe een korte serie push-ups, squats of jumping jacks om een paar minuten toegang te verdienen."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Maak van je volgende hardloopronde een kleine verovering. Sluit een lus, claim het gebied erin en bouw je basis — één echte route tegelijk."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Ruil planten, stekjes en zaden met andere kwekers in je stad. Iets minder kopen, iets meer delen en iets nieuws om te laten groeien."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Meer dan 60 spellen voor een rustig moment of een kamer vol vrienden. Partyspellen, bordspellen, arcadefavorieten en de ideeëndobbelsteen — samen, zonder internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Maak kennis met alle 118 elementen. Onderzoek hun eigenschappen, begrijp reacties en volg berekeningen van formule tot antwoord."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Van de eerste wet tot het uiteindelijke antwoord. Formules, heldere uitleg en rekenhulpen, samen in je broekzak."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Van cel tot ecosysteem. Heldere uitleg, geneticaoefeningen en leerkaartjes helpen je de samenhang te zien."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Een meetkundewerkplaats in je broekzak. Maak constructies, verken vormen en ontdek waarom een stelling klopt."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Volg de stappen, beweeg de grafiek en bekijk het bewijs. Een toegankelijke manier om schoolalgebra en de basis van differentiaal- en integraalrekening te begrijpen."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Verken de atlas, leer vlaggen en hoofdsteden en maak van «ergens daar» een plek die je kent."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Een pixelboom, een stukje lucht en een wereld onder de grond. Laat hem tak voor tak en wortel voor wortel groeien, door wind, weer en wisselende seizoenen."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Maak van je foto's, pdf's en notities lessen, leerkaartjes en oefenquizzen. Controleer de concepten en leer in je eigen tempo."
+    }
+  },
+  "or": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "ଆପଣଙ୍କ ଦିନର ସମୟ ନେଉଥିବା ଆପ୍‌ଗୁଡ଼ିକୁ ଲକ୍ କରନ୍ତୁ। ପୁଶ୍-ଅପ୍, ସ୍କ୍ୱାଟ୍ କିମ୍ବା ଜମ୍ପିଂ ଜ୍ୟାକ୍‌ର ଏକ ଛୋଟ ସେଟ୍ କରି କିଛି ମିନିଟ୍ ବ୍ୟବହାର ସମୟ ପାଆନ୍ତୁ।"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "ପରବର୍ତ୍ତୀ ଦୌଡ଼କୁ ଏକ ଛୋଟ ବିଜୟରେ ବଦଳାନ୍ତୁ। ପଥକୁ ଚକ୍ର ଆକାରରେ ପୂରା କରନ୍ତୁ, ଭିତରର ଜମି ଦଖଲ କରନ୍ତୁ ଓ ନିଜ ଘାଟି ଗଢ଼ନ୍ତୁ — ବାସ୍ତବ ଦୁନିଆରେ ଗୋଟିଏ ପଥ ପରେ ଅନ୍ୟଟି।"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "ନିଜ ସହରର ଗଛପ୍ରେମୀଙ୍କ ସହିତ ଗଛ, କଲମ ଓ ମଞ୍ଜି ବଦଳାନ୍ତୁ। କମ୍ କିଣାକିଣି, ଅଧିକ ଭାଗବଣ୍ଟା ଏବଂ ବଢ଼ାଇବା ପାଇଁ କିଛି ନୂଆ।"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "ଶାନ୍ତ ସମୟ ପାଇଁ ହେଉ କି ସାଙ୍ଗମାନଙ୍କ ମେଳରେ, 60ରୁ ଅଧିକ ଖେଳ। ପାର୍ଟି ଖେଳ, ବୋର୍ଡ ଖେଳ, ପସନ୍ଦର ଆର୍କେଡ୍ ଖେଳ ଓ ଭାବନାର ପାଶା — ସବୁ ଏକାଠି, ଇଣ୍ଟରନେଟ୍ ବିନା।"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "ସମସ୍ତ 118ଟି ମୌଳିକ ପଦାର୍ଥକୁ ଜାଣନ୍ତୁ। ସେମାନଙ୍କର ଗୁଣ ଦେଖନ୍ତୁ, ପ୍ରତିକ୍ରିୟା ବୁଝନ୍ତୁ ଏବଂ ସୂତ୍ରରୁ ଉତ୍ତର ପର୍ଯ୍ୟନ୍ତ ଗଣନା ଅନୁସରଣ କରନ୍ତୁ।"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "ପ୍ରଥମ ନିୟମରୁ ଶେଷ ଉତ୍ତର ପର୍ଯ୍ୟନ୍ତ। ସୂତ୍ର, ସ୍ପଷ୍ଟ ବ୍ୟାଖ୍ୟା ଏବଂ ଗଣନା ସାଧନ—ସବୁ ଆପଣଙ୍କ ପକେଟରେ।"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "କୋଷରୁ ପରିବେଶତନ୍ତ୍ର ପର୍ଯ୍ୟନ୍ତ। ସ୍ପଷ୍ଟ ବ୍ୟାଖ୍ୟା, ବଂଶାନୁକ୍ରମିକ ବିଜ୍ଞାନର ଅଭ୍ୟାସ ଓ ପାଠ କାର୍ଡ ଜ୍ଞାନକୁ ଯୋଡ଼ିବାରେ ସାହାଯ୍ୟ କରେ।"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "ଆପଣଙ୍କ ପକେଟରେ ଜ୍ୟାମିତିର କର୍ମଶାଳା। ଚିତ୍ର ନିର୍ମାଣ କରନ୍ତୁ, ଆକୃତି ଅନୁସନ୍ଧାନ କରନ୍ତୁ ଏବଂ ଉପପାଦ୍ୟ କାହିଁକି ସତ୍ୟ ତାହା ବୁଝନ୍ତୁ।"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "ସମାଧାନର ପଦକ୍ଷେପ ଦେଖନ୍ତୁ, ଗ୍ରାଫ୍ ବଦଳାନ୍ତୁ ଏବଂ ପ୍ରମାଣ ବୁଝନ୍ତୁ। ସ୍କୁଲ୍ ବୀଜଗଣିତ ଓ କଳନର ମୂଳ ଧାରଣା ବୁଝିବାର ଏକ ସହଜ ଉପାୟ।"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "ମାନଚିତ୍ର ଦେଖନ୍ତୁ, ପତାକା ଓ ରାଜଧାନୀ ଶିଖନ୍ତୁ ଏବଂ ଅଜଣା ସ୍ଥାନକୁ ଏକ ପରିଚିତ ଜାଗାରେ ପରିଣତ କରନ୍ତୁ।"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ପିକ୍ସେଲର ଗଛ, ଟିକିଏ ଆକାଶ ଓ ମାଟି ତଳର ଜଗତ। ପବନ, ପାଗ ଓ ଋତୁ ପରିବର୍ତ୍ତନ ମଧ୍ୟରେ ଡାଳ ପରେ ଡାଳ, ଚେର ପରେ ଚେର ବଢ଼ାନ୍ତୁ।"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "ଆପଣଙ୍କ ଫଟୋ, PDF ଓ ନୋଟ୍‌ରୁ ପାଠ, ଫ୍ଲାଶ୍‌କାର୍ଡ ଓ ଅଭ୍ୟାସ କୁଇଜ୍ ତିଆରି କରନ୍ତୁ। ଖସଡ଼ାଗୁଡ଼ିକ ଯାଞ୍ଚ କରି ନିଜ ଗତିରେ ଶିଖନ୍ତୁ।"
+    }
+  },
+  "pa": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "ਉਹ ਐਪਾਂ ਲਾਕ ਕਰੋ ਜੋ ਤੁਹਾਡਾ ਦਿਨ ਖਾ ਜਾਂਦੀਆਂ ਹਨ। ਪੁਸ਼-ਅੱਪ, ਸਕੁਐਟ ਜਾਂ ਜੰਪਿੰਗ ਜੈਕ ਦਾ ਛੋਟਾ ਸੈੱਟ ਕਰਕੇ ਵਰਤੋਂ ਦੇ ਕੁਝ ਮਿੰਟ ਕਮਾਓ।"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "ਆਪਣੀ ਅਗਲੀ ਦੌੜ ਨੂੰ ਛੋਟੀ ਜਿਹੀ ਜਿੱਤ ਬਣਾਓ। ਇੱਕ ਚੱਕਰ ਪੂਰਾ ਕਰੋ, ਅੰਦਰਲੀ ਜ਼ਮੀਨ ਉੱਤੇ ਕਬਜ਼ਾ ਕਰੋ ਅਤੇ ਆਪਣਾ ਅੱਡਾ ਬਣਾਓ — ਅਸਲ ਦੁਨੀਆ ਦੇ ਇੱਕ-ਇੱਕ ਰਸਤੇ ਨਾਲ।"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "ਆਪਣੇ ਸ਼ਹਿਰ ਦੇ ਪੌਦੇ ਉਗਾਉਣ ਵਾਲਿਆਂ ਨਾਲ ਪੌਦੇ, ਕਲਮਾਂ ਅਤੇ ਬੀਜ ਵਟਾਓ। ਘੱਟ ਖਰੀਦਦਾਰੀ, ਵੱਧ ਸਾਂਝ ਅਤੇ ਉਗਾਉਣ ਲਈ ਕੁਝ ਨਵਾਂ।"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "ਇਕੱਲੇ ਸ਼ਾਂਤ ਪਲਾਂ ਲਈ ਜਾਂ ਦੋਸਤਾਂ ਨਾਲ ਭਰੇ ਕਮਰੇ ਲਈ 60 ਤੋਂ ਵੱਧ ਖੇਡਾਂ। ਪਾਰਟੀ ਖੇਡਾਂ, ਬੋਰਡ ਖੇਡਾਂ, ਮਨਪਸੰਦ ਆਰਕੇਡ ਖੇਡਾਂ ਅਤੇ ਵਿਚਾਰਾਂ ਵਾਲਾ ਪਾਸਾ — ਸਭ ਇਕੱਠੇ, ਇੰਟਰਨੈੱਟ ਤੋਂ ਬਿਨਾਂ।"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "ਸਾਰੇ 118 ਤੱਤਾਂ ਬਾਰੇ ਜਾਣੋ। ਉਨ੍ਹਾਂ ਦੇ ਗੁਣ ਵੇਖੋ, ਪ੍ਰਤੀਕਿਰਿਆਵਾਂ ਸਮਝੋ ਅਤੇ ਫਾਰਮੂਲੇ ਤੋਂ ਜਵਾਬ ਤੱਕ ਗਣਨਾ ਦੇ ਕਦਮ ਵੇਖੋ।"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "ਪਹਿਲੇ ਨਿਯਮ ਤੋਂ ਅੰਤਿਮ ਜਵਾਬ ਤੱਕ। ਫਾਰਮੂਲੇ, ਸਪਸ਼ਟ ਵਿਆਖਿਆਵਾਂ ਅਤੇ ਕੈਲਕੁਲੇਟਰ—ਸਭ ਤੁਹਾਡੀ ਜੇਬ ਵਿੱਚ।"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "ਕੋਸ਼ਿਕਾ ਤੋਂ ਪਰਿਸਥਿਤਕੀ ਤੰਤਰ ਤੱਕ। ਸਪਸ਼ਟ ਵਿਆਖਿਆਵਾਂ, ਜੈਨੇਟਿਕਸ ਦੇ ਅਭਿਆਸ ਅਤੇ ਅਧਿਐਨ ਕਾਰਡ ਗਿਆਨ ਨੂੰ ਜੋੜਨ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ।"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "ਤੁਹਾਡੀ ਜੇਬ ਵਿੱਚ ਰੇਖਾਗਣਿਤ ਦੀ ਵਰਕਸ਼ਾਪ। ਰਚਨਾਵਾਂ ਬਣਾਓ, ਆਕਾਰਾਂ ਦੀ ਪੜਚੋਲ ਕਰੋ ਅਤੇ ਸਮਝੋ ਕਿ ਕੋਈ ਪ੍ਰਮੇਯ ਸਹੀ ਕਿਉਂ ਹੈ।"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "ਹੱਲ ਦੇ ਕਦਮ ਵੇਖੋ, ਗ੍ਰਾਫ ਹਿਲਾਓ ਅਤੇ ਸਬੂਤ ਸਮਝੋ। ਸਕੂਲੀ ਬੀਜਗਣਿਤ ਅਤੇ ਕਲਨ ਦੀਆਂ ਬੁਨਿਆਦੀ ਧਾਰਨਾਵਾਂ ਨੂੰ ਸਮਝਣ ਦਾ ਸੌਖਾ ਢੰਗ।"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "ਐਟਲਸ ਦੀ ਪੜਚੋਲ ਕਰੋ, ਝੰਡੇ ਅਤੇ ਰਾਜਧਾਨੀਆਂ ਸਿੱਖੋ ਅਤੇ ਅਣਜਾਣ ਥਾਂ ਨੂੰ ਇੱਕ ਜਾਣੀ-ਪਛਾਣੀ ਜਗ੍ਹਾ ਬਣਾਓ।"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ਪਿਕਸਲਾਂ ਦਾ ਰੁੱਖ, ਅਸਮਾਨ ਦਾ ਟੁਕੜਾ ਅਤੇ ਮਿੱਟੀ ਹੇਠਾਂ ਦੀ ਦੁਨੀਆ। ਹਵਾ, ਮੌਸਮ ਅਤੇ ਬਦਲਦੀਆਂ ਰੁੱਤਾਂ ਵਿੱਚ ਟਾਹਣੀ-ਟਾਹਣੀ, ਜੜ੍ਹ-ਜੜ੍ਹ ਕਰਕੇ ਵਧੋ।"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "ਆਪਣੀਆਂ ਫ਼ੋਟੋਆਂ, PDF ਅਤੇ ਨੋਟਸ ਤੋਂ ਪਾਠ, ਫਲੈਸ਼ਕਾਰਡ ਅਤੇ ਅਭਿਆਸ ਕਵਿਜ਼ ਬਣਾਓ। ਖਰੜਿਆਂ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਆਪਣੀ ਰਫ਼ਤਾਰ ਨਾਲ ਸਿੱਖੋ।"
+    }
+  },
+  "pl": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Zablokuj aplikacje, które pochłaniają Twój dzień. Krótka seria pompek, przysiadów lub pajacyków pozwoli zdobyć kilka minut dostępu."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Zmień kolejny bieg w mały podbój. Zamknij pętlę, zajmij teren w środku i zbuduj swoją bazę — jedną prawdziwą trasę po drugiej."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Wymieniaj rośliny, sadzonki i nasiona z innymi miłośnikami roślin w swoim mieście. Mniej zakupów, więcej dzielenia się i coś nowego do uprawy."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Ponad 60 gier na spokojną chwilę lub spotkanie z całą paczką znajomych. Gry imprezowe, planszówki, ulubione gry zręcznościowe i kostka pomysłów — razem, bez internetu."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Poznaj wszystkie 118 pierwiastków. Badaj ich właściwości, zrozum reakcje i prześledź obliczenia od wzoru do wyniku."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Od pierwszego prawa do końcowej odpowiedzi. Wzory, jasne wyjaśnienia i kalkulatory — razem w Twojej kieszeni."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Od komórki do ekosystemu. Jasne wyjaśnienia, zadania z genetyki i fiszki pomagają połączyć wiedzę w całość."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Pracownia geometrii w kieszeni. Twórz konstrukcje, badaj figury i odkrywaj, dlaczego twierdzenie jest prawdziwe."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Prześledź rozwiązanie, poruszaj wykresem, poznaj dowód. Przystępny sposób na zrozumienie szkolnej algebry i podstaw analizy matematycznej."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Odkrywaj atlas, poznawaj flagi i stolice, a «gdzieś tam» zamień w miejsce, które znasz."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Pikselowe drzewo, skrawek nieba i świat pod ziemią. Rozwijaj je gałąź po gałęzi, korzeń po korzeniu, wśród wiatru, niepogody i zmieniających się pór roku."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Zamień zdjęcia, pliki PDF i notatki w lekcje, fiszki i quizy do ćwiczeń. Sprawdź wersje robocze i ucz się we własnym tempie."
+    }
+  },
+  "pt-BR": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloqueie os apps que consomem seu dia. Faça uma série rápida de flexões, agachamentos ou polichinelos para ganhar alguns minutos de acesso."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Transforme sua próxima corrida em uma pequena conquista. Feche um circuito, conquiste o terreno dentro dele e construa sua base — uma rota no mundo real de cada vez."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Troque plantas, mudas e sementes com outros cultivadores da sua cidade. Menos compras, mais compartilhamento e algo novo para cultivar."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Mais de 60 jogos para um momento tranquilo ou uma sala cheia de amigos. Jogos de festa, de tabuleiro, clássicos de fliperama e o dado de ideias — tudo junto, sem internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Conheça todos os 118 elementos. Explore suas propriedades, entenda as reações e acompanhe os cálculos da fórmula à resposta."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Da primeira lei à resposta final. Fórmulas, explicações claras e calculadoras, juntas no seu bolso."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Da célula ao ecossistema. Explicações claras, exercícios de genética e cartões de estudo ajudam a conectar o conhecimento."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Uma oficina de geometria no seu bolso. Faça construções, explore formas e descubra por que um teorema é verdadeiro."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Acompanhe os passos, mova o gráfico e entenda a demonstração. Um jeito mais acessível de aprender álgebra escolar e os fundamentos do cálculo."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explore o atlas, aprenda bandeiras e capitais e transforme «algum lugar por aí» em um lugar que você conhece."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Uma árvore de pixels, um pedaço de céu e um mundo sob o solo. Cresça galho por galho, raiz por raiz, entre o vento, o clima e a mudança das estações."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Transforme suas fotos, PDFs e anotações em aulas, cartões de estudo e testes de prática. Revise os rascunhos e aprenda no seu ritmo."
+    }
+  },
+  "pt-PT": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Bloqueie as aplicações que lhe consomem o dia. Faça uma série curta de flexões, agachamentos ou saltos com abertura de braços e pernas para ganhar alguns minutos de acesso."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Transforme a próxima corrida numa pequena conquista. Feche um circuito, conquiste o terreno lá dentro e construa a sua base — um percurso no mundo real de cada vez."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Troque plantas, estacas e sementes com outros cultivadores da sua cidade. Menos compras, mais partilha e algo novo para cultivar."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Mais de 60 jogos para um momento tranquilo ou uma sala cheia de amigos. Jogos de grupo, de tabuleiro, favoritos de arcada e o dado de ideias — tudo junto, sem internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Conheça todos os 118 elementos. Explore as suas propriedades, compreenda as reações e siga os cálculos da fórmula à resposta."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Da primeira lei à resposta final. Fórmulas, explicações claras e calculadoras, juntas no seu bolso."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Da célula ao ecossistema. Explicações claras, exercícios de genética e cartões de estudo ajudam a relacionar os conhecimentos."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Uma oficina de geometria no seu bolso. Faça construções, explore figuras e descubra por que razão um teorema é verdadeiro."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Siga os passos, mova o gráfico e compreenda a demonstração. Uma forma mais acessível de aprender álgebra escolar e as bases do cálculo."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explore o atlas, aprenda bandeiras e capitais e transforme «algures por ali» num lugar que conhece."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Uma árvore de píxeis, um pedaço de céu e um mundo debaixo da terra. Cresça ramo a ramo, raiz a raiz, através do vento, do tempo e da mudança das estações."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Transforme as suas fotografias, PDF e apontamentos em lições, cartões de estudo e testes de prática. Reveja os rascunhos e aprenda ao seu ritmo."
+    }
+  },
+  "ro": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Blochează aplicațiile care îți consumă ziua. Fă o serie scurtă de flotări, genuflexiuni sau sărituri cu depărtarea brațelor și picioarelor pentru câteva minute de acces."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Transformă următoarea alergare într-o mică cucerire. Închide un circuit, revendică terenul din interior și construiește-ți baza — câte un traseu real pe rând."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Schimbă plante, butași și semințe cu alți cultivatori din orașul tău. Mai puține cumpărături, mai multă împărtășire și ceva nou de cultivat."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Peste 60 de jocuri pentru o clipă de liniște sau o cameră plină de prieteni. Jocuri de petrecere, jocuri de masă, favorite arcade și zarul cu idei — toate împreună, fără internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Descoperă toate cele 118 elemente. Explorează proprietățile lor, înțelege reacțiile și urmărește calculele de la formulă la răspuns."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "De la prima lege la răspunsul final. Formule, explicații clare și calculatoare, împreună în buzunarul tău."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "De la celulă la ecosistem. Explicațiile clare, exercițiile de genetică și fișele de studiu te ajută să vezi legăturile."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Un atelier de geometrie în buzunar. Realizează construcții, explorează forme și descoperă de ce o teoremă este adevărată."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Urmărește pașii, mișcă graficul și înțelege demonstrația. Un mod mai accesibil de a înțelege algebra școlară și bazele analizei matematice."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Explorează atlasul, învață steaguri și capitale și transformă un vag «undeva pe acolo» într-un loc pe care îl cunoști."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Un copac din pixeli, o bucată de cer și o lume sub pământ. Crește ramură cu ramură, rădăcină cu rădăcină, printre vânt, vreme și anotimpuri schimbătoare."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Transformă fotografiile, PDF-urile și notițele în lecții, fișe de memorare și teste de antrenament. Verifică ciornele și învață în ritmul tău."
+    }
+  },
+  "sk": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Zamknite aplikácie, ktoré vám berú čas. Krátkou sériou kľukov, drepov alebo výskokov s roznožením získate pár minút prístupu."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Premeňte ďalší beh na malé dobývanie. Uzavrite okruh, získajte územie vnútri a budujte základňu — jednu skutočnú trasu za druhou."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Vymieňajte si rastliny, odrezky a semená s pestovateľmi vo svojom meste. Menej nakupovania, viac zdieľania a niečo nové na pestovanie."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Viac než 60 hier na pokojnú chvíľu aj do miestnosti plnej priateľov. Párty hry, stolové hry, obľúbené arkády a kocka nápadov — spolu, bez internetu."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Spoznajte všetkých 118 prvkov. Preskúmajte ich vlastnosti, pochopte reakcie a sledujte výpočty od vzorca po výsledok."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Od prvého zákona po konečný výsledok. Vzorce, jasné vysvetlenia a kalkulačky spolu vo vašom vrecku."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Od bunky po ekosystém. Jasné vysvetlenia, genetické úlohy a študijné kartičky vám pomôžu spojiť poznatky do celku."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Geometrická dielňa vo vrecku. Vytvárajte konštrukcie, skúmajte útvary a zistite, prečo veta platí."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Sledujte postup, posúvajte graf a preskúmajte dôkaz. Prístupnejší spôsob, ako pochopiť školskú algebru a základy matematickej analýzy."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Preskúmajte atlas, spoznajte vlajky a hlavné mestá a zmeňte «niekde tam» na miesto, ktoré poznáte."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Pixelový strom, kúsok neba a svet pod zemou. Nechajte ho rásť konár po konári, koreň po koreni, vo vetre, počasí a meniacich sa ročných obdobiach."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Premeňte svoje fotografie, PDF a poznámky na lekcie, kartičky a cvičné kvízy. Skontrolujte návrhy a učte sa vlastným tempom."
+    }
+  },
+  "sl": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Zaklenite aplikacije, ki vam jemljejo čas. S kratko serijo sklec, počepov ali poskokov z raznoženjem si prislužite nekaj minut dostopa."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Naslednji tek spremenite v majhno osvajanje. Sklenite krog, osvojite ozemlje v njem in zgradite svojo bazo — eno pravo pot za drugo."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Zamenjajte rastline, potaknjence in semena z drugimi gojitelji v svojem mestu. Manj nakupovanja, več deljenja in nekaj novega za gojenje."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Več kot 60 iger za miren trenutek ali sobo, polno prijateljev. Družabne igre za zabave, namizne igre, priljubljene arkade in kocka idej — skupaj, brez interneta."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Spoznajte vseh 118 elementov. Raziščite njihove lastnosti, razumite reakcije in sledite izračunom od formule do odgovora."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Od prvega zakona do končnega odgovora. Formule, jasne razlage in kalkulatorji, skupaj v vašem žepu."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Od celice do ekosistema. Jasne razlage, vaje iz genetike in učne kartice pomagajo povezati znanje v celoto."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Geometrijska delavnica v žepu. Ustvarjajte konstrukcije, raziskujte like in spoznajte, zakaj izrek velja."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Sledite korakom, premikajte graf in preučite dokaz. Dostopnejša pot do razumevanja šolske algebre in osnov matematične analize."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Raziščite atlas, spoznajte zastave in prestolnice ter spremenite «nekje tam» v kraj, ki ga poznate."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Drevo iz slikovnih pik, košček neba in svet pod zemljo. Rastite vejo za vejo, korenino za korenino, skozi veter, vreme in menjavanje letnih časov."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Spremenite fotografije, datoteke PDF in zapiske v lekcije, učne kartice in kvize za vajo. Preglejte osnutke in se učite v svojem tempu."
+    }
+  },
+  "sv": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Lås apparna som slukar din dag. Gör en kort omgång armhävningar, knäböj eller krysshopp för att tjäna några minuters tillgång."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Gör nästa löprunda till en liten erövring. Slut en slinga, ta över marken inuti och bygg din bas — en verklig rutt i taget."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Byt växter, sticklingar och frön med andra odlare i din stad. Lite mindre shopping, lite mer delande och något nytt att odla."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Över 60 spel för en lugn stund eller ett rum fullt av vänner. Sällskapsspel, brädspel, arkadfavoriter och idétärningen — tillsammans, utan internet."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Lär känna alla 118 grundämnen. Utforska deras egenskaper, förstå reaktioner och följ beräkningarna från formel till svar."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Från den första lagen till det sista svaret. Formler, tydliga förklaringar och räknare, samlade i fickan."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Från cell till ekosystem. Tydliga förklaringar, genetikövningar och instuderingskort hjälper dig att se helheten."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "En geometriverkstad i fickan. Gör konstruktioner, utforska former och se varför en sats stämmer."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Följ stegen, flytta grafen och se beviset. Ett enklare sätt att förstå skolalgebra och grunderna i matematisk analys."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Utforska atlasen, lär dig flaggor och huvudstäder och gör «någonstans där borta» till en plats du känner till."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Ett pixelträd, en bit himmel och en värld under jorden. Låt det växa gren för gren, rot för rot, genom vind, väder och skiftande årstider."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Gör dina foton, PDF-filer och anteckningar till lektioner, minneskort och övningsquiz. Granska utkasten och lär dig i din egen takt."
+    }
+  },
+  "ta": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "உங்கள் நாளை எடுத்துக்கொள்ளும் செயலிகளைப் பூட்டுங்கள். சிறிது நேரம் புஷ்-அப், ஸ்குவாட் அல்லது ஜம்பிங் ஜாக் செய்து சில நிமிடப் பயன்பாட்டு நேரத்தைப் பெறுங்கள்."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "உங்கள் அடுத்த ஓட்டத்தை ஒரு சிறு நிலக் கைப்பற்றலாக மாற்றுங்கள். சுற்றுப்பாதையை மூடி, அதற்குள் இருக்கும் நிலத்தைக் கைப்பற்றி, உங்கள் தளத்தை அமைக்கவும் — நிஜ உலகில் ஒவ்வொரு பாதையாக."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "உங்கள் நகரத்தில் செடி வளர்ப்பவர்களுடன் செடிகள், தண்டுத் துண்டுகள் மற்றும் விதைகளைப் பரிமாறுங்கள். வாங்குவதைக் குறைத்து, பகிர்வதை அதிகரித்து, புதிதாக ஒன்றை வளருங்கள்."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "அமைதியான நேரத்திற்கும் நண்பர்கள் நிறைந்த அறைக்கும் 60-க்கும் மேற்பட்ட விளையாட்டுகள். குழு விளையாட்டுகள், பலகை விளையாட்டுகள், பிடித்த ஆர்கேட் விளையாட்டுகள், யோசனைப் பகடை — அனைத்தும் ஒன்றாக, இணையமின்றி."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "118 தனிமங்களையும் அறிந்துகொள்ளுங்கள். அவற்றின் பண்புகளை ஆராய்ந்து, வினைகளைப் புரிந்து, சூத்திரத்திலிருந்து விடை வரை கணக்கீடுகளைப் பின்தொடருங்கள்."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "முதல் விதியிலிருந்து இறுதி விடை வரை. சூத்திரங்கள், தெளிவான விளக்கங்கள் மற்றும் கணக்கிடும் கருவிகள்—அனைத்தும் உங்கள் பாக்கெட்டில்."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "உயிரணுவிலிருந்து சூழலமைப்பு வரை. தெளிவான விளக்கங்கள், மரபியல் பயிற்சிகள் மற்றும் கற்றல் அட்டைகள் அறிவை ஒருங்கிணைக்க உதவுகின்றன."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "உங்கள் பாக்கெட்டில் ஒரு வடிவியல் பயிற்சிக்கூடம். கட்டமைப்புகளை வரையுங்கள், வடிவங்களை ஆராயுங்கள், தேற்றம் ஏன் உண்மை என்பதைப் புரிந்துகொள்ளுங்கள்."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "தீர்வின் படிகளைப் பின்தொடருங்கள், வரைபடத்தை நகர்த்துங்கள், நிரூபணத்தைப் புரிந்துகொள்ளுங்கள். பள்ளி இயற்கணிதத்தையும் நுண்கணிதத்தின் அடிப்படைகளையும் எளிதாகக் கற்றுக்கொள்ளுங்கள்."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "நிலவரைத் தொகுப்பை ஆராயுங்கள், கொடிகளையும் தலைநகரங்களையும் கற்றுக்கொள்ளுங்கள். அறியாத இடத்தை நன்கு தெரிந்த இடமாக மாற்றுங்கள்."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ஒரு பிக்சல் மரம், சிறிது வானம், மண்ணுக்கடியில் ஓர் உலகம். காற்று, வானிலை மற்றும் மாறும் பருவங்களுக்கிடையில் கிளை கிளையாகவும் வேர் வேராகவும் வளருங்கள்."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "உங்கள் புகைப்படங்கள், PDF மற்றும் குறிப்புகளிலிருந்து பாடங்கள், நினைவட்டைகள், பயிற்சி வினாடி வினாக்களை உருவாக்குங்கள். வரைவுகளைச் சரிபார்த்து, உங்கள் வேகத்தில் கற்றுக்கொள்ளுங்கள்."
+    }
+  },
+  "te": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "మీ రోజును హరించే యాప్‌లను లాక్ చేయండి. పుష్-అప్‌లు, స్క్వాట్‌లు లేదా జంపింగ్ జాక్‌ల చిన్న సెట్ చేసి కొన్ని నిమిషాల వినియోగ సమయాన్ని పొందండి."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "మీ తదుపరి పరుగును చిన్న భూవిజయంగా మార్చండి. వలయాకార మార్గాన్ని పూర్తిచేసి, లోపలి భూమిని సొంతం చేసుకుని మీ స్థావరాన్ని నిర్మించండి — నిజ ప్రపంచంలో ఒక్కో మార్గం చొప్పున."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "మీ నగరంలోని మొక్కల ప్రేమికులతో మొక్కలు, కొమ్మ ముక్కలు, విత్తనాలను మార్చుకోండి. కొనుగోళ్లు తగ్గించి, పంచుకోవడం పెంచి, కొత్తదాన్ని పెంచండి."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "ప్రశాంతమైన క్షణానికైనా, స్నేహితులతో నిండిన గదికైనా 60కి పైగా ఆటలు. పార్టీ ఆటలు, బోర్డు ఆటలు, ఇష్టమైన ఆర్కేడ్ ఆటలు, ఐడియా పాచిక — అన్నీ ఒకచోట, ఇంటర్నెట్ లేకుండానే."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "మొత్తం 118 మూలకాలను తెలుసుకోండి. వాటి లక్షణాలను అన్వేషించి, చర్యలను అర్థం చేసుకుని, సూత్రం నుంచి సమాధానం వరకు లెక్కలను అనుసరించండి."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "మొదటి నియమం నుంచి తుది సమాధానం వరకు. సూత్రాలు, స్పష్టమైన వివరణలు మరియు గణన సాధనాలు—అన్నీ మీ జేబులో."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "కణం నుంచి పర్యావరణ వ్యవస్థ వరకు. స్పష్టమైన వివరణలు, జన్యుశాస్త్ర అభ్యాసాలు మరియు అధ్యయన కార్డులు జ్ఞానాన్ని అనుసంధానిస్తాయి."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "మీ జేబులో రేఖాగణిత కార్యశాల. నిర్మాణాలను గీయండి, ఆకారాలను అన్వేషించండి, సిద్ధాంతం ఎందుకు నిజమో అర్థం చేసుకోండి."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "పరిష్కార దశలను అనుసరించండి, గ్రాఫ్‌ను కదిలించండి, నిరూపణను అర్థం చేసుకోండి. పాఠశాల బీజగణితం, కలన గణితం ప్రాథమికాంశాలను మరింత సులభంగా నేర్చుకోండి."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "అట్లాస్‌ను అన్వేషించండి, జెండాలు, రాజధానులు నేర్చుకోండి. తెలియని ప్రాంతాన్ని మీకు పరిచయమైన ప్రదేశంగా మార్చండి."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "పిక్సెల్ చెట్టు, కొంత ఆకాశం, మట్టికింద ఒక ప్రపంచం. గాలి, వాతావరణం, మారే ఋతువుల మధ్య ఒక్కొక్క కొమ్మను, ఒక్కొక్క వేరును పెంచండి."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "మీ ఫోటోలు, PDFలు, నోట్స్ నుంచి పాఠాలు, ఫ్లాష్‌కార్డులు, సాధన క్విజ్‌లు రూపొందించండి. ముసాయిదాలను తనిఖీ చేసి, మీకు అనుకూలమైన వేగంతో నేర్చుకోండి."
+    }
+  },
+  "th": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "ล็อกแอปที่กินเวลาทั้งวันของคุณ วิดพื้น สควอต หรือกระโดดตบสั้น ๆ เพื่อแลกกับเวลาใช้งานอีกไม่กี่นาที"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "เปลี่ยนการวิ่งครั้งถัดไปให้เป็นการยึดพื้นที่เล็ก ๆ วิ่งปิดวงเพื่อครองพื้นที่ด้านใน แล้วสร้างฐานของคุณ — ทีละเส้นทางในโลกจริง"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "แลกต้นไม้ กิ่งชำ และเมล็ดพันธุ์กับคนปลูกต้นไม้ในเมืองของคุณ ลดการซื้อ เพิ่มการแบ่งปัน และได้สิ่งใหม่ไว้ปลูก"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "เกมกว่า 60 เกมสำหรับช่วงเวลาสงบ ๆ หรือห้องที่เต็มไปด้วยเพื่อน เกมปาร์ตี้ เกมกระดาน เกมอาร์เคดโปรด และลูกเต๋าไอเดีย — รวมไว้ด้วยกัน เล่นได้โดยไม่ใช้อินเทอร์เน็ต"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "ทำความรู้จักธาตุทั้ง 118 ธาตุ สำรวจสมบัติ เข้าใจปฏิกิริยา และติดตามการคำนวณจากสูตรถึงคำตอบ"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "จากกฎข้อแรกถึงคำตอบสุดท้าย รวมสูตร คำอธิบายที่เข้าใจง่าย และเครื่องคำนวณไว้ในกระเป๋าของคุณ"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "จากเซลล์ถึงระบบนิเวศ คำอธิบายที่ชัดเจน แบบฝึกหัดพันธุศาสตร์ และบัตรคำช่วยเชื่อมโยงความรู้ให้เห็นภาพรวม"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "ห้องทดลองเรขาคณิตในกระเป๋า สร้างรูป สำรวจรูปทรง และทำความเข้าใจว่าทำไมทฤษฎีบทจึงเป็นจริง"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "ไล่ดูวิธีทำ ขยับกราฟ และทำความเข้าใจบทพิสูจน์ เรียนรู้พีชคณิตระดับโรงเรียนและพื้นฐานแคลคูลัสได้ง่ายขึ้น"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "สำรวจแผนที่ เรียนรู้ธงชาติและเมืองหลวง แล้วเปลี่ยนสถานที่ที่เคยไม่คุ้นเคยให้เป็นที่ที่คุณรู้จัก"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "ต้นไม้พิกเซล ท้องฟ้าผืนเล็ก และโลกใต้ผืนดิน ค่อย ๆ เติบโตทีละกิ่ง ทีละราก ผ่านลม สภาพอากาศ และฤดูกาลที่เปลี่ยนไป"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "เปลี่ยนรูปภาพ PDF และโน้ตของคุณเป็นบทเรียน บัตรคำ และแบบทดสอบฝึกหัด ตรวจทานฉบับร่างแล้วเรียนรู้ตามจังหวะของตัวเอง"
+    }
+  },
+  "tr": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Gününüzü tüketen uygulamaları kilitleyin. Kısa bir şınav, squat veya jumping jack setiyle birkaç dakikalık erişim kazanın."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Bir sonraki koşunu küçük bir fethe dönüştür. Kapalı bir rota çiz, içindeki araziyi ele geçir ve üssünü kur — gerçek dünyada, her seferinde bir rota."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Şehrinizdeki bitki yetiştiricileriyle bitki, çelik ve tohum takas edin. Daha az alışveriş, daha çok paylaşım ve yetiştirecek yeni bir şey."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Sakin bir an ya da arkadaşlarla dolu bir oda için 60'tan fazla oyun. Parti oyunları, kutu oyunları, sevilen arcade oyunları ve fikir zarı — hepsi bir arada, internetsiz."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "118 elementin tamamını tanıyın. Özelliklerini keşfedin, tepkimeleri anlayın ve formülden sonuca kadar hesaplamaları izleyin."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "İlk yasadan sonuca kadar. Formüller, anlaşılır açıklamalar ve hesaplayıcılar bir arada, cebinizde."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Hücreden ekosisteme. Anlaşılır açıklamalar, genetik alıştırmaları ve çalışma kartlarıyla bilgileri birleştirin."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Cebinizde bir geometri atölyesi. Çizimler oluşturun, şekilleri keşfedin ve bir teoremin neden geçerli olduğunu görün."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Adımları izleyin, grafiği hareket ettirin, ispatı inceleyin. Okul cebirini ve analizin temellerini anlamanın daha kolay bir yolu."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Atlası keşfedin, bayrakları ve başkentleri öğrenin; «bir yerlerde» dediğiniz yerler artık tanıdık olsun."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Piksellerden bir ağaç, bir parça gökyüzü ve toprağın altında bir dünya. Rüzgârın, havanın ve değişen mevsimlerin içinde dal dal, kök kök büyüyün."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Fotoğraflarınızı, PDF'lerinizi ve notlarınızı derslere, bilgi kartlarına ve alıştırma testlerine dönüştürün. Taslakları gözden geçirin ve kendi hızınızda öğrenin."
+    }
+  },
+  "uk": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Заблокуйте застосунки, які забирають ваш день. Короткий підхід віджимань, присідань або стрибків із розведенням рук і ніг дасть кілька хвилин доступу."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Перетворіть наступну пробіжку на маленьке завоювання. Замкніть маршрут, займіть землю всередині та будуйте базу — один справжній маршрут за іншим."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Обмінюйтеся рослинами, живцями та насінням із людьми зі свого міста. Менше покупок, більше обміну й щось нове для вирощування."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Понад 60 ігор для спокійної хвилини або кімнати, повної друзів. Ігри для компанії, настільні ігри, улюблені аркади та кубик ідей — разом, без інтернету."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Познайомтеся з усіма 118 елементами. Досліджуйте властивості, розбирайтеся в реакціях і стежте за обчисленнями від формули до відповіді."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Від першого закону до остаточної відповіді. Формули, зрозумілі пояснення та калькулятори — разом у вашій кишені."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Від клітини до екосистеми. Зрозумілі пояснення, задачі з генетики та навчальні картки допоможуть побачити цілісну картину."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Геометрична майстерня в кишені. Створюйте побудови, досліджуйте фігури й з’ясовуйте, чому теорема справджується."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Простежте розв’язання, посувайте графік, розберіть доведення. Шкільна алгебра та початки аналізу стають наочнішими."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Досліджуйте атлас, вивчайте прапори та столиці й перетворюйте «десь там» на місце, яке знаєте."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Піксельне дерево, клаптик неба й світ під землею. Ростіть гілка за гілкою, корінь за коренем — крізь вітер, негоду та зміну пір року."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Перетворюйте фотографії, PDF і нотатки на уроки, картки та тренувальні тести. Перевіряйте чернетки й навчайтеся у власному темпі."
+    }
+  },
+  "ur": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "وہ ایپس لاک کریں جو آپ کا دن کھا جاتی ہیں۔ پش اپس، اسکواٹس یا جمپنگ جیکس کا مختصر سیٹ کر کے استعمال کے چند منٹ کمائیں۔"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "اپنی اگلی دوڑ کو ایک چھوٹی سی فتح میں بدلیں۔ چکر مکمل کریں، اندر کی زمین حاصل کریں اور اپنا اڈا بنائیں — حقیقی دنیا کے ایک ایک راستے کے ساتھ۔"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "اپنے شہر کے شوقین باغبانوں سے پودے، قلمیں اور بیج بدلیں۔ کم خریداری، زیادہ اشتراک اور اگانے کے لیے کچھ نیا۔"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "پرسکون لمحے کے لیے یا دوستوں سے بھرے کمرے کے لیے 60 سے زیادہ کھیل۔ پارٹی گیمز، بورڈ گیمز، پسندیدہ آرکیڈ کھیل اور خیالوں کا پاسا — سب ایک ساتھ، انٹرنیٹ کے بغیر۔"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "تمام 118 عناصر کو جانیں۔ ان کی خصوصیات دیکھیں، تعاملات سمجھیں اور فارمولے سے جواب تک حساب کے مراحل پر چلیں۔"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "پہلے قانون سے آخری جواب تک۔ فارمولے، واضح وضاحتیں اور کیلکولیٹر—سب آپ کی جیب میں۔"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "خلیے سے ماحولیاتی نظام تک۔ واضح وضاحتیں، جینیات کی مشقیں اور مطالعاتی کارڈ علم کو آپس میں جوڑنے میں مدد دیتے ہیں۔"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "آپ کی جیب میں جیومیٹری کی ورکشاپ۔ اشکال بنائیں، ان کا جائزہ لیں اور سمجھیں کہ کوئی قضیہ درست کیوں ہے۔"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "حل کے مراحل دیکھیں، گراف کو حرکت دیں اور ثبوت سمجھیں۔ اسکول کے الجبرا اور کیلکولس کی بنیادی باتیں سمجھنے کا ایک آسان طریقہ۔"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "اٹلس دیکھیں، جھنڈے اور دارالحکومت سیکھیں اور نامعلوم جگہ کو ایک جانی پہچانی جگہ بنائیں۔"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "پکسلز کا درخت، آسمان کا ٹکڑا اور مٹی کے نیچے ایک دنیا۔ ہوا، موسم اور بدلتی رتوں میں شاخ بہ شاخ، جڑ بہ جڑ بڑھیں۔"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "اپنی تصاویر، PDF اور نوٹس سے اسباق، فلیش کارڈز اور مشق کے کوئز بنائیں۔ مسودوں کی جانچ کریں اور اپنی رفتار سے سیکھیں۔"
+    }
+  },
+  "vi": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "Khóa những ứng dụng chiếm hết ngày của bạn. Thực hiện một hiệp chống đẩy, squat hoặc bật nhảy dang tay chân để nhận vài phút truy cập."
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "Biến lần chạy tiếp theo thành một cuộc chinh phục nhỏ. Khép kín một vòng, chiếm vùng đất bên trong và xây căn cứ — từng tuyến đường ngoài đời thực."
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "Đổi cây, cành giâm và hạt giống với người trồng cây trong thành phố. Bớt mua sắm, thêm sẻ chia và thêm một điều mới để vun trồng."
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "Hơn 60 trò chơi cho phút giây yên tĩnh hay một căn phòng đầy bạn bè. Trò chơi tiệc tùng, trò chơi bàn cờ, các trò arcade yêu thích và xúc xắc ý tưởng — tất cả cùng nhau, không cần mạng."
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "Tìm hiểu đủ 118 nguyên tố. Khám phá tính chất, hiểu các phản ứng và theo dõi phép tính từ công thức đến đáp án."
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "Từ định luật đầu tiên đến đáp án cuối cùng. Công thức, giải thích rõ ràng và công cụ tính toán, tất cả trong túi bạn."
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "Từ tế bào đến hệ sinh thái. Giải thích rõ ràng, bài tập di truyền học và thẻ học giúp bạn kết nối kiến thức thành bức tranh tổng thể."
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "Xưởng hình học trong túi bạn. Dựng hình, khám phá các hình dạng và tìm hiểu vì sao một định lý đúng."
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "Theo dõi từng bước, di chuyển đồ thị, tìm hiểu chứng minh. Một cách dễ tiếp cận hơn để hiểu đại số phổ thông và kiến thức giải tích cơ bản."
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "Khám phá bản đồ, học quốc kỳ và thủ đô, biến «một nơi nào đó» thành địa điểm bạn biết rõ."
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "Một cây điểm ảnh, một khoảng trời và thế giới dưới lòng đất. Phát triển từng cành, từng rễ qua gió, thời tiết và những mùa thay đổi."
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "Biến ảnh, PDF và ghi chú của bạn thành bài học, thẻ ghi nhớ và câu hỏi luyện tập. Kiểm tra bản nháp và học theo nhịp độ riêng."
+    }
+  },
+  "zh-Hans": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "锁住那些占据你一整天的应用。做一组俯卧撑、深蹲或开合跳，换取几分钟使用时间。"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "把下一次跑步变成一场小小的征途。跑出闭合路线，占领其中的土地，再建造你的基地——从现实世界的每一条路线开始。"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "与同城植物爱好者交换植物、插穗和种子。少一点购买，多一点分享，再养一株新绿。"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "超过 60 款游戏，适合独享片刻宁静，也适合与满屋好友同乐。聚会游戏、桌游、经典街机和灵感骰子——汇聚一处，离线畅玩。"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "认识全部118种元素。探索性质，理解反应，跟随计算过程，从公式走到答案。"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "从第一条定律到最后的答案。公式、清晰的讲解和计算工具，一起装进口袋。"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "从细胞到生态系统。清晰的讲解、遗传学练习和学习卡片，帮你把知识连成整体。"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "口袋里的几何工作台。动手作图，探索图形，弄懂定理为什么成立。"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "跟随解题步骤，移动函数图像，理解证明。更轻松地掌握学校代数和微积分基础。"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "探索地图册，学习国旗和首都，把模糊的“某个地方”变成熟悉的地点。"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "一棵像素树，一片天空，还有土壤下的世界。在风雨和四季更替中，让枝条一根根伸展，让树根一点点扎下。"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "将照片、PDF 和笔记转化为课程、记忆卡和练习测验。检查草稿，按自己的节奏学习。"
+    }
+  },
+  "zh-Hant": {
+    "unlocky": {
+      "name": "Unlocky",
+      "description": "鎖住那些佔據你一整天的應用程式。做一組伏地挺身、深蹲或開合跳，換取幾分鐘使用時間。"
+    },
+    "runbase": {
+      "name": "RunBase",
+      "description": "把下一次跑步變成一場小小的征途。跑出封閉路線，佔領其中的土地，再建造你的基地——從現實世界的每一條路線開始。"
+    },
+    "propagate": {
+      "name": "Propagate",
+      "description": "與同城植物愛好者交換植物、插穗和種子。少一點購買，多一點分享，再養一株新綠。"
+    },
+    "im-bored": {
+      "name": "I'm Bored",
+      "description": "超過 60 款遊戲，適合獨享片刻寧靜，也適合和滿屋好友同樂。派對遊戲、桌上遊戲、經典街機和靈感骰子——齊聚一處，離線暢玩。"
+    },
+    "periodic-table": {
+      "name": "Periodic Table",
+      "description": "認識全部118種元素。探索性質，理解反應，跟著計算過程，從公式走到答案。"
+    },
+    "physics": {
+      "name": "Physics Handbook",
+      "description": "從第一條定律到最後的答案。公式、清楚的解說和計算工具，一起裝進口袋。"
+    },
+    "biology": {
+      "name": "Biology Handbook",
+      "description": "從細胞到生態系統。清楚的解說、遺傳學練習和學習卡片，幫你把知識連成整體。"
+    },
+    "geometry": {
+      "name": "Geometry Handbook",
+      "description": "口袋裡的幾何工作台。動手作圖，探索圖形，弄懂定理為什麼成立。"
+    },
+    "algebra": {
+      "name": "Algebra Handbook",
+      "description": "跟著解題步驟，移動函數圖形，理解證明。更輕鬆地掌握學校代數和微積分基礎。"
+    },
+    "geography": {
+      "name": "Geography Handbook",
+      "description": "探索地圖集，學習國旗和首都，把模糊的「某個地方」變成熟悉的地點。"
+    },
+    "heartwood": {
+      "name": "Heartwood",
+      "description": "一棵像素樹，一片天空，還有土壤下的世界。在風雨和四季更替中，讓枝條一根根伸展，讓樹根一點點扎下。"
+    },
+    "anypractice": {
+      "name": "AnyPractice",
+      "description": "將照片、PDF 和筆記轉化為課程、記憶卡和練習測驗。檢查草稿，依自己的步調學習。"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "navigation": ["Gå til indhold", "Vores apps", "Studiet", "Kontakt", "Sprog"],
+  "hero": ["Uafhængigt appstudie", "Små apps.", "En verden af", "muligheder.", "Noget nyt at lære. En grund til at bevæge sig. Et øjeblik til leg. Vi laver apps til de små ting, der gør livet rigere.", "Find din næste app", "En lille rundtur", "Skabt med nysgerrighed. Til din hverdag."],
+  "motion": ["Animationer", "Sæt animationer på pause", "Slå animationer til", "Animationer er slået fra: din enhed har reduceret bevægelse aktiveret"],
+  "story": ["Få lidt mere\nud af din hverdag."],
+  "learn": ["Nysgerrighed", "Lær\nlidt mere.", "Et spørgsmål bliver til en opdagelse. Udforsk grundstofferne og deres sammenhænge, og følg din nysgerrighed.", "En hel verden af grundstoffer."],
+  "move": ["Bevægelse", "Bevæg dig\nlidt mere.", "Gør lysten til at tage telefonen frem til en grund til at bevæge dig. Et par øvelser kan ændre dagens rytme.", "Dit næste lille skridt."],
+  "play": ["Gode stunder", "Spil\nlidt mere.", "Et ledigt øjeblik eller en aften med venner. Find et spil, læg bekymringerne væk, og nyd nuet.", "Lidt mindre hverdag."],
+  "apps": ["Samlingen", "Find din slags app.", "Følg din nysgerrighed. Hver app har sin egen lille verden at udforske.", "Udforsk appen"],
+  "studio": ["Små idéer.\nMed betydning.", "Ultimate Digital er et uafhængigt appstudie. Vi begynder enkelt: skab noget nyttigt, som er en fornøjelse at bruge.", "Fra en svær ligning til din næste løberute gør vi nysgerrighed til små digitale følgesvende.", "Et lille studie.\nEt åbent sind."],
+  "principles": ["Et klart formål", "En nyttig idé i hjertet af hver app.", "Omtanke i detaljerne", "De små ting er en del af oplevelsen.", "Plads til opdagelser", "Lære, skabe, bevæge sig og prøve noget nyt."],
+  "contact": ["Gode ting begynder\nmed et hej.", "Et spørgsmål om en app eller en ny idé? Vi vil gerne høre fra dig.", "Send studiet en e-mail", "Find os på GitHub", "Til toppen", "Lidt mere nysgerrig hver dag."],
+  "screenshot": ["Skærmbillede fra appen"],
+  "tags": ["Fokus og bevægelse", "Løb og opdagelser", "Planter og fællesskab", "Spil og godt selskab", "Natur og leg", "Læring og øvelse", "Kemi", "Fysik", "Biologi", "Geometri", "Algebra", "Geografi"]
+}

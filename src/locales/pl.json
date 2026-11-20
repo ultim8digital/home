@@ -1,0 +1,15 @@
+{
+  "navigation": ["Przejdź do treści", "Nasze aplikacje", "Studio", "Kontakt", "Język"],
+  "hero": ["Niezależne studio aplikacji", "Małe aplikacje.", "Cały świat", "możliwości.", "Coś nowego do nauki. Powód do ruchu. Chwila zabawy. Tworzymy aplikacje do małych rzeczy, które wzbogacają życie.", "Znajdź swoją aplikację", "Krótka wycieczka", "Tworzone z ciekawością. Z myślą o codzienności."],
+  "motion": ["Animacje", "Wstrzymaj animacje", "Włącz animacje", "Animacje wyłączone: na urządzeniu włączono ograniczenie ruchu"],
+  "story": ["Odkryj trochę więcej\nw każdym dniu."],
+  "learn": ["Ciekawość", "Ucz się\ntrochę więcej.", "Pytanie staje się odkryciem. Poznawaj pierwiastki i ich powiązania, podążając za ciekawością.", "Cały świat pierwiastków."],
+  "move": ["Ruch", "Ruszaj się\ntrochę więcej.", "Zamień chęć sięgnięcia po telefon w powód do ruchu. Kilka ćwiczeń może zmienić rytm dnia.", "Twój następny mały krok."],
+  "play": ["Dobre chwile", "Baw się\ntrochę więcej.", "Wolna chwila lub spotkanie z przyjaciółmi. Wybierz grę, odłóż troski i ciesz się tym, co tu i teraz.", "Trochę mniej codzienności."],
+  "apps": ["Kolekcja", "Znajdź aplikację dla siebie.", "Podążaj za ciekawością. Każda aplikacja to mały świat do odkrycia.", "Poznaj aplikację"],
+  "studio": ["Małe pomysły.\nPrawdziwe znaczenie.", "Ultimate Digital to niezależne studio aplikacji. Zaczynamy od prostej idei: tworzyć coś użytecznego i przyjemnego w obsłudze.", "Od trudnego równania po kolejną trasę biegową — zmieniamy ciekawość w małych cyfrowych towarzyszy.", "Małe studio.\nOtwarty umysł."],
+  "principles": ["Jasny cel", "Przydatny pomysł w sercu każdej aplikacji.", "Dbałość o szczegóły", "Małe rzeczy składają się na całe doświadczenie.", "Miejsce na odkrycia", "Nauka, tworzenie, ruch i próbowanie nowych rzeczy."],
+  "contact": ["Dobre rzeczy zaczynają się\nod cześć.", "Pytanie o aplikację albo nowy pomysł? Chętnie przeczytamy Twoją wiadomość.", "Napisz do studia", "Znajdź nas na GitHub", "Na górę", "Każdego dnia trochę więcej ciekawości."],
+  "screenshot": ["Zrzut ekranu aplikacji"],
+  "tags": ["Skupienie i ruch", "Bieganie i odkrywanie", "Rośliny i społeczność", "Gry i dobre towarzystwo", "Natura i zabawa", "Nauka i ćwiczenia", "Chemia", "Fizyka", "Biologia", "Geometria", "Algebra", "Geografia"]
+}

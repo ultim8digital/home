@@ -1,0 +1,15 @@
+{
+  "navigation": ["Preskoči na vsebino", "Naše aplikacije", "Studio", "Pišite nam", "Jezik"],
+  "hero": ["Neodvisni studio za aplikacije", "Majhne aplikacije.", "Ves svet", "možnosti.", "Naučiti se nekaj novega. Najti razlog za gibanje. Trenutek za igro. Ustvarjamo aplikacije za male stvari, ki bogatijo življenje.", "Poiščite svojo aplikacijo", "Kratek ogled", "Ustvarjene z radovednostjo. Za vaš vsakdan."],
+  "motion": ["Animacije", "Začasno ustavi animacije", "Vklopi animacije", "Animacije so izklopljene: naprava ima vklopljeno zmanjšano gibanje"],
+  "story": ["Odkrijte nekaj več\nv vsakem dnevu."],
+  "learn": ["Radovednost", "Naučite se\nnekaj več.", "Vprašanje postane odkritje. Raziskujte elemente in njihove povezave ter sledite radovednosti.", "Ves svet elementov."],
+  "move": ["Gibanje", "Gibajte se\nmalo več.", "Željo po telefonu spremenite v razlog za gibanje. Nekaj vaj lahko spremeni ritem dneva.", "Vaš naslednji mali korak."],
+  "play": ["Lepi trenutki", "Igrajte se\nmalo več.", "Prosti trenutek ali večer s prijatelji. Izberite igro, odložite skrbi in uživajte tukaj in zdaj.", "Malo manj vsakdanjosti."],
+  "apps": ["Zbirka", "Poiščite aplikacijo zase.", "Sledite radovednosti. Vsaka aplikacija je svoj mali svet za raziskovanje.", "Raziščite aplikacijo"],
+  "studio": ["Majhne zamisli.\nPravi pomen.", "Ultimate Digital je neodvisni studio za aplikacije. Začenjamo preprosto: ustvariti nekaj uporabnega, kar je prijetno uporabljati.", "Od zahtevne enačbe do naslednje tekaške poti spreminjamo radovednost v male digitalne spremljevalce.", "Majhen studio.\nOdprt um."],
+  "principles": ["Jasen namen", "Uporabna zamisel v središču vsake aplikacije.", "Skrb za podrobnosti", "Majhne stvari oblikujejo izkušnjo.", "Prostor za odkritja", "Učenje, ustvarjanje, gibanje in preizkušanje novega."],
+  "contact": ["Dobre stvari se začnejo\ns pozdravom.", "Vprašanje o aplikaciji ali nova zamisel? Z veseljem bomo prebrali vaše sporočilo.", "Pišite studiu", "Poiščite nas na GitHubu", "Na vrh", "Vsak dan malo bolj radovedni."],
+  "screenshot": ["Posnetek zaslona aplikacije"],
+  "tags": ["Zbranost in gibanje", "Tek in raziskovanje", "Rastline in skupnost", "Igre in dobra družba", "Narava in igra", "Učenje in vaje", "Kemija", "Fizika", "Biologija", "Geometrija", "Algebra", "Geografija"]
+}

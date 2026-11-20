@@ -1,0 +1,2452 @@
+{
+  "en": {
+    "labels": {
+      "Your material": "Your material",
+      "Language": "Language",
+      "Lesson": "Lesson",
+      "Cheat sheet": "Cheat sheet",
+      "Practice": "Practice",
+      "Support": "Support",
+      "Privacy policy": "Privacy policy",
+      "Contact support": "Contact support",
+      "Report generated content": "Report generated content",
+      "Terms of use": "Terms of use",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Photos and PDFs",
+      "Remove saved data": "Remove saved data",
+      "A LITTLE PRACTICE, EVERY DAY": "A LITTLE PRACTICE, EVERY DAY",
+      "Read and review": "Read and review",
+      "AI providers": "AI providers",
+      "Local library": "Local library",
+      "About": "About"
+    },
+    "privacy": [
+      {
+        "title": "Local library",
+        "text": "Your extracted study text, lessons, cards and progress are saved in this app on your device. The app does not create an AnyPractice account or provide its own cloud sync. Device backups may include local app data."
+      },
+      {
+        "title": "Photos and PDFs",
+        "text": "Text recognition runs on your device. Imported photos and PDFs are also saved locally with your material. For Pro lessons, you can send the photo or complete selected PDF pages to OpenAI after reviewing and confirming them. Text-only modes send only reviewed text."
+      },
+      {
+        "title": "AI providers",
+        "text": "With your API key, only the selected passages and generation instructions are sent directly to the provider and model you confirm. Your key is stored in this device’s Keychain. The provider may retain requests under its own terms. AnyPractice cannot delete copies already held by that provider."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence creates source-based flashcards on supported devices. Generation and supported translation run locally; language assets may need a download."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "With Pro, selected text and any confirmed original pages pass through AnyPractice on Vercel to OpenAI. Original files are processed for that request without a server file library. Apple processes payments; the server verifies your subscription and stores identifiers and usage counters. Provider and hosting services handle data under their own policies."
+      },
+      {
+        "title": "Remove saved data",
+        "text": "Delete a deck to remove its saved text, local photo or PDF copy, generated material and progress from this app. Other decks using the same material keep their copies. Remove connection deletes the saved personal key. Files outside this app, backups and provider-side data are separate."
+      }
+    ],
+    "report": "AI can make mistakes. You can edit or delete generated material in the app. To report harmful content, describe the issue without including private information."
+  },
+  "en-GB": {
+    "labels": {
+      "Your material": "Your material",
+      "Language": "Language",
+      "Lesson": "Lesson",
+      "Cheat sheet": "Cheat sheet",
+      "Practice": "Practice",
+      "Support": "Support",
+      "Privacy policy": "Privacy policy",
+      "Contact support": "Contact support",
+      "Report generated content": "Report generated content",
+      "Terms of use": "Terms of use",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Photos and PDFs",
+      "Remove saved data": "Remove saved data",
+      "A LITTLE PRACTICE, EVERY DAY": "A LITTLE PRACTICE, EVERY DAY",
+      "Read and review": "Read and review",
+      "AI providers": "AI providers",
+      "Local library": "Local library",
+      "About": "About"
+    },
+    "privacy": [
+      {
+        "title": "Local library",
+        "text": "Your extracted study text, lessons, cards and progress are saved in this app on your device. The app does not create an AnyPractice account or provide its own cloud sync. Device backups may include local app data."
+      },
+      {
+        "title": "Photos and PDFs",
+        "text": "Text recognition runs on your device. Imported photos and PDFs are also saved locally with your material. For Pro lessons, you can send the photo or complete selected PDF pages to OpenAI after reviewing and confirming them. Text-only modes send only reviewed text."
+      },
+      {
+        "title": "AI providers",
+        "text": "With your API key, only the selected passages and generation instructions are sent directly to the provider and model you confirm. Your key is stored in this device’s Keychain. The provider may retain requests under its own terms. AnyPractice cannot delete copies already held by that provider."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence creates source-based flashcards on supported devices. Generation and supported translation run locally; language assets may need a download."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "With Pro, selected text and any confirmed original pages pass through AnyPractice on Vercel to OpenAI. Original files are processed for that request without a server file library. Apple processes payments; the server verifies your subscription and stores identifiers and usage counters. Provider and hosting services handle data under their own policies."
+      },
+      {
+        "title": "Remove saved data",
+        "text": "Delete a deck to remove its saved text, local photo or PDF copy, generated material and progress from this app. Other decks using the same material keep their copies. Remove connection deletes the saved personal key. Files outside this app, backups and provider-side data are separate."
+      }
+    ],
+    "report": "AI can make mistakes. You can edit or delete generated material in the app. To report harmful content, describe the issue without including private information."
+  },
+  "en-AU": {
+    "labels": {
+      "Your material": "Your material",
+      "Language": "Language",
+      "Lesson": "Lesson",
+      "Cheat sheet": "Cheat sheet",
+      "Practice": "Practice",
+      "Support": "Support",
+      "Privacy policy": "Privacy policy",
+      "Contact support": "Contact support",
+      "Report generated content": "Report generated content",
+      "Terms of use": "Terms of use",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Photos and PDFs",
+      "Remove saved data": "Remove saved data",
+      "A LITTLE PRACTICE, EVERY DAY": "A LITTLE PRACTICE, EVERY DAY",
+      "Read and review": "Read and review",
+      "AI providers": "AI providers",
+      "Local library": "Local library",
+      "About": "About"
+    },
+    "privacy": [
+      {
+        "title": "Local library",
+        "text": "Your extracted study text, lessons, cards and progress are saved in this app on your device. The app does not create an AnyPractice account or provide its own cloud sync. Device backups may include local app data."
+      },
+      {
+        "title": "Photos and PDFs",
+        "text": "Text recognition runs on your device. Imported photos and PDFs are also saved locally with your material. For Pro lessons, you can send the photo or complete selected PDF pages to OpenAI after reviewing and confirming them. Text-only modes send only reviewed text."
+      },
+      {
+        "title": "AI providers",
+        "text": "With your API key, only the selected passages and generation instructions are sent directly to the provider and model you confirm. Your key is stored in this device’s Keychain. The provider may retain requests under its own terms. AnyPractice cannot delete copies already held by that provider."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence creates source-based flashcards on supported devices. Generation and supported translation run locally; language assets may need a download."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "With Pro, selected text and any confirmed original pages pass through AnyPractice on Vercel to OpenAI. Original files are processed for that request without a server file library. Apple processes payments; the server verifies your subscription and stores identifiers and usage counters. Provider and hosting services handle data under their own policies."
+      },
+      {
+        "title": "Remove saved data",
+        "text": "Delete a deck to remove its saved text, local photo or PDF copy, generated material and progress from this app. Other decks using the same material keep their copies. Remove connection deletes the saved personal key. Files outside this app, backups and provider-side data are separate."
+      }
+    ],
+    "report": "AI can make mistakes. You can edit or delete generated material in the app. To report harmful content, describe the issue without including private information."
+  },
+  "en-CA": {
+    "labels": {
+      "Your material": "Your material",
+      "Language": "Language",
+      "Lesson": "Lesson",
+      "Cheat sheet": "Cheat sheet",
+      "Practice": "Practice",
+      "Support": "Support",
+      "Privacy policy": "Privacy policy",
+      "Contact support": "Contact support",
+      "Report generated content": "Report generated content",
+      "Terms of use": "Terms of use",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Photos and PDFs",
+      "Remove saved data": "Remove saved data",
+      "A LITTLE PRACTICE, EVERY DAY": "A LITTLE PRACTICE, EVERY DAY",
+      "Read and review": "Read and review",
+      "AI providers": "AI providers",
+      "Local library": "Local library",
+      "About": "About"
+    },
+    "privacy": [
+      {
+        "title": "Local library",
+        "text": "Your extracted study text, lessons, cards and progress are saved in this app on your device. The app does not create an AnyPractice account or provide its own cloud sync. Device backups may include local app data."
+      },
+      {
+        "title": "Photos and PDFs",
+        "text": "Text recognition runs on your device. Imported photos and PDFs are also saved locally with your material. For Pro lessons, you can send the photo or complete selected PDF pages to OpenAI after reviewing and confirming them. Text-only modes send only reviewed text."
+      },
+      {
+        "title": "AI providers",
+        "text": "With your API key, only the selected passages and generation instructions are sent directly to the provider and model you confirm. Your key is stored in this device’s Keychain. The provider may retain requests under its own terms. AnyPractice cannot delete copies already held by that provider."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence creates source-based flashcards on supported devices. Generation and supported translation run locally; language assets may need a download."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "With Pro, selected text and any confirmed original pages pass through AnyPractice on Vercel to OpenAI. Original files are processed for that request without a server file library. Apple processes payments; the server verifies your subscription and stores identifiers and usage counters. Provider and hosting services handle data under their own policies."
+      },
+      {
+        "title": "Remove saved data",
+        "text": "Delete a deck to remove its saved text, local photo or PDF copy, generated material and progress from this app. Other decks using the same material keep their copies. Remove connection deletes the saved personal key. Files outside this app, backups and provider-side data are separate."
+      }
+    ],
+    "report": "AI can make mistakes. You can edit or delete generated material in the app. To report harmful content, describe the issue without including private information."
+  },
+  "ru": {
+    "labels": {
+      "Your material": "Ваш материал",
+      "Language": "Язык",
+      "Lesson": "Урок",
+      "Cheat sheet": "Шпаргалка",
+      "Practice": "Практика",
+      "Support": "Поддержка",
+      "Privacy policy": "Политика конфиденциальности",
+      "Contact support": "Связаться с поддержкой",
+      "Report generated content": "Сообщить о созданном содержимом",
+      "Terms of use": "Условия использования",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Фото и PDF",
+      "Remove saved data": "Удалить сохранённые данные",
+      "A LITTLE PRACTICE, EVERY DAY": "НЕМНОГО ПРАКТИКИ КАЖДЫЙ ДЕНЬ",
+      "Read and review": "Прочитайте и проверьте",
+      "AI providers": "Провайдеры ИИ",
+      "Local library": "Локальная библиотека",
+      "About": "О приложении"
+    },
+    "privacy": [
+      {
+        "title": "Локальная библиотека",
+        "text": "Извлечённый учебный текст, уроки, карточки и прогресс сохраняются в этом приложении на вашем устройстве. Приложение не создаёт учётную запись AnyPractice и не предоставляет собственную облачную синхронизацию. Резервные копии устройства могут содержать локальные данные приложения."
+      },
+      {
+        "title": "Фото и PDF",
+        "text": "Текст распознаётся на устройстве. Импортированные фото и PDF также сохраняются локально вместе с материалом. В режиме уроков Pro можно отправить фото или выбранные страницы PDF целиком в OpenAI после проверки и подтверждения. В текстовых режимах отправляется только проверенный текст."
+      },
+      {
+        "title": "Провайдеры ИИ",
+        "text": "При использовании вашего API-ключа только выбранные отрывки и инструкции для генерации отправляются напрямую указанному вами провайдеру и модели после подтверждения. Ключ хранится в Keychain этого устройства. Провайдер может сохранять запросы согласно своим условиям. AnyPractice не может удалить копии, которые уже хранятся у этого провайдера."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence создаёт карточки по исходному материалу на поддерживаемых устройствах. Генерация и поддерживаемый перевод выполняются локально; может потребоваться загрузка языковых ресурсов."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "В Pro выбранный текст и подтверждённые исходные страницы передаются через AnyPractice на Vercel в OpenAI. Исходники обрабатываются для этого запроса без создания серверной библиотеки файлов. Apple обрабатывает платежи; сервер проверяет подписку и хранит идентификаторы и счётчики использования. Провайдер и хостинг обрабатывают данные по своим правилам."
+      },
+      {
+        "title": "Удалить сохранённые данные",
+        "text": "Удаление набора удалит из приложения его текст, локальную копию фото или PDF, созданные материалы и прогресс. В других наборах с тем же материалом копии сохранятся. «Удалить подключение» удаляет сохранённый личный ключ. Внешние файлы, резервные копии и данные у провайдера хранятся отдельно."
+      }
+    ],
+    "report": "ИИ может ошибаться. Созданные материалы можно изменить или удалить в приложении. Чтобы сообщить о вредном содержимом, опишите проблему без личной информации."
+  },
+  "ar": {
+    "labels": {
+      "Your material": "مادتك",
+      "Language": "اللغة",
+      "Lesson": "درس",
+      "Cheat sheet": "ورقة مختصرة",
+      "Practice": "تدرّب",
+      "Support": "الدعم",
+      "Privacy policy": "سياسة الخصوصية",
+      "Contact support": "التواصل مع الدعم",
+      "Report generated content": "الإبلاغ عن محتوى مُنشأ",
+      "Terms of use": "شروط الاستخدام",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "الصور وملفات PDF",
+      "Remove saved data": "إزالة البيانات المحفوظة",
+      "A LITTLE PRACTICE, EVERY DAY": "القليل من التدريب كل يوم",
+      "Read and review": "اقرأ وراجع",
+      "AI providers": "مزوّدو الذكاء الاصطناعي",
+      "Local library": "المكتبة المحلية",
+      "About": "حول"
+    },
+    "privacy": [
+      {
+        "title": "المكتبة المحلية",
+        "text": "يُحفظ نص الدراسة المستخرج والدروس والبطاقات والتقدّم في هذا التطبيق على جهازك. لا ينشئ التطبيق حساب AnyPractice ولا يوفّر مزامنة سحابية خاصة به. قد تتضمن النسخ الاحتياطية للجهاز بيانات التطبيق المحلية."
+      },
+      {
+        "title": "الصور وملفات PDF",
+        "text": "يعمل التعرّف على النصوص على جهازك. تُحفظ الصور وملفات PDF المستوردة محليًا أيضًا مع مادتك. لدروس Pro، يمكنك إرسال الصورة أو صفحات PDF المحددة كاملةً إلى OpenAI بعد مراجعتها وتأكيد الإرسال. ترسل الأوضاع النصية النص الذي راجعته فقط."
+      },
+      {
+        "title": "مزوّدو الذكاء الاصطناعي",
+        "text": "عند استخدام مفتاح API الخاص بك، تُرسل المقاطع المحددة وتعليمات إنشاء المحتوى فقط مباشرةً إلى المزوّد والنموذج اللذين تؤكدهما. يُحفظ مفتاحك في Keychain على هذا الجهاز. قد يحتفظ المزوّد بالطلبات وفق شروطه الخاصة. لا يستطيع AnyPractice حذف النسخ التي يحتفظ بها ذلك المزوّد بالفعل."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "ينشئ Apple Intelligence بطاقات تعليمية تستند إلى المادة الأصلية على الأجهزة المدعومة. يجري إنشاء المحتوى والترجمة المدعومة محليًا؛ وقد يلزم تنزيل موارد اللغات."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "مع Pro، يمر النص المحدد وأي صفحات أصلية أكدت إرسالها عبر AnyPractice على Vercel إلى OpenAI. تُعالج الملفات الأصلية لذلك الطلب من دون إنشاء مكتبة ملفات على الخادم. تعالج Apple المدفوعات؛ ويتحقق الخادم من اشتراكك ويحفظ المعرّفات وعدّادات الاستخدام. تتعامل خدمات المزوّد والاستضافة مع البيانات وفق سياساتها الخاصة."
+      },
+      {
+        "title": "إزالة البيانات المحفوظة",
+        "text": "احذف المجموعة لإزالة نصها المحفوظ ونسخة الصورة أو ملف PDF المحلية والمواد التي أُنشئت وتقدّمك من هذا التطبيق. تحتفظ المجموعات الأخرى التي تستخدم المادة نفسها بنسخها. يؤدي «إزالة الاتصال» إلى حذف مفتاحك الشخصي المحفوظ. الملفات خارج هذا التطبيق والنسخ الاحتياطية والبيانات لدى مزوّد الخدمة منفصلة عن ذلك."
+      }
+    ],
+    "report": "قد يخطئ الذكاء الاصطناعي. يمكنك تعديل المواد المُنشأة أو حذفها داخل التطبيق. للإبلاغ عن محتوى ضار، صف المشكلة دون تضمين معلومات خاصة."
+  },
+  "bn": {
+    "labels": {
+      "Your material": "আপনার উপকরণ",
+      "Language": "ভাষা",
+      "Lesson": "পাঠ",
+      "Cheat sheet": "চিট শিট",
+      "Practice": "অনুশীলন",
+      "Support": "সহায়তা",
+      "Privacy policy": "গোপনীয়তা নীতি",
+      "Contact support": "সহায়তায় যোগাযোগ করুন",
+      "Report generated content": "তৈরি করা বিষয়বস্তু সম্পর্কে জানান",
+      "Terms of use": "ব্যবহারের শর্তাবলি",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ছবি ও PDF",
+      "Remove saved data": "সংরক্ষিত তথ্য সরান",
+      "A LITTLE PRACTICE, EVERY DAY": "প্রতিদিন একটু একটু অনুশীলন",
+      "Read and review": "পড়ুন ও রিভিউ করুন",
+      "AI providers": "AI প্রদানকারী",
+      "Local library": "স্থানীয় লাইব্রেরি",
+      "About": "সম্পর্কে"
+    },
+    "privacy": [
+      {
+        "title": "স্থানীয় লাইব্রেরি",
+        "text": "নিষ্কাশিত পড়াশোনার লেখা, পাঠ, কার্ড ও অগ্রগতি আপনার ডিভাইসে এই অ্যাপের মধ্যে সংরক্ষিত থাকে। অ্যাপটি AnyPractice অ্যাকাউন্ট তৈরি করে না বা নিজস্ব ক্লাউড সিঙ্ক দেয় না। ডিভাইসের ব্যাকআপে অ্যাপের স্থানীয় তথ্য থাকতে পারে।"
+      },
+      {
+        "title": "ছবি ও PDF",
+        "text": "লেখা শনাক্তকরণ আপনার ডিভাইসেই চলে। আমদানি করা ছবি ও PDF-গুলিও আপনার উপকরণের সঙ্গে স্থানীয়ভাবে সংরক্ষিত হয়। Pro পাঠের জন্য, পর্যালোচনা ও নিশ্চিত করার পরে আপনি ছবিটি বা নির্বাচিত সম্পূর্ণ PDF পৃষ্ঠাগুলি OpenAI-এ পাঠাতে পারেন। শুধু লেখাভিত্তিক মোডগুলি কেবল পর্যালোচিত লেখা পাঠায়।"
+      },
+      {
+        "title": "AI প্রদানকারী",
+        "text": "আপনার API কী ব্যবহার করলে শুধু নির্বাচিত অংশ ও তৈরির নির্দেশনা সরাসরি আপনার নিশ্চিত করা প্রদানকারী ও মডেলে পাঠানো হয়। আপনার কী এই ডিভাইসের Keychain-এ সংরক্ষিত থাকে। প্রদানকারী নিজস্ব শর্ত অনুযায়ী অনুরোধ সংরক্ষণ করতে পারে। ওই প্রদানকারীর কাছে ইতিমধ্যে থাকা কপি AnyPractice মুছতে পারে না।"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence সমর্থিত ডিভাইসে উৎসভিত্তিক ফ্ল্যাশকার্ড তৈরি করে। তৈরি করা এবং সমর্থিত অনুবাদ ডিভাইসেই চলে; ভাষার উপকরণ ডাউনলোড করতে হতে পারে।"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro-তে নির্বাচিত লেখা এবং নিশ্চিত করা মূল পৃষ্ঠাগুলি Vercel-এ থাকা AnyPractice-এর মাধ্যমে OpenAI-এ যায়। সার্ভারে ফাইলের লাইব্রেরি তৈরি না করে, ওই অনুরোধের জন্য মূল ফাইলগুলি প্রক্রিয়া করা হয়। Apple অর্থপ্রদান প্রক্রিয়া করে; সার্ভার আপনার সাবস্ক্রিপশন যাচাই করে এবং পরিচয়সূচক ও ব্যবহারের হিসাব সংরক্ষণ করে। প্রদানকারী ও হোস্টিং পরিষেবাগুলি নিজস্ব নীতি অনুযায়ী ডেটা পরিচালনা করে।"
+      },
+      {
+        "title": "সংরক্ষিত তথ্য সরান",
+        "text": "কোনো ডেক মুছলে এই অ্যাপ থেকে সেটির সংরক্ষিত লেখা, ছবির বা PDF-এর স্থানীয় কপি, তৈরি করা উপকরণ এবং অগ্রগতি মুছে যাবে। একই উপকরণ ব্যবহার করা অন্য ডেকগুলিতে তাদের কপি থাকবে। «সংযোগ সরান» সংরক্ষিত ব্যক্তিগত কী মুছে দেয়। এই অ্যাপের বাইরের ফাইল, ব্যাকআপ এবং প্রদানকারীর কাছে থাকা ডেটা আলাদা।"
+      }
+    ],
+    "report": "AI ভুল করতে পারে। অ্যাপে তৈরি করা উপকরণ সম্পাদনা বা মুছে ফেলতে পারেন। ক্ষতিকর বিষয়বস্তু জানাতে ব্যক্তিগত তথ্য না দিয়ে সমস্যাটি বর্ণনা করুন।"
+  },
+  "ca": {
+    "labels": {
+      "Your material": "El teu material",
+      "Language": "Idioma",
+      "Lesson": "Lliçó",
+      "Cheat sheet": "Full de consulta",
+      "Practice": "Practica",
+      "Support": "Assistència",
+      "Privacy policy": "Política de privadesa",
+      "Contact support": "Contacta amb l’assistència",
+      "Report generated content": "Denuncia contingut generat",
+      "Terms of use": "Condicions d’ús",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotos i PDF",
+      "Remove saved data": "Elimina les dades desades",
+      "A LITTLE PRACTICE, EVERY DAY": "UNA MICA DE PRÀCTICA CADA DIA",
+      "Read and review": "Llegeix i revisa",
+      "AI providers": "Proveïdors d’IA",
+      "Local library": "Biblioteca local",
+      "About": "Quant a"
+    },
+    "privacy": [
+      {
+        "title": "Biblioteca local",
+        "text": "El text d’estudi extret, les lliçons, les targetes i el progrés es desen en aquesta app al teu dispositiu. L’app no crea cap compte d’AnyPractice ni ofereix sincronització pròpia al núvol. Les còpies de seguretat del dispositiu poden incloure dades locals de l’app."
+      },
+      {
+        "title": "Fotos i PDF",
+        "text": "El reconeixement de text té lloc al teu dispositiu. Les fotos i els PDF importats també es desen localment amb el teu material. Per a les lliçons Pro, pots enviar la foto o les pàgines completes del PDF seleccionat a OpenAI després de revisar-les i confirmar-ne l’enviament. Els modes de només text envien únicament el text revisat."
+      },
+      {
+        "title": "Proveïdors d’IA",
+        "text": "Amb la teva clau API, només s’envien els fragments seleccionats i les instruccions de generació directament al proveïdor i al model que confirmes. La clau es desa al Keychain d’aquest dispositiu. El proveïdor pot conservar les sol·licituds segons les seves condicions. AnyPractice no pot eliminar les còpies que aquest proveïdor ja té."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence crea targetes d’estudi basades en fonts en dispositius compatibles. La generació i la traducció compatible s’executen localment; pot ser necessari descarregar recursos d’idioma."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Amb Pro, el text seleccionat i les pàgines originals confirmades passen per AnyPractice a Vercel fins a OpenAI. Els fitxers originals es processen per a aquella sol·licitud, sense una biblioteca de fitxers al servidor. Apple processa els pagaments; el servidor verifica la teva subscripció i desa identificadors i comptadors d’ús. Els proveïdors i els serveis d’allotjament tracten les dades segons les seves pròpies polítiques."
+      },
+      {
+        "title": "Elimina les dades desades",
+        "text": "Elimina un conjunt de targetes per esborrar d’aquesta app el text desat, la còpia local de la foto o del PDF, el material generat i el progrés. Els altres conjunts que facin servir el mateix material conservaran les seves còpies. «Elimina la connexió» esborra la clau personal desada. Els fitxers fora d’aquesta app, les còpies de seguretat i les dades del proveïdor són independents."
+      }
+    ],
+    "report": "La IA pot cometre errors. Pots editar o eliminar el material generat a l’app. Per denunciar contingut perjudicial, descriu el problema sense incloure informació privada."
+  },
+  "cs": {
+    "labels": {
+      "Your material": "Váš materiál",
+      "Language": "Jazyk",
+      "Lesson": "Lekce",
+      "Cheat sheet": "Tahák",
+      "Practice": "Procvičování",
+      "Support": "Podpora",
+      "Privacy policy": "Zásady ochrany soukromí",
+      "Contact support": "Kontaktovat podporu",
+      "Report generated content": "Nahlásit vygenerovaný obsah",
+      "Terms of use": "Podmínky používání",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotografie a PDF",
+      "Remove saved data": "Odstranit uložená data",
+      "A LITTLE PRACTICE, EVERY DAY": "TROCHU PROCVIČOVÁNÍ KAŽDÝ DEN",
+      "Read and review": "Číst a zkontrolovat",
+      "AI providers": "Poskytovatelé AI",
+      "Local library": "Místní knihovna",
+      "About": "O aplikaci"
+    },
+    "privacy": [
+      {
+        "title": "Místní knihovna",
+        "text": "Extrahovaný studijní text, lekce, kartičky a pokrok se ukládají v této aplikaci na vašem zařízení. Aplikace nevytváří účet AnyPractice ani neposkytuje vlastní cloudovou synchronizaci. Zálohy zařízení mohou obsahovat místní data aplikace."
+      },
+      {
+        "title": "Fotografie a PDF",
+        "text": "Rozpoznávání textu probíhá na tvém zařízení. Importované fotografie a PDF se také ukládají místně s tvými materiály. U lekcí Pro můžeš po kontrole a potvrzení poslat fotografii nebo celé vybrané stránky PDF do OpenAI. Textové režimy odesílají pouze zkontrolovaný text."
+      },
+      {
+        "title": "Poskytovatelé AI",
+        "text": "S vaším klíčem API se přímo poskytovateli a modelu, které potvrdíte, odešlou pouze vybrané úryvky a pokyny pro generování. Klíč je uložen v Keychain tohoto zařízení. Poskytovatel může požadavky uchovávat podle vlastních podmínek. AnyPractice nemůže smazat kopie, které tento poskytovatel již má."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence vytváří na podporovaných zařízeních kartičky podle zdrojů. Generování i podporovaný překlad probíhají místně; jazykové prostředky může být nutné stáhnout."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "S Pro prochází vybraný text a potvrzené původní stránky přes AnyPractice na Vercelu do OpenAI. Původní soubory se zpracovávají pro daný požadavek, bez knihovny souborů na serveru. Platby zpracovává Apple; server ověřuje tvé předplatné a ukládá identifikátory a počítadla využití. Poskytovatelé a hostingové služby zpracovávají data podle svých vlastních zásad."
+      },
+      {
+        "title": "Odstranit uložená data",
+        "text": "Smazáním balíčku z této aplikace odstraníš jeho uložený text, místní kopii fotografie nebo PDF, vygenerované materiály a pokrok. Jiné balíčky používající stejné materiály si své kopie ponechají. „Odebrat připojení“ smaže uložený osobní klíč. Soubory mimo tuto aplikaci, zálohy a data u poskytovatele jsou oddělené."
+      }
+    ],
+    "report": "AI se může mýlit. Vygenerované materiály můžete v aplikaci upravit nebo smazat. Chcete-li nahlásit škodlivý obsah, popište problém bez soukromých údajů."
+  },
+  "da": {
+    "labels": {
+      "Your material": "Dit materiale",
+      "Language": "Sprog",
+      "Lesson": "Lektion",
+      "Cheat sheet": "Huskeark",
+      "Practice": "Øv",
+      "Support": "Support",
+      "Privacy policy": "Privatlivspolitik",
+      "Contact support": "Kontakt support",
+      "Report generated content": "Indberet genereret indhold",
+      "Terms of use": "Brugsvilkår",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotos og PDF-filer",
+      "Remove saved data": "Fjern gemte data",
+      "A LITTLE PRACTICE, EVERY DAY": "LIDT ØVELSE HVER DAG",
+      "Read and review": "Læs og gennemgå",
+      "AI providers": "AI-udbydere",
+      "Local library": "Lokalt bibliotek",
+      "About": "Om"
+    },
+    "privacy": [
+      {
+        "title": "Lokalt bibliotek",
+        "text": "Din udtrukne studietekst, lektioner, kort og fremskridt gemmes i denne app på din enhed. Appen opretter ikke en AnyPractice-konto og tilbyder ikke sin egen skysynkronisering. Enhedens sikkerhedskopier kan indeholde lokale appdata."
+      },
+      {
+        "title": "Fotos og PDF-filer",
+        "text": "Tekstgenkendelsen foregår på din enhed. Importerede fotos og PDF-filer gemmes også lokalt sammen med dit materiale. Til Pro-lektioner kan du sende fotoet eller de fulde valgte PDF-sider til OpenAI, når du har gennemgået og bekræftet dem. Tilstande med kun tekst sender kun gennemgået tekst."
+      },
+      {
+        "title": "AI-udbydere",
+        "text": "Med din API-nøgle sendes kun de valgte tekstafsnit og genereringsinstruktionerne direkte til den udbyder og model, du bekræfter. Din nøgle gemmes i denne enheds Keychain. Udbyderen kan gemme anmodninger i henhold til egne vilkår. AnyPractice kan ikke slette kopier, som udbyderen allerede har."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence opretter kildebaserede læringskort på understøttede enheder. Generering og understøttede oversættelser kører lokalt; sprogressourcer skal muligvis hentes."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Med Pro går valgt tekst og bekræftede originalsider gennem AnyPractice på Vercel til OpenAI. Originalfiler behandles til den pågældende anmodning uden et filbibliotek på serveren. Apple håndterer betalinger; serveren verificerer dit abonnement og gemmer identifikatorer og brugstællere. Udbydere og hostingtjenester håndterer data efter deres egne politikker."
+      },
+      {
+        "title": "Fjern gemte data",
+        "text": "Slet et kortsæt for at fjerne dets gemte tekst, lokale foto- eller PDF-kopi, genererede materiale og fremskridt fra denne app. Andre kortsæt, der bruger det samme materiale, beholder deres kopier. »Fjern forbindelse« sletter den gemte personlige nøgle. Filer uden for denne app, sikkerhedskopier og data hos udbyderen er adskilte."
+      }
+    ],
+    "report": "AI kan begå fejl. Du kan redigere eller slette genereret materiale i appen. Beskriv problemet uden private oplysninger, når du indberetter skadeligt indhold."
+  },
+  "de": {
+    "labels": {
+      "Your material": "Dein Material",
+      "Language": "Sprache",
+      "Lesson": "Lektion",
+      "Cheat sheet": "Spickzettel",
+      "Practice": "Üben",
+      "Support": "Support",
+      "Privacy policy": "Datenschutzerklärung",
+      "Contact support": "Support kontaktieren",
+      "Report generated content": "Erzeugte Inhalte melden",
+      "Terms of use": "Nutzungsbedingungen",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotos und PDFs",
+      "Remove saved data": "Gespeicherte Daten entfernen",
+      "A LITTLE PRACTICE, EVERY DAY": "JEDEN TAG EIN WENIG ÜBEN",
+      "Read and review": "Lesen und prüfen",
+      "AI providers": "KI-Anbieter",
+      "Local library": "Lokale Bibliothek",
+      "About": "Über"
+    },
+    "privacy": [
+      {
+        "title": "Lokale Bibliothek",
+        "text": "Dein extrahierter Lerntext, Lektionen, Karten und Lernfortschritt werden in dieser App auf deinem Gerät gespeichert. Die App erstellt kein AnyPractice-Konto und bietet keine eigene Cloud-Synchronisierung. Gerätesicherungen können lokale App-Daten enthalten."
+      },
+      {
+        "title": "Fotos und PDFs",
+        "text": "Die Texterkennung erfolgt auf deinem Gerät. Importierte Fotos und PDFs werden zusammen mit deinem Material auch lokal gespeichert. Für Pro-Lektionen kannst du das Foto oder vollständige ausgewählte PDF-Seiten nach Prüfung und Bestätigung an OpenAI senden. Reine Textmodi senden nur geprüften Text."
+      },
+      {
+        "title": "KI-Anbieter",
+        "text": "Mit deinem API-Schlüssel werden nur die ausgewählten Textstellen und Erstellungsanweisungen direkt an den Anbieter und das Modell gesendet, die du bestätigst. Dein Schlüssel wird in der Keychain dieses Geräts gespeichert. Der Anbieter kann Anfragen nach seinen eigenen Bedingungen aufbewahren. AnyPractice kann Kopien, die sich bereits bei diesem Anbieter befinden, nicht löschen."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence erstellt auf unterstützten Geräten Lernkarten aus dem Ausgangsmaterial. Die Erstellung und unterstützte Übersetzungen erfolgen lokal; Sprachressourcen müssen möglicherweise heruntergeladen werden."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Mit Pro werden ausgewählter Text und bestätigte Originalseiten über AnyPractice auf Vercel an OpenAI weitergeleitet. Originaldateien werden für diese Anfrage verarbeitet; es gibt keine Dateibibliothek auf dem Server. Apple wickelt Zahlungen ab; der Server prüft dein Abonnement und speichert Kennungen sowie Nutzungszähler. Anbieter und Hostingdienste verarbeiten Daten nach ihren eigenen Richtlinien."
+      },
+      {
+        "title": "Gespeicherte Daten entfernen",
+        "text": "Lösche einen Kartenstapel, um seinen gespeicherten Text, die lokale Foto- oder PDF-Kopie, die generierten Inhalte und den Lernfortschritt aus dieser App zu entfernen. Andere Kartenstapel mit demselben Material behalten ihre Kopien. „Verbindung entfernen“ löscht den gespeicherten persönlichen Schlüssel. Dateien außerhalb dieser App, Sicherungskopien und Daten beim Anbieter sind davon getrennt."
+      }
+    ],
+    "report": "KI kann Fehler machen. Du kannst erzeugte Inhalte in der App bearbeiten oder löschen. Um schädliche Inhalte zu melden, beschreibe das Problem ohne private Informationen."
+  },
+  "el": {
+    "labels": {
+      "Your material": "Το υλικό σας",
+      "Language": "Γλώσσα",
+      "Lesson": "Μάθημα",
+      "Cheat sheet": "Σύνοψη",
+      "Practice": "Εξάσκηση",
+      "Support": "Υποστήριξη",
+      "Privacy policy": "Πολιτική απορρήτου",
+      "Contact support": "Επικοινωνία με την υποστήριξη",
+      "Report generated content": "Αναφορά παραγόμενου περιεχομένου",
+      "Terms of use": "Όροι χρήσης",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Φωτογραφίες και PDF",
+      "Remove saved data": "Αφαίρεση αποθηκευμένων δεδομένων",
+      "A LITTLE PRACTICE, EVERY DAY": "ΛΙΓΗ ΕΞΑΣΚΗΣΗ, ΚΑΘΕ ΜΕΡΑ",
+      "Read and review": "Διαβάστε και ελέγξτε",
+      "AI providers": "Πάροχοι AI",
+      "Local library": "Τοπική βιβλιοθήκη",
+      "About": "Σχετικά"
+    },
+    "privacy": [
+      {
+        "title": "Τοπική βιβλιοθήκη",
+        "text": "Το εξαγόμενο κείμενο μελέτης, τα μαθήματα, οι κάρτες και η πρόοδός σας αποθηκεύονται σε αυτή την εφαρμογή στη συσκευή σας. Η εφαρμογή δεν δημιουργεί λογαριασμό AnyPractice ούτε παρέχει δικό της συγχρονισμό στο cloud. Τα αντίγραφα ασφαλείας της συσκευής ενδέχεται να περιλαμβάνουν τοπικά δεδομένα της εφαρμογής."
+      },
+      {
+        "title": "Φωτογραφίες και PDF",
+        "text": "Η αναγνώριση κειμένου γίνεται στη συσκευή σας. Οι εισαγόμενες φωτογραφίες και τα PDF αποθηκεύονται επίσης τοπικά μαζί με το υλικό σας. Για τα μαθήματα Pro, μπορείτε να στείλετε τη φωτογραφία ή τις πλήρεις επιλεγμένες σελίδες PDF στην OpenAI αφού τις ελέγξετε και επιβεβαιώσετε. Οι λειτουργίες μόνο κειμένου στέλνουν αποκλειστικά το ελεγμένο κείμενο."
+      },
+      {
+        "title": "Πάροχοι AI",
+        "text": "Με το κλειδί API σας, αποστέλλονται μόνο τα επιλεγμένα αποσπάσματα και οι οδηγίες δημιουργίας απευθείας στον πάροχο και στο μοντέλο που επιβεβαιώνετε. Το κλειδί σας αποθηκεύεται στο Keychain αυτής της συσκευής. Ο πάροχος ενδέχεται να διατηρεί αιτήματα βάσει των δικών του όρων. Το AnyPractice δεν μπορεί να διαγράψει αντίγραφα που βρίσκονται ήδη στον πάροχο."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Το Apple Intelligence δημιουργεί κάρτες μελέτης βάσει πηγών σε υποστηριζόμενες συσκευές. Η δημιουργία και η υποστηριζόμενη μετάφραση εκτελούνται τοπικά· ίσως χρειαστεί λήψη γλωσσικών πόρων."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Με το Pro, το επιλεγμένο κείμενο και οι επιβεβαιωμένες αρχικές σελίδες περνούν μέσω AnyPractice στο Vercel προς την OpenAI. Τα αρχικά αρχεία υποβάλλονται σε επεξεργασία για το συγκεκριμένο αίτημα, χωρίς βιβλιοθήκη αρχείων στον διακομιστή. Η Apple επεξεργάζεται τις πληρωμές· ο διακομιστής επαληθεύει τη συνδρομή σας και αποθηκεύει αναγνωριστικά και μετρητές χρήσης. Οι πάροχοι και οι υπηρεσίες φιλοξενίας χειρίζονται τα δεδομένα σύμφωνα με τις δικές τους πολιτικές."
+      },
+      {
+        "title": "Αφαίρεση αποθηκευμένων δεδομένων",
+        "text": "Διαγράψτε μια τράπουλα καρτών για να αφαιρέσετε από αυτή την εφαρμογή το αποθηκευμένο κείμενο, το τοπικό αντίγραφο φωτογραφίας ή PDF, το δημιουργημένο υλικό και την πρόοδό της. Άλλες τράπουλες με το ίδιο υλικό διατηρούν τα αντίγραφά τους. Η «Κατάργηση σύνδεσης» διαγράφει το αποθηκευμένο προσωπικό κλειδί. Τα αρχεία εκτός αυτής της εφαρμογής, τα αντίγραφα ασφαλείας και τα δεδομένα στον πάροχο είναι ξεχωριστά."
+      }
+    ],
+    "report": "Η AI μπορεί να κάνει λάθη. Μπορείτε να επεξεργαστείτε ή να διαγράψετε το παραγόμενο υλικό στην εφαρμογή. Για να αναφέρετε επιβλαβές περιεχόμενο, περιγράψτε το πρόβλημα χωρίς προσωπικές πληροφορίες."
+  },
+  "es": {
+    "labels": {
+      "Your material": "Tu material",
+      "Language": "Idioma",
+      "Lesson": "Lección",
+      "Cheat sheet": "Resumen rápido",
+      "Practice": "Practicar",
+      "Support": "Soporte",
+      "Privacy policy": "Política de privacidad",
+      "Contact support": "Contactar con soporte",
+      "Report generated content": "Denunciar contenido generado",
+      "Terms of use": "Condiciones de uso",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotos y PDF",
+      "Remove saved data": "Eliminar datos guardados",
+      "A LITTLE PRACTICE, EVERY DAY": "UN POCO DE PRÁCTICA CADA DÍA",
+      "Read and review": "Leer y repasar",
+      "AI providers": "Proveedores de IA",
+      "Local library": "Biblioteca local",
+      "About": "Acerca de"
+    },
+    "privacy": [
+      {
+        "title": "Biblioteca local",
+        "text": "El texto de estudio extraído, las lecciones, las tarjetas y el progreso se guardan en esta app en tu dispositivo. La app no crea una cuenta de AnyPractice ni ofrece sincronización propia en la nube. Las copias de seguridad del dispositivo pueden incluir los datos locales de la app."
+      },
+      {
+        "title": "Fotos y PDF",
+        "text": "El reconocimiento de texto se ejecuta en tu dispositivo. Las fotos y los PDF importados también se guardan localmente con tu material. Para las lecciones Pro, puedes enviar la foto o las páginas completas del PDF seleccionado a OpenAI después de revisarlas y confirmar su envío. Los modos de solo texto envían únicamente el texto revisado."
+      },
+      {
+        "title": "Proveedores de IA",
+        "text": "Con tu clave de API, solo los fragmentos seleccionados y las instrucciones de generación se envían directamente al proveedor y al modelo que confirmes. La clave se guarda en el Keychain de este dispositivo. El proveedor puede conservar las solicitudes según sus propias condiciones. AnyPractice no puede eliminar las copias que ese proveedor ya tenga."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence crea tarjetas basadas en el material original en dispositivos compatibles. La generación y la traducción compatible se realizan localmente; puede ser necesario descargar recursos de idiomas."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Con Pro, el texto seleccionado y las páginas originales que confirmes pasan por AnyPractice en Vercel hasta OpenAI. Los archivos originales se procesan para esa solicitud, sin una biblioteca de archivos en el servidor. Apple procesa los pagos; el servidor verifica tu suscripción y guarda identificadores y contadores de uso. Los proveedores de IA y alojamiento tratan los datos conforme a sus propias políticas."
+      },
+      {
+        "title": "Eliminar datos guardados",
+        "text": "Elimina un mazo para borrar de esta app su texto guardado, la copia local de la foto o el PDF, el material generado y el progreso. Otros mazos que usen el mismo material conservarán sus copias. «Eliminar conexión» borra la clave personal guardada. Los archivos externos a esta app, las copias de seguridad y los datos del proveedor se gestionan por separado."
+      }
+    ],
+    "report": "La IA puede cometer errores. Puedes editar o eliminar el material generado en la app. Para denunciar contenido perjudicial, describe el problema sin incluir información privada."
+  },
+  "es-419": {
+    "labels": {
+      "Your material": "Tu material",
+      "Language": "Idioma",
+      "Lesson": "Lección",
+      "Cheat sheet": "Hoja de referencia",
+      "Practice": "Practicar",
+      "Support": "Soporte",
+      "Privacy policy": "Política de privacidad",
+      "Contact support": "Contactar a soporte",
+      "Report generated content": "Denunciar contenido generado",
+      "Terms of use": "Condiciones de uso",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotos y PDF",
+      "Remove saved data": "Eliminar datos guardados",
+      "A LITTLE PRACTICE, EVERY DAY": "UN POCO DE PRÁCTICA, TODOS LOS DÍAS",
+      "Read and review": "Leer y repasar",
+      "AI providers": "Proveedores de IA",
+      "Local library": "Biblioteca local",
+      "About": "Acerca de"
+    },
+    "privacy": [
+      {
+        "title": "Biblioteca local",
+        "text": "El texto de estudio extraído, las lecciones, las tarjetas y el progreso se guardan en esta app en tu dispositivo. La app no crea una cuenta de AnyPractice ni ofrece sincronización propia en la nube. Las copias de seguridad del dispositivo pueden incluir los datos locales de la app."
+      },
+      {
+        "title": "Fotos y PDF",
+        "text": "El reconocimiento de texto se ejecuta en tu dispositivo. Las fotos y los PDF importados también se guardan localmente con tu material. Para las lecciones Pro, puedes enviar la foto o las páginas completas del PDF seleccionado a OpenAI después de revisarlas y confirmar su envío. Los modos de solo texto envían únicamente el texto revisado."
+      },
+      {
+        "title": "Proveedores de IA",
+        "text": "Con tu clave de API, solo los fragmentos seleccionados y las instrucciones de generación se envían directamente al proveedor y al modelo que confirmes. La clave se guarda en el Keychain de este dispositivo. El proveedor puede conservar las solicitudes según sus propias condiciones. AnyPractice no puede eliminar las copias que ese proveedor ya tenga."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence crea tarjetas basadas en el material original en dispositivos compatibles. La generación y la traducción compatible se realizan localmente; puede ser necesario descargar recursos de idiomas."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Con Pro, el texto seleccionado y las páginas originales que confirmes pasan por AnyPractice en Vercel hasta OpenAI. Los archivos originales se procesan para esa solicitud, sin una biblioteca de archivos en el servidor. Apple procesa los pagos; el servidor verifica tu suscripción y guarda identificadores y contadores de uso. Los proveedores de IA y alojamiento tratan los datos conforme a sus propias políticas."
+      },
+      {
+        "title": "Eliminar datos guardados",
+        "text": "Elimina un mazo para borrar de esta app su texto guardado, la copia local de la foto o el PDF, el material generado y el progreso. Otros mazos que usen el mismo material conservarán sus copias. «Eliminar conexión» borra la clave personal guardada. Los archivos externos a esta app, las copias de seguridad y los datos del proveedor se gestionan por separado."
+      }
+    ],
+    "report": "La IA puede cometer errores. Puedes editar o eliminar el material generado en la app. Para denunciar contenido perjudicial, describe el problema sin incluir información privada."
+  },
+  "fi": {
+    "labels": {
+      "Your material": "Materiaalisi",
+      "Language": "Kieli",
+      "Lesson": "Oppitunti",
+      "Cheat sheet": "Tiivistelmä",
+      "Practice": "Harjoittele",
+      "Support": "Tuki",
+      "Privacy policy": "Tietosuojakäytäntö",
+      "Contact support": "Ota yhteyttä tukeen",
+      "Report generated content": "Ilmoita luodusta sisällöstä",
+      "Terms of use": "Käyttöehdot",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Kuvat ja PDF-tiedostot",
+      "Remove saved data": "Poista tallennetut tiedot",
+      "A LITTLE PRACTICE, EVERY DAY": "VÄHÄN HARJOITUSTA JOKA PÄIVÄ",
+      "Read and review": "Lue ja tarkista",
+      "AI providers": "Tekoälypalveluntarjoajat",
+      "Local library": "Paikallinen kirjasto",
+      "About": "Tietoja"
+    },
+    "privacy": [
+      {
+        "title": "Paikallinen kirjasto",
+        "text": "Poimittu opiskeluteksti, oppitunnit, kortit ja edistymisesi tallennetaan tähän sovellukseen laitteellasi. Sovellus ei luo AnyPractice-tiliä eikä tarjoa omaa pilvisynkronointia. Laitteen varmuuskopiot voivat sisältää sovelluksen paikallisia tietoja."
+      },
+      {
+        "title": "Kuvat ja PDF-tiedostot",
+        "text": "Tekstintunnistus tapahtuu laitteellasi. Myös tuodut kuvat ja PDF:t tallennetaan paikallisesti materiaalisi yhteyteen. Pro-oppitunneilla voit lähettää kuvan tai kokonaiset valitut PDF-sivut OpenAI:lle tarkistuksen ja vahvistuksen jälkeen. Vain tekstiä käyttävät tilat lähettävät ainoastaan tarkistetun tekstin."
+      },
+      {
+        "title": "Tekoälypalveluntarjoajat",
+        "text": "Omalla API-avaimellasi vain valitut tekstikatkelmat ja luontiohjeet lähetetään suoraan vahvistamallesi palveluntarjoajalle ja mallille. Avaimesi tallennetaan tämän laitteen Keychainiin. Palveluntarjoaja voi säilyttää pyyntöjä omien ehtojensa mukaisesti. AnyPractice ei voi poistaa palveluntarjoajan jo hallussa olevia kopioita."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence luo lähteisiin perustuvia muistikortteja tuetuilla laitteilla. Luominen ja tuetut käännökset suoritetaan paikallisesti; kieliaineistot on ehkä ladattava."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Prolla valittu teksti ja vahvistetut alkuperäiset sivut kulkevat Vercelissä toimivan AnyPracticen kautta OpenAI:lle. Alkuperäiset tiedostot käsitellään kyseistä pyyntöä varten ilman palvelimella olevaa tiedostokirjastoa. Apple käsittelee maksut; palvelin vahvistaa tilauksesi ja tallentaa tunnisteita sekä käyttölaskureita. Palveluntarjoajat ja hosting-palvelut käsittelevät tietoja omien käytäntöjensä mukaisesti."
+      },
+      {
+        "title": "Poista tallennetut tiedot",
+        "text": "Poista korttipakka, jos haluat poistaa sen tallennetun tekstin, paikallisen kuva- tai PDF-kopion, luodun materiaalin ja edistymisen tästä apista. Muut samaa materiaalia käyttävät pakat säilyttävät omat kopionsa. Poista yhteys poistaa tallennetun henkilökohtaisen avaimen. Apin ulkopuoliset tiedostot, varmuuskopiot ja palveluntarjoajan tiedot ovat erillisiä."
+      }
+    ],
+    "report": "Tekoäly voi tehdä virheitä. Voit muokata tai poistaa luotua materiaalia sovelluksessa. Ilmoita haitallisesta sisällöstä kuvaamalla ongelma ilman yksityisiä tietoja."
+  },
+  "fr": {
+    "labels": {
+      "Your material": "Votre contenu",
+      "Language": "Langue",
+      "Lesson": "Leçon",
+      "Cheat sheet": "Aide-mémoire",
+      "Practice": "S’entraîner",
+      "Support": "Assistance",
+      "Privacy policy": "Politique de confidentialité",
+      "Contact support": "Contacter l’assistance",
+      "Report generated content": "Signaler un contenu généré",
+      "Terms of use": "Conditions d’utilisation",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Photos et PDF",
+      "Remove saved data": "Supprimer les données enregistrées",
+      "A LITTLE PRACTICE, EVERY DAY": "UN PEU DE PRATIQUE, CHAQUE JOUR",
+      "Read and review": "Lire et réviser",
+      "AI providers": "Fournisseurs d’IA",
+      "Local library": "Bibliothèque locale",
+      "About": "À propos"
+    },
+    "privacy": [
+      {
+        "title": "Bibliothèque locale",
+        "text": "Le texte d’étude extrait, les leçons, les cartes et la progression sont enregistrés dans cette app sur votre appareil. L’app ne crée pas de compte AnyPractice et ne propose pas sa propre synchronisation dans le cloud. Les sauvegardes de l’appareil peuvent inclure les données locales de l’app."
+      },
+      {
+        "title": "Photos et PDF",
+        "text": "La reconnaissance de texte s’effectue sur votre appareil. Les photos et PDF importés sont également enregistrés localement avec votre contenu. Pour les leçons Pro, vous pouvez envoyer la photo ou les pages PDF sélectionnées en entier à OpenAI après vérification et confirmation. Les modes texte seul envoient uniquement le texte vérifié."
+      },
+      {
+        "title": "Fournisseurs d’IA",
+        "text": "Avec votre clé API, seuls les extraits sélectionnés et les instructions de génération sont envoyés directement au fournisseur et au modèle que vous confirmez. Votre clé est stockée dans le Keychain de cet appareil. Le fournisseur peut conserver les demandes selon ses propres conditions. AnyPractice ne peut pas supprimer les copies déjà détenues par ce fournisseur."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence crée des cartes à partir du document source sur les appareils compatibles. La génération et les traductions prises en charge s’effectuent localement ; le téléchargement de ressources linguistiques peut être nécessaire."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Avec Pro, le texte sélectionné et les pages originales confirmées transitent par AnyPractice sur Vercel vers OpenAI. Les fichiers originaux sont traités pour cette demande, sans bibliothèque de fichiers sur le serveur. Apple traite les paiements ; le serveur vérifie votre abonnement et stocke des identifiants et des compteurs d’utilisation. Les fournisseurs d’IA et d’hébergement traitent les données selon leurs propres politiques."
+      },
+      {
+        "title": "Supprimer les données enregistrées",
+        "text": "Supprimez un paquet pour effacer de cette app son texte enregistré, la copie locale de la photo ou du PDF, le contenu généré et la progression. Les autres paquets utilisant le même contenu conservent leurs copies. « Supprimer la connexion » efface la clé personnelle enregistrée. Les fichiers hors de cette app, les sauvegardes et les données détenues par les fournisseurs sont distincts."
+      }
+    ],
+    "report": "L’IA peut se tromper. Vous pouvez modifier ou supprimer les contenus générés dans l’app. Pour signaler un contenu nuisible, décrivez le problème sans inclure d’informations privées."
+  },
+  "fr-CA": {
+    "labels": {
+      "Your material": "Votre contenu",
+      "Language": "Langue",
+      "Lesson": "Leçon",
+      "Cheat sheet": "Aide-mémoire",
+      "Practice": "Pratique",
+      "Support": "Assistance",
+      "Privacy policy": "Politique de confidentialité",
+      "Contact support": "Contacter l’assistance",
+      "Report generated content": "Signaler un contenu généré",
+      "Terms of use": "Conditions d’utilisation",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Photos et PDF",
+      "Remove saved data": "Supprimer les données enregistrées",
+      "A LITTLE PRACTICE, EVERY DAY": "UN PEU DE PRATIQUE, CHAQUE JOUR",
+      "Read and review": "Lire et réviser",
+      "AI providers": "Fournisseurs d’IA",
+      "Local library": "Bibliothèque locale",
+      "About": "À propos"
+    },
+    "privacy": [
+      {
+        "title": "Bibliothèque locale",
+        "text": "Le texte d’étude extrait, les leçons, les cartes et la progression sont enregistrés dans cette app sur votre appareil. L’app ne crée pas de compte AnyPractice et n’offre pas sa propre synchronisation infonuagique. Les sauvegardes de l’appareil peuvent inclure les données locales de l’app."
+      },
+      {
+        "title": "Photos et PDF",
+        "text": "La reconnaissance de texte s’effectue sur votre appareil. Les photos et PDF importés sont également enregistrés localement avec votre contenu. Pour les leçons Pro, vous pouvez envoyer la photo ou les pages PDF sélectionnées en entier à OpenAI après vérification et confirmation. Les modes texte seul envoient uniquement le texte vérifié."
+      },
+      {
+        "title": "Fournisseurs d’IA",
+        "text": "Avec votre clé API, seuls les extraits sélectionnés et les instructions de génération sont envoyés directement au fournisseur et au modèle que vous confirmez. Votre clé est stockée dans le Keychain de cet appareil. Le fournisseur peut conserver les demandes selon ses propres conditions. AnyPractice ne peut pas supprimer les copies déjà détenues par ce fournisseur."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence crée des cartes à partir du document source sur les appareils compatibles. La génération et les traductions prises en charge s’effectuent localement ; le téléchargement de ressources linguistiques peut être nécessaire."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Avec Pro, le texte sélectionné et les pages originales confirmées transitent par AnyPractice sur Vercel vers OpenAI. Les fichiers originaux sont traités pour cette demande, sans bibliothèque de fichiers sur le serveur. Apple traite les paiements ; le serveur vérifie votre abonnement et stocke des identifiants et des compteurs d’utilisation. Les fournisseurs d’IA et d’hébergement traitent les données selon leurs propres politiques."
+      },
+      {
+        "title": "Supprimer les données enregistrées",
+        "text": "Supprimez un paquet pour effacer de cette app son texte enregistré, la copie locale de la photo ou du PDF, le contenu généré et la progression. Les autres paquets utilisant le même contenu conservent leurs copies. « Supprimer la connexion » efface la clé personnelle enregistrée. Les fichiers hors de cette app, les sauvegardes et les données détenues par les fournisseurs sont distincts."
+      }
+    ],
+    "report": "L’IA peut se tromper. Vous pouvez modifier ou supprimer les contenus générés dans l’app. Pour signaler un contenu nuisible, décrivez le problème sans inclure d’informations privées."
+  },
+  "gu": {
+    "labels": {
+      "Your material": "તમારી સામગ્રી",
+      "Language": "ભાષા",
+      "Lesson": "પાઠ",
+      "Cheat sheet": "ચીટ શીટ",
+      "Practice": "પ્રેક્ટિસ",
+      "Support": "સહાય",
+      "Privacy policy": "ગોપનીયતા નીતિ",
+      "Contact support": "સહાયનો સંપર્ક કરો",
+      "Report generated content": "બનાવેલી સામગ્રીની જાણ કરો",
+      "Terms of use": "ઉપયોગની શરતો",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ફોટા અને PDF",
+      "Remove saved data": "સાચવેલો ડેટા દૂર કરો",
+      "A LITTLE PRACTICE, EVERY DAY": "દરરોજ થોડી પ્રેક્ટિસ",
+      "Read and review": "વાંચો અને સમીક્ષા કરો",
+      "AI providers": "AI પ્રદાતાઓ",
+      "Local library": "સ્થાનિક લાઇબ્રેરી",
+      "About": "વિશે"
+    },
+    "privacy": [
+      {
+        "title": "સ્થાનિક લાઇબ્રેરી",
+        "text": "કાઢેલું અભ્યાસનું લખાણ, પાઠ, કાર્ડ અને પ્રગતિ તમારા ઉપકરણ પર આ ઍપમાં સચવાય છે. ઍપ AnyPractice ખાતું બનાવતી નથી કે પોતાની ક્લાઉડ સમન્વય સુવિધા આપતી નથી. ઉપકરણનાં બૅકઅપમાં ઍપનો સ્થાનિક ડેટા હોઈ શકે છે."
+      },
+      {
+        "title": "ફોટા અને PDF",
+        "text": "ટેક્સ્ટ ઓળખવાની પ્રક્રિયા તમારા ઉપકરણ પર ચાલે છે. આયાત કરેલા ફોટા અને PDF પણ તમારી સામગ્રી સાથે સ્થાનિક રીતે સાચવાય છે. Pro પાઠ માટે, સમીક્ષા અને પુષ્ટિ કર્યા પછી તમે ફોટો અથવા પસંદ કરેલાં સંપૂર્ણ PDF પાનાં OpenAIને મોકલી શકો છો. માત્ર ટેક્સ્ટવાળા મોડ ફક્ત સમીક્ષા કરેલું ટેક્સ્ટ મોકલે છે."
+      },
+      {
+        "title": "AI પ્રદાતાઓ",
+        "text": "તમારી API કી સાથે, માત્ર પસંદ કરેલા અંશો અને સામગ્રી બનાવવાની સૂચનાઓ તમે પુષ્ટિ કરેલા પ્રદાતા અને મૉડલને સીધી મોકલવામાં આવે છે. તમારી કી આ ઉપકરણના Keychainમાં સચવાય છે. પ્રદાતા તેની શરતો મુજબ વિનંતીઓ રાખી શકે છે. તે પ્રદાતા પાસે પહેલેથી રહેલી નકલો AnyPractice કાઢી શકતું નથી."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence સમર્થિત ઉપકરણો પર સ્રોત-આધારિત ફ્લેશકાર્ડ બનાવે છે. સામગ્રી બનાવવાનું અને સમર્થિત અનુવાદ સ્થાનિક રીતે થાય છે; ભાષાના સંસાધનો ડાઉનલોડ કરવા પડી શકે છે."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Proમાં પસંદ કરેલું ટેક્સ્ટ અને પુષ્ટિ કરેલાં મૂળ પાનાં Vercel પરના AnyPractice દ્વારા OpenAI સુધી જાય છે. સર્વર પર ફાઇલ લાઇબ્રેરી બનાવ્યા વિના, મૂળ ફાઇલો તે વિનંતી માટે પ્રોસેસ થાય છે. Apple ચુકવણીની પ્રક્રિયા કરે છે; સર્વર તમારું સબ્સ્ક્રિપ્શન ચકાસે છે અને ઓળખકર્તા તથા વપરાશની ગણતરી સાચવે છે. પ્રદાતા અને હોસ્ટિંગ સેવાઓ તેમની પોતાની નીતિઓ અનુસાર ડેટા સંભાળે છે."
+      },
+      {
+        "title": "સાચવેલો ડેટા દૂર કરો",
+        "text": "ડેક કાઢી નાખવાથી આ ઍપમાંથી તેનું સાચવેલું ટેક્સ્ટ, ફોટા અથવા PDFની સ્થાનિક નકલ, બનાવેલી સામગ્રી અને પ્રગતિ દૂર થશે. એ જ સામગ્રી વાપરતા અન્ય ડેક તેમની નકલો રાખશે. «કનેક્શન દૂર કરો» સાચવેલી વ્યક્તિગત કી કાઢી નાખે છે. આ ઍપની બહારની ફાઇલો, બૅકઅપ અને પ્રદાતા પાસેનો ડેટા અલગ છે."
+      }
+    ],
+    "report": "AI ભૂલો કરી શકે છે. તમે ઍપમાં બનાવેલી સામગ્રીને સંપાદિત અથવા કાઢી શકો છો. હાનિકારક સામગ્રીની જાણ કરવા માટે ખાનગી માહિતી આપ્યા વિના સમસ્યા વર્ણવો."
+  },
+  "he": {
+    "labels": {
+      "Your material": "החומר שלכם",
+      "Language": "שפה",
+      "Lesson": "שיעור",
+      "Cheat sheet": "דף סיכום",
+      "Practice": "תרגול",
+      "Support": "תמיכה",
+      "Privacy policy": "מדיניות פרטיות",
+      "Contact support": "יצירת קשר עם התמיכה",
+      "Report generated content": "דיווח על תוכן שנוצר",
+      "Terms of use": "תנאי שימוש",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "תמונות וקובצי PDF",
+      "Remove saved data": "הסרת נתונים שמורים",
+      "A LITTLE PRACTICE, EVERY DAY": "מעט תרגול, בכל יום",
+      "Read and review": "קריאה וחזרה",
+      "AI providers": "ספקי בינה מלאכותית",
+      "Local library": "ספרייה מקומית",
+      "About": "אודות"
+    },
+    "privacy": [
+      {
+        "title": "ספרייה מקומית",
+        "text": "טקסט הלימוד שחולץ, השיעורים, הכרטיסיות וההתקדמות נשמרים באפליקציה זו במכשיר שלך. האפליקציה אינה יוצרת חשבון AnyPractice ואינה מספקת סנכרון ענן משלה. גיבויי המכשיר עשויים לכלול נתונים מקומיים של האפליקציה."
+      },
+      {
+        "title": "תמונות וקובצי PDF",
+        "text": "זיהוי הטקסט מתבצע במכשיר שלך. תמונות וקובצי PDF שיובאו נשמרים גם במכשיר יחד עם חומרי הלימוד. בשיעורי Pro אפשר לשלוח את התמונה או את עמודי ה-PDF שנבחרו במלואם אל OpenAI לאחר בדיקה ואישור. מצבי טקסט בלבד שולחים רק טקסט שנבדק."
+      },
+      {
+        "title": "ספקי בינה מלאכותית",
+        "text": "עם מפתח ה-API שלך, רק הקטעים שנבחרו והוראות היצירה נשלחים ישירות לספק ולמודל שאישרת. המפתח נשמר ב-Keychain של מכשיר זה. הספק עשוי לשמור בקשות לפי התנאים שלו. AnyPractice אינה יכולה למחוק עותקים שכבר מוחזקים אצל אותו ספק."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence יוצרת כרטיסיות לימוד המבוססות על מקורות במכשירים נתמכים. היצירה והתרגום הנתמך מתבצעים מקומית; ייתכן שיהיה צורך להוריד משאבי שפה."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "עם Pro, הטקסט שנבחר והעמודים המקוריים שאושרו לשליחה עוברים דרך AnyPractice ב-Vercel אל OpenAI. קובצי המקור מעובדים עבור אותה בקשה, ללא ספריית קבצים בשרת. Apple מטפלת בתשלומים; השרת מאמת את המינוי ושומר מזהים ומוני שימוש. הספק ושירותי האירוח מטפלים בנתונים בהתאם למדיניות שלהם."
+      },
+      {
+        "title": "הסרת נתונים שמורים",
+        "text": "מחיקת חפיסה מסירה מהאפליקציה את הטקסט השמור שלה, את העותק המקומי של התמונה או ה-PDF, את החומרים שנוצרו ואת ההתקדמות. חפיסות אחרות המשתמשות באותו חומר שומרות על העותקים שלהן. הסרת חיבור מוחקת את המפתח האישי השמור. קבצים מחוץ לאפליקציה, גיבויים ונתונים אצל הספק מנוהלים בנפרד."
+      }
+    ],
+    "report": "בינה מלאכותית עלולה לטעות. אפשר לערוך או למחוק חומר שנוצר בתוך האפליקציה. כדי לדווח על תוכן מזיק, יש לתאר את הבעיה בלי לכלול מידע פרטי."
+  },
+  "hi": {
+    "labels": {
+      "Your material": "आपकी सामग्री",
+      "Language": "भाषा",
+      "Lesson": "पाठ",
+      "Cheat sheet": "चीट शीट",
+      "Practice": "अभ्यास",
+      "Support": "सहायता",
+      "Privacy policy": "गोपनीयता नीति",
+      "Contact support": "सहायता से संपर्क करें",
+      "Report generated content": "बनाई गई सामग्री की रिपोर्ट करें",
+      "Terms of use": "उपयोग की शर्तें",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "फ़ोटो और PDF",
+      "Remove saved data": "सहेजा गया डेटा हटाएँ",
+      "A LITTLE PRACTICE, EVERY DAY": "थोड़ा-सा अभ्यास, हर दिन",
+      "Read and review": "पढ़ें और समीक्षा करें",
+      "AI providers": "AI प्रदाता",
+      "Local library": "स्थानीय लाइब्रेरी",
+      "About": "परिचय"
+    },
+    "privacy": [
+      {
+        "title": "स्थानीय लाइब्रेरी",
+        "text": "निकाला गया अध्ययन टेक्स्ट, पाठ, कार्ड और प्रगति आपके डिवाइस पर इस ऐप में सहेजे जाते हैं। ऐप AnyPractice खाता नहीं बनाता और अपनी क्लाउड सिंक सुविधा नहीं देता। डिवाइस के बैकअप में ऐप का स्थानीय डेटा शामिल हो सकता है।"
+      },
+      {
+        "title": "फ़ोटो और PDF",
+        "text": "टेक्स्ट की पहचान आपके डिवाइस पर होती है। आयात की गई फ़ोटो और PDF भी आपकी सामग्री के साथ स्थानीय रूप से सहेजे जाते हैं। Pro के पाठों के लिए समीक्षा और पुष्टि करने के बाद आप फ़ोटो या चुने हुए पूरे PDF पेज OpenAI को भेज सकते हैं। केवल टेक्स्ट वाले मोड सिर्फ़ समीक्षा किया गया टेक्स्ट भेजते हैं।"
+      },
+      {
+        "title": "AI प्रदाता",
+        "text": "आपकी API कुंजी से केवल चुने गए अंश और सामग्री बनाने के निर्देश सीधे उसी प्रदाता और मॉडल को भेजे जाते हैं जिनकी आप पुष्टि करते हैं। आपकी कुंजी इस डिवाइस के Keychain में सहेजी जाती है। प्रदाता अपनी शर्तों के अनुसार अनुरोध रख सकता है। AnyPractice उस प्रदाता के पास पहले से मौजूद प्रतियाँ नहीं मिटा सकता।"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence समर्थित डिवाइस पर स्रोत सामग्री पर आधारित फ़्लैशकार्ड बनाता है। सामग्री बनाना और समर्थित अनुवाद डिवाइस पर ही होते हैं; भाषा संसाधन डाउनलोड करने की ज़रूरत पड़ सकती है।"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro के साथ चुना हुआ टेक्स्ट और वे मूल पेज जिन्हें भेजने की आपने पुष्टि की है, Vercel पर मौजूद AnyPractice के ज़रिए OpenAI तक पहुँचते हैं। मूल फ़ाइलों को उस अनुरोध के लिए प्रोसेस किया जाता है; सर्वर पर फ़ाइल लाइब्रेरी नहीं बनाई जाती। Apple भुगतान संभालता है; सर्वर आपकी सदस्यता की पुष्टि करता है और पहचानकर्ता व उपयोग की गिनती सहेजता है। प्रदाता और होस्टिंग सेवाएँ अपनी नीतियों के अनुसार डेटा संभालती हैं।"
+      },
+      {
+        "title": "सहेजा गया डेटा हटाएँ",
+        "text": "इस ऐप से किसी डेक का सहेजा गया टेक्स्ट, फ़ोटो या PDF की स्थानीय कॉपी, बनाई गई सामग्री और प्रगति हटाने के लिए डेक हटाएँ। उसी सामग्री का उपयोग करने वाले दूसरे डेक अपनी कॉपी बनाए रखते हैं। «कनेक्शन हटाएँ» से सहेजी गई आपकी व्यक्तिगत कुंजी हट जाती है। इस ऐप के बाहर की फ़ाइलें, बैकअप और प्रदाता के पास मौजूद डेटा अलग हैं।"
+      }
+    ],
+    "report": "AI से गलतियाँ हो सकती हैं। आप ऐप में बनाई गई सामग्री को संपादित या मिटा सकते हैं। हानिकारक सामग्री की रिपोर्ट करने के लिए निजी जानकारी शामिल किए बिना समस्या का वर्णन करें।"
+  },
+  "hr": {
+    "labels": {
+      "Your material": "Vaše gradivo",
+      "Language": "Jezik",
+      "Lesson": "Lekcija",
+      "Cheat sheet": "Podsjetnik",
+      "Practice": "Vježba",
+      "Support": "Podrška",
+      "Privacy policy": "Pravila privatnosti",
+      "Contact support": "Obratite se podršci",
+      "Report generated content": "Prijavi generirani sadržaj",
+      "Terms of use": "Uvjeti korištenja",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotografije i PDF-ovi",
+      "Remove saved data": "Ukloni spremljene podatke",
+      "A LITTLE PRACTICE, EVERY DAY": "MALO VJEŽBE, SVAKI DAN",
+      "Read and review": "Pročitaj i pregledaj",
+      "AI providers": "Pružatelji AI usluga",
+      "Local library": "Lokalna biblioteka",
+      "About": "O aplikaciji"
+    },
+    "privacy": [
+      {
+        "title": "Lokalna biblioteka",
+        "text": "Izdvojeni tekst za učenje, lekcije, kartice i napredak spremaju se u ovoj aplikaciji na vašem uređaju. Aplikacija ne stvara AnyPractice račun niti pruža vlastitu sinkronizaciju u oblaku. Sigurnosne kopije uređaja mogu uključivati lokalne podatke aplikacije."
+      },
+      {
+        "title": "Fotografije i PDF-ovi",
+        "text": "Prepoznavanje teksta odvija se na tvom uređaju. Uvezene fotografije i PDF-ovi također se spremaju lokalno s tvojim materijalima. Za Pro lekcije možeš poslati fotografiju ili cijele odabrane PDF stranice OpenAI-ju nakon pregleda i potvrde. Načini samo s tekstom šalju isključivo pregledani tekst."
+      },
+      {
+        "title": "Pružatelji AI usluga",
+        "text": "Uz vaš API ključ samo se odabrani odlomci i upute za generiranje šalju izravno pružatelju i modelu koje potvrdite. Ključ je pohranjen u Keychainu ovog uređaja. Pružatelj može čuvati zahtjeve prema vlastitim uvjetima. AnyPractice ne može izbrisati kopije koje taj pružatelj već posjeduje."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence izrađuje kartice za učenje na temelju izvora na podržanim uređajima. Generiranje i podržano prevođenje odvijaju se lokalno; jezične resurse možda će trebati preuzeti."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Uz Pro odabrani tekst i potvrđene izvorne stranice prolaze putem AnyPracticea na Vercelu do OpenAI-ja. Izvorne datoteke obrađuju se za taj zahtjev, bez biblioteke datoteka na poslužitelju. Apple obrađuje plaćanja; poslužitelj provjerava tvoju pretplatu i sprema identifikatore te brojače korištenja. Pružatelji usluga i usluge hostinga obrađuju podatke prema vlastitim pravilima."
+      },
+      {
+        "title": "Ukloni spremljene podatke",
+        "text": "Izbriši špil kako bi iz ove aplikacije uklonio spremljeni tekst, lokalnu kopiju fotografije ili PDF-a, generirani materijal i napredak. Drugi špilovi koji koriste isti materijal zadržavaju svoje kopije. „Ukloni vezu” briše spremljeni osobni ključ. Datoteke izvan ove aplikacije, sigurnosne kopije i podaci kod pružatelja usluge odvojeni su."
+      }
+    ],
+    "report": "AI može pogriješiti. Generirani materijal možete urediti ili izbrisati u aplikaciji. Za prijavu štetnog sadržaja opišite problem bez uključivanja privatnih podataka."
+  },
+  "hu": {
+    "labels": {
+      "Your material": "Az anyagod",
+      "Language": "Nyelv",
+      "Lesson": "Lecke",
+      "Cheat sheet": "Puska",
+      "Practice": "Gyakorlás",
+      "Support": "Támogatás",
+      "Privacy policy": "Adatvédelmi szabályzat",
+      "Contact support": "Kapcsolat az ügyfélszolgálattal",
+      "Report generated content": "Létrehozott tartalom jelentése",
+      "Terms of use": "Felhasználási feltételek",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotók és PDF-ek",
+      "Remove saved data": "Mentett adatok eltávolítása",
+      "A LITTLE PRACTICE, EVERY DAY": "KIS GYAKORLÁS, NAPONTA",
+      "Read and review": "Olvasás és átnézés",
+      "AI providers": "AI-szolgáltatók",
+      "Local library": "Helyi könyvtár",
+      "About": "Névjegy"
+    },
+    "privacy": [
+      {
+        "title": "Helyi könyvtár",
+        "text": "A kinyert tanulási szöveget, leckéket, kártyákat és haladást ez az alkalmazás az eszközödön tárolja. Az alkalmazás nem hoz létre AnyPractice-fiókot, és nem kínál saját felhőszinkronizálást. Az eszköz biztonsági mentései tartalmazhatják az alkalmazás helyi adatait."
+      },
+      {
+        "title": "Fotók és PDF-ek",
+        "text": "A szövegfelismerés az eszközödön történik. Az importált fotókat és PDF-eket is helyben tároljuk a tananyagoddal együtt. Pro-leckékhez ellenőrzés és jóváhagyás után elküldheted a fotót vagy a teljes kijelölt PDF-oldalakat az OpenAI-nak. A csak szöveges módok kizárólag az ellenőrzött szöveget küldik el."
+      },
+      {
+        "title": "AI-szolgáltatók",
+        "text": "A saját API-kulcsoddal csak a kijelölt részletek és a létrehozási utasítások kerülnek közvetlenül az általad jóváhagyott szolgáltatóhoz és modellhez. A kulcs az eszköz Keychain tárolójában van. A szolgáltató a saját feltételei szerint megőrizheti a kéréseket. Az AnyPractice nem tudja törölni a szolgáltatónál már meglévő másolatokat."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Az Apple Intelligence forrásalapú tanulókártyákat készít a támogatott eszközökön. A létrehozás és a támogatott fordítás helyben történik; a nyelvi erőforrásokat esetleg le kell tölteni."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "A Próval a kijelölt szöveg és a jóváhagyott eredeti oldalak a Vercelen futó AnyPractice-en keresztül jutnak el az OpenAI-hoz. Az eredeti fájlokat az adott kéréshez dolgozzuk fel, szerveres fájlkönyvtár nélkül. A fizetéseket az Apple kezeli; a szerver ellenőrzi az előfizetésedet, és azonosítókat, valamint használati számlálókat tárol. A szolgáltatók és a tárhelyszolgáltatók a saját szabályzataik szerint kezelik az adatokat."
+      },
+      {
+        "title": "Mentett adatok eltávolítása",
+        "text": "Egy kártyacsomag törlésével eltávolítod az appból a mentett szövegét, a fotó vagy PDF helyi másolatát, a generált tananyagot és a haladásodat. Az ugyanazt a tananyagot használó más csomagok megőrzik a saját másolataikat. A „Kapcsolat eltávolítása” törli a mentett személyes kulcsot. Az appon kívüli fájlok, a biztonsági mentések és a szolgáltatónál tárolt adatok külön kezelendők."
+      }
+    ],
+    "report": "Az AI tévedhet. Az alkalmazásban szerkesztheted vagy törölheted a létrehozott tananyagot. Káros tartalom jelentésekor írd le a problémát személyes adatok megadása nélkül."
+  },
+  "id": {
+    "labels": {
+      "Your material": "Materi Anda",
+      "Language": "Bahasa",
+      "Lesson": "Pelajaran",
+      "Cheat sheet": "Lembar contekan",
+      "Practice": "Latihan",
+      "Support": "Dukungan",
+      "Privacy policy": "Kebijakan privasi",
+      "Contact support": "Hubungi dukungan",
+      "Report generated content": "Laporkan konten yang dihasilkan",
+      "Terms of use": "Ketentuan penggunaan",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Foto dan PDF",
+      "Remove saved data": "Hapus data tersimpan",
+      "A LITTLE PRACTICE, EVERY DAY": "LATIHAN SEDIKIT, SETIAP HARI",
+      "Read and review": "Baca dan tinjau",
+      "AI providers": "Penyedia AI",
+      "Local library": "Perpustakaan lokal",
+      "About": "Tentang"
+    },
+    "privacy": [
+      {
+        "title": "Perpustakaan lokal",
+        "text": "Teks belajar yang diekstrak, pelajaran, kartu, dan progres Anda disimpan di aplikasi ini pada perangkat Anda. Aplikasi tidak membuat akun AnyPractice atau menyediakan sinkronisasi cloud sendiri. Cadangan perangkat mungkin menyertakan data aplikasi lokal."
+      },
+      {
+        "title": "Foto dan PDF",
+        "text": "Pengenalan teks berjalan di perangkat Anda. Foto dan PDF yang diimpor juga disimpan di perangkat bersama materi Anda. Untuk pelajaran Pro, Anda dapat mengirim foto atau seluruh halaman PDF yang dipilih ke OpenAI setelah meninjau dan mengonfirmasinya. Mode teks saja hanya mengirim teks yang telah ditinjau."
+      },
+      {
+        "title": "Penyedia AI",
+        "text": "Dengan kunci API Anda, hanya kutipan yang dipilih dan instruksi pembuatan yang dikirim langsung ke penyedia dan model yang Anda konfirmasi. Kunci Anda disimpan di Keychain perangkat ini. Penyedia dapat menyimpan permintaan sesuai ketentuannya sendiri. AnyPractice tidak dapat menghapus salinan yang sudah disimpan oleh penyedia tersebut."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence membuat kartu belajar berdasarkan sumber pada perangkat yang didukung. Pembuatan dan penerjemahan yang didukung berjalan secara lokal; aset bahasa mungkin perlu diunduh."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Dengan Pro, teks yang dipilih dan halaman asli yang telah Anda konfirmasi akan melewati AnyPractice di Vercel menuju OpenAI. File asli diproses untuk permintaan tersebut tanpa pustaka file di server. Apple menangani pembayaran; server memverifikasi langganan Anda dan menyimpan pengenal serta penghitung penggunaan. Penyedia dan layanan hosting menangani data sesuai kebijakan masing-masing."
+      },
+      {
+        "title": "Hapus data tersimpan",
+        "text": "Hapus deck untuk menghapus teks tersimpan, salinan foto atau PDF di perangkat, materi yang dihasilkan, dan progresnya dari aplikasi ini. Deck lain yang menggunakan materi yang sama tetap menyimpan salinannya masing-masing. Hapus koneksi akan menghapus kunci pribadi yang tersimpan. File di luar aplikasi ini, cadangan, dan data di pihak penyedia dikelola secara terpisah."
+      }
+    ],
+    "report": "AI dapat membuat kesalahan. Anda dapat mengedit atau menghapus materi yang dihasilkan di aplikasi. Untuk melaporkan konten berbahaya, jelaskan masalahnya tanpa menyertakan informasi pribadi."
+  },
+  "it": {
+    "labels": {
+      "Your material": "Il tuo materiale",
+      "Language": "Lingua",
+      "Lesson": "Lezione",
+      "Cheat sheet": "Riassunto rapido",
+      "Practice": "Esercitati",
+      "Support": "Assistenza",
+      "Privacy policy": "Informativa sulla privacy",
+      "Contact support": "Contatta l’assistenza",
+      "Report generated content": "Segnala contenuti generati",
+      "Terms of use": "Condizioni d’uso",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Foto e PDF",
+      "Remove saved data": "Rimuovi i dati salvati",
+      "A LITTLE PRACTICE, EVERY DAY": "UN PO' DI PRATICA OGNI GIORNO",
+      "Read and review": "Leggi e ripassa",
+      "AI providers": "Fornitori di IA",
+      "Local library": "Libreria locale",
+      "About": "Informazioni"
+    },
+    "privacy": [
+      {
+        "title": "Libreria locale",
+        "text": "Il testo di studio estratto, le lezioni, le carte e i progressi vengono salvati in questa app sul tuo dispositivo. L’app non crea un account AnyPractice né offre una propria sincronizzazione nel cloud. I backup del dispositivo possono includere i dati locali dell’app."
+      },
+      {
+        "title": "Foto e PDF",
+        "text": "Il riconoscimento del testo avviene sul tuo dispositivo. Anche le foto e i PDF importati vengono salvati localmente con il tuo materiale. Per le lezioni Pro, puoi inviare la foto o le pagine PDF selezionate complete a OpenAI dopo averle controllate e confermate. Le modalità solo testo inviano esclusivamente il testo controllato."
+      },
+      {
+        "title": "Fornitori di IA",
+        "text": "Con la tua chiave API, solo i brani selezionati e le istruzioni di generazione vengono inviati direttamente al fornitore e al modello che confermi. La chiave è salvata nel Keychain di questo dispositivo. Il fornitore può conservare le richieste secondo le proprie condizioni. AnyPractice non può eliminare copie già conservate da tale fornitore."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence crea carte basate sul materiale originale sui dispositivi supportati. La generazione e le traduzioni supportate avvengono localmente; potrebbe essere necessario scaricare risorse linguistiche."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Con Pro, il testo selezionato e le pagine originali confermate passano da AnyPractice su Vercel a OpenAI. I file originali vengono elaborati per quella richiesta, senza una raccolta di file sul server. Apple gestisce i pagamenti; il server verifica il tuo abbonamento e memorizza identificativi e contatori di utilizzo. I fornitori di IA e hosting trattano i dati secondo le proprie politiche."
+      },
+      {
+        "title": "Rimuovi i dati salvati",
+        "text": "Elimina un mazzo per rimuovere da questa app il testo salvato, la copia locale della foto o del PDF, il materiale generato e i progressi. Gli altri mazzi che usano lo stesso materiale conservano le proprie copie. «Rimuovi connessione» elimina la chiave personale salvata. I file esterni a questa app, i backup e i dati presso i fornitori sono separati."
+      }
+    ],
+    "report": "L’IA può commettere errori. Puoi modificare o eliminare i materiali generati nell’app. Per segnalare contenuti dannosi, descrivi il problema senza includere informazioni private."
+  },
+  "ja": {
+    "labels": {
+      "Your material": "あなたの教材",
+      "Language": "言語",
+      "Lesson": "レッスン",
+      "Cheat sheet": "まとめシート",
+      "Practice": "練習",
+      "Support": "サポート",
+      "Privacy policy": "プライバシーポリシー",
+      "Contact support": "サポートに問い合わせる",
+      "Report generated content": "生成された内容を報告",
+      "Terms of use": "利用規約",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "写真とPDF",
+      "Remove saved data": "保存データを削除",
+      "A LITTLE PRACTICE, EVERY DAY": "毎日少しずつ練習",
+      "Read and review": "読んで確認",
+      "AI providers": "AIプロバイダー",
+      "Local library": "ローカルライブラリ",
+      "About": "概要"
+    },
+    "privacy": [
+      {
+        "title": "ローカルライブラリ",
+        "text": "抽出した学習テキスト、レッスン、カード、進捗は、デバイス上のこのアプリに保存されます。アプリはAnyPracticeアカウントを作成せず、独自のクラウド同期も提供しません。デバイスのバックアップにアプリのローカルデータが含まれる場合があります。"
+      },
+      {
+        "title": "写真とPDF",
+        "text": "文字認識は端末上で行われます。読み込んだ写真とPDFも、教材とともに端末内に保存されます。Proのレッスンでは、内容を確認して承認した後、写真または選択したPDFページ全体をOpenAIに送信できます。テキストのみのモードでは、確認済みのテキストだけを送信します。"
+      },
+      {
+        "title": "AIプロバイダー",
+        "text": "自分のAPIキーを使う場合、選択した抜粋と生成の指示だけが、確認したプロバイダーとモデルに直接送信されます。キーはこのデバイスのKeychainに保存されます。プロバイダーは独自の規約に従ってリクエストを保持する場合があります。AnyPracticeは、そのプロバイダーがすでに保有しているコピーを削除できません。"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligenceは対応デバイスで元の資料に基づく学習カードを作成します。生成と対応する翻訳はデバイス上で実行されます。言語リソースのダウンロードが必要な場合があります。"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Proでは、選択したテキストと送信を承認した元のページが、Vercel上のAnyPracticeを経由してOpenAIに送信されます。元のファイルはそのリクエストのために処理され、サーバー上のファイルライブラリには保存されません。Appleが支払いを処理し、サーバーがサブスクリプションを確認して識別子と使用回数を保存します。プロバイダーとホスティングの各サービスは、それぞれのポリシーに従ってデータを取り扱います。"
+      },
+      {
+        "title": "保存データを削除",
+        "text": "デッキを削除すると、保存したテキスト、端末内の写真またはPDFのコピー、生成した教材、学習の進み具合がこのアプリから削除されます。同じ教材を使用している他のデッキには、それぞれのコピーが残ります。「接続を削除」では、保存した個人用キーが削除されます。このアプリの外にあるファイル、バックアップ、プロバイダー側のデータは別に管理されます。"
+      }
+    ],
+    "report": "AIは間違えることがあります。生成された教材はアプリ内で編集・削除できます。有害なコンテンツを報告する際は、個人情報を含めずに問題を説明してください。"
+  },
+  "kn": {
+    "labels": {
+      "Your material": "ನಿಮ್ಮ ಸಾಮಗ್ರಿ",
+      "Language": "ಭಾಷೆ",
+      "Lesson": "ಪಾಠ",
+      "Cheat sheet": "ಚೀಟ್ ಶೀಟ್",
+      "Practice": "ಅಭ್ಯಾಸ",
+      "Support": "ಸಹಾಯ",
+      "Privacy policy": "ಗೌಪ್ಯತಾ ನೀತಿ",
+      "Contact support": "ಸಹಾಯವನ್ನು ಸಂಪರ್ಕಿಸಿ",
+      "Report generated content": "ರಚಿಸಿದ ವಿಷಯವನ್ನು ವರದಿ ಮಾಡಿ",
+      "Terms of use": "ಬಳಕೆಯ ನಿಯಮಗಳು",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ಫೋಟೋಗಳು ಮತ್ತು PDFಗಳು",
+      "Remove saved data": "ಉಳಿಸಿದ ಡೇಟಾ ತೆಗೆದುಹಾಕಿ",
+      "A LITTLE PRACTICE, EVERY DAY": "ಪ್ರತಿದಿನ ಸ್ವಲ್ಪ ಅಭ್ಯಾಸ",
+      "Read and review": "ಓದಿ ಮತ್ತು ಪರಿಶೀಲಿಸಿ",
+      "AI providers": "AI ಪೂರೈಕೆದಾರರು",
+      "Local library": "ಸ್ಥಳೀಯ ಗ್ರಂಥಾಲಯ",
+      "About": "ಕುರಿತು"
+    },
+    "privacy": [
+      {
+        "title": "ಸ್ಥಳೀಯ ಗ್ರಂಥಾಲಯ",
+        "text": "ಹೊರತೆಗೆದ ಅಧ್ಯಯನ ಪಠ್ಯ, ಪಾಠಗಳು, ಕಾರ್ಡ್‌ಗಳು ಮತ್ತು ಪ್ರಗತಿಯನ್ನು ನಿಮ್ಮ ಸಾಧನದ ಈ ಆ್ಯಪ್‌ನಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತದೆ. ಆ್ಯಪ್ AnyPractice ಖಾತೆಯನ್ನು ರಚಿಸುವುದಿಲ್ಲ ಅಥವಾ ತನ್ನದೇ ಕ್ಲೌಡ್ ಸಿಂಕ್ ಒದಗಿಸುವುದಿಲ್ಲ. ಸಾಧನದ ಬ್ಯಾಕಪ್‌ಗಳು ಆ್ಯಪ್‌ನ ಸ್ಥಳೀಯ ಡೇಟಾವನ್ನು ಒಳಗೊಂಡಿರಬಹುದು."
+      },
+      {
+        "title": "ಫೋಟೋಗಳು ಮತ್ತು PDFಗಳು",
+        "text": "ಪಠ್ಯ ಗುರುತಿಸುವಿಕೆ ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ನಡೆಯುತ್ತದೆ. ಆಮದು ಮಾಡಿದ ಫೋಟೋಗಳು ಮತ್ತು PDFಗಳನ್ನು ಸಹ ನಿಮ್ಮ ಸಾಮಗ್ರಿಯೊಂದಿಗೆ ಸ್ಥಳೀಯವಾಗಿ ಉಳಿಸಲಾಗುತ್ತದೆ. Pro ಪಾಠಗಳಿಗಾಗಿ, ಪರಿಶೀಲಿಸಿ ದೃಢೀಕರಿಸಿದ ನಂತರ ಫೋಟೋ ಅಥವಾ ಆಯ್ಕೆಮಾಡಿದ ಸಂಪೂರ್ಣ PDF ಪುಟಗಳನ್ನು OpenAIಗೆ ಕಳುಹಿಸಬಹುದು. ಪಠ್ಯಕ್ಕೆ ಮಾತ್ರ ಇರುವ ಮೋಡ್‌ಗಳು ಪರಿಶೀಲಿಸಿದ ಪಠ್ಯವನ್ನು ಮಾತ್ರ ಕಳುಹಿಸುತ್ತವೆ."
+      },
+      {
+        "title": "AI ಪೂರೈಕೆದಾರರು",
+        "text": "ನಿಮ್ಮ API ಕೀಲಿಯನ್ನು ಬಳಸಿದಾಗ, ಆಯ್ದ ಭಾಗಗಳು ಮತ್ತು ರಚನೆಯ ಸೂಚನೆಗಳನ್ನು ಮಾತ್ರ ನೀವು ದೃಢೀಕರಿಸಿದ ಪೂರೈಕೆದಾರ ಮತ್ತು ಮಾದರಿಗೆ ನೇರವಾಗಿ ಕಳುಹಿಸಲಾಗುತ್ತದೆ. ನಿಮ್ಮ ಕೀಲಿಯನ್ನು ಈ ಸಾಧನದ Keychainನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ. ಪೂರೈಕೆದಾರರು ತಮ್ಮ ನಿಯಮಗಳ ಪ್ರಕಾರ ವಿನಂತಿಗಳನ್ನು ಉಳಿಸಬಹುದು. ಪೂರೈಕೆದಾರರ ಬಳಿ ಈಗಾಗಲೇ ಇರುವ ಪ್ರತಿಗಳನ್ನು AnyPractice ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence ಬೆಂಬಲಿತ ಸಾಧನಗಳಲ್ಲಿ ಮೂಲಾಧಾರಿತ ಫ್ಲ್ಯಾಶ್‌ಕಾರ್ಡ್‌ಗಳನ್ನು ರಚಿಸುತ್ತದೆ. ರಚನೆ ಮತ್ತು ಬೆಂಬಲಿತ ಅನುವಾದ ಸ್ಥಳೀಯವಾಗಿ ನಡೆಯುತ್ತವೆ; ಭಾಷಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಬೇಕಾಗಬಹುದು."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Proನಲ್ಲಿ ಆಯ್ಕೆಮಾಡಿದ ಪಠ್ಯ ಮತ್ತು ದೃಢೀಕರಿಸಿದ ಮೂಲ ಪುಟಗಳು Vercelನಲ್ಲಿರುವ AnyPractice ಮೂಲಕ OpenAIಗೆ ತಲುಪುತ್ತವೆ. ಸರ್ವರ್‌ನಲ್ಲಿ ಫೈಲ್ ಲೈಬ್ರರಿ ನಿರ್ಮಿಸದೆ, ಆ ವಿನಂತಿಗಾಗಿ ಮೂಲ ಫೈಲ್‌ಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತದೆ. Apple ಪಾವತಿಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ; ಸರ್ವರ್ ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಗುರುತುಗಳನ್ನು ಮತ್ತು ಬಳಕೆಯ ಎಣಿಕೆಗಳನ್ನು ಸಂಗ್ರಹಿಸುತ್ತದೆ. ಸೇವಾದಾತರು ಮತ್ತು ಹೋಸ್ಟಿಂಗ್ ಸೇವೆಗಳು ತಮ್ಮದೇ ನೀತಿಗಳ ಪ್ರಕಾರ ಡೇಟಾವನ್ನು ನಿರ್ವಹಿಸುತ್ತವೆ."
+      },
+      {
+        "title": "ಉಳಿಸಿದ ಡೇಟಾ ತೆಗೆದುಹಾಕಿ",
+        "text": "ಡೆಕ್ ಅಳಿಸಿದರೆ ಅದರ ಉಳಿಸಿದ ಪಠ್ಯ, ಫೋಟೋ ಅಥವಾ PDFನ ಸ್ಥಳೀಯ ಪ್ರತಿ, ರಚಿಸಿದ ಸಾಮಗ್ರಿ ಮತ್ತು ಪ್ರಗತಿ ಈ ಆ್ಯಪ್‌ನಿಂದ ತೆಗೆದುಹಾಕಲ್ಪಡುತ್ತವೆ. ಅದೇ ಸಾಮಗ್ರಿಯನ್ನು ಬಳಸುವ ಇತರ ಡೆಕ್‌ಗಳು ತಮ್ಮ ಪ್ರತಿಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ. «ಸಂಪರ್ಕ ತೆಗೆದುಹಾಕಿ» ಉಳಿಸಿದ ವೈಯಕ್ತಿಕ ಕೀಯನ್ನು ಅಳಿಸುತ್ತದೆ. ಈ ಆ್ಯಪ್ ಹೊರಗಿನ ಫೈಲ್‌ಗಳು, ಬ್ಯಾಕಪ್‌ಗಳು ಮತ್ತು ಸೇವಾದಾತರ ಬಳಿಯ ಡೇಟಾ ಪ್ರತ್ಯೇಕವಾಗಿವೆ."
+      }
+    ],
+    "report": "AI ತಪ್ಪುಗಳನ್ನು ಮಾಡಬಹುದು. ಆ್ಯಪ್‌ನಲ್ಲಿ ರಚಿಸಿದ ವಿಷಯವನ್ನು ಸಂಪಾದಿಸಬಹುದು ಅಥವಾ ಅಳಿಸಬಹುದು. ಹಾನಿಕಾರಕ ವಿಷಯವನ್ನು ವರದಿ ಮಾಡಲು ಖಾಸಗಿ ಮಾಹಿತಿಯನ್ನು ಸೇರಿಸದೆ ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ."
+  },
+  "ko": {
+    "labels": {
+      "Your material": "내 자료",
+      "Language": "언어",
+      "Lesson": "레슨",
+      "Cheat sheet": "요약 노트",
+      "Practice": "연습",
+      "Support": "지원",
+      "Privacy policy": "개인정보 처리방침",
+      "Contact support": "지원팀에 문의",
+      "Report generated content": "생성된 콘텐츠 신고",
+      "Terms of use": "이용 약관",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "사진 및 PDF",
+      "Remove saved data": "저장된 데이터 삭제",
+      "A LITTLE PRACTICE, EVERY DAY": "매일 조금씩 연습하기",
+      "Read and review": "읽고 복습하기",
+      "AI providers": "AI 제공업체",
+      "Local library": "로컬 라이브러리",
+      "About": "정보"
+    },
+    "privacy": [
+      {
+        "title": "로컬 라이브러리",
+        "text": "추출된 학습 텍스트, 수업, 카드와 학습 진도는 기기에 있는 이 앱에 저장됩니다. 앱은 AnyPractice 계정을 만들지 않으며 자체 클라우드 동기화를 제공하지 않습니다. 기기 백업에 앱의 로컬 데이터가 포함될 수 있습니다."
+      },
+      {
+        "title": "사진 및 PDF",
+        "text": "텍스트 인식은 기기에서 실행됩니다. 가져온 사진과 PDF도 자료와 함께 기기에 저장됩니다. Pro 수업에서는 검토하고 확인한 후 사진이나 선택한 PDF 전체 페이지를 OpenAI로 보낼 수 있습니다. 텍스트 전용 모드에서는 검토한 텍스트만 보냅니다."
+      },
+      {
+        "title": "AI 제공업체",
+        "text": "본인의 API 키를 사용하면 선택한 발췌문과 생성 지침만 확인한 제공업체 및 모델로 직접 전송됩니다. 키는 이 기기의 Keychain에 저장됩니다. 제공업체는 자체 약관에 따라 요청을 보관할 수 있습니다. AnyPractice는 해당 제공업체가 이미 보유한 사본을 삭제할 수 없습니다."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence는 지원되는 기기에서 원본 자료를 바탕으로 학습 카드를 만듭니다. 생성과 지원되는 번역은 기기에서 실행되며, 언어 리소스를 다운로드해야 할 수 있습니다."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro를 사용하면 선택한 텍스트와 전송을 확인한 원본 페이지가 Vercel의 AnyPractice를 거쳐 OpenAI로 전송됩니다. 원본 파일은 해당 요청을 위해 처리되며, 서버에 파일 라이브러리를 만들지 않습니다. Apple이 결제를 처리하고 서버는 구독을 확인하며 식별자와 사용량 카운터를 저장합니다. 제공업체와 호스팅 서비스는 각자의 정책에 따라 데이터를 처리합니다."
+      },
+      {
+        "title": "저장된 데이터 삭제",
+        "text": "덱을 삭제하면 저장된 텍스트, 기기에 저장된 사진 또는 PDF 사본, 생성된 자료와 학습 진행 상황이 이 앱에서 삭제됩니다. 같은 자료를 사용하는 다른 덱의 사본은 유지됩니다. «연결 삭제»를 선택하면 저장된 개인 키가 삭제됩니다. 이 앱 외부의 파일, 백업, 제공업체 측 데이터는 별개입니다."
+      }
+    ],
+    "report": "AI는 실수할 수 있습니다. 생성된 자료는 앱에서 편집하거나 삭제할 수 있습니다. 유해한 콘텐츠를 신고하려면 개인 정보를 포함하지 않고 문제를 설명해 주세요."
+  },
+  "ml": {
+    "labels": {
+      "Your material": "നിങ്ങളുടെ മെറ്റീരിയൽ",
+      "Language": "ഭാഷ",
+      "Lesson": "പാഠം",
+      "Cheat sheet": "ചീറ്റ് ഷീറ്റ്",
+      "Practice": "പരിശീലനം",
+      "Support": "സഹായം",
+      "Privacy policy": "സ്വകാര്യതാ നയം",
+      "Contact support": "സഹായവിഭാഗവുമായി ബന്ധപ്പെടുക",
+      "Report generated content": "സൃഷ്ടിച്ച ഉള്ളടക്കം റിപ്പോർട്ട് ചെയ്യുക",
+      "Terms of use": "ഉപയോഗ നിബന്ധനകൾ",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ഫോട്ടോകളും PDF-കളും",
+      "Remove saved data": "സംരക്ഷിച്ച ഡാറ്റ നീക്കം ചെയ്യുക",
+      "A LITTLE PRACTICE, EVERY DAY": "ദിവസവും അൽപ്പം പരിശീലനം",
+      "Read and review": "വായിക്കുക, പരിശോധിക്കുക",
+      "AI providers": "AI സേവനദാതാക്കൾ",
+      "Local library": "പ്രാദേശിക ലൈബ്രറി",
+      "About": "കുറിച്ച്"
+    },
+    "privacy": [
+      {
+        "title": "പ്രാദേശിക ലൈബ്രറി",
+        "text": "വേർതിരിച്ചെടുത്ത പഠനവാചകം, പാഠങ്ങൾ, കാർഡുകൾ, പുരോഗതി എന്നിവ നിങ്ങളുടെ ഉപകരണത്തിലെ ഈ ആപ്പിൽ സംരക്ഷിക്കുന്നു. ആപ്പ് AnyPractice അക്കൗണ്ട് സൃഷ്ടിക്കുകയോ സ്വന്തമായ ക്ലൗഡ് സിങ്ക് നൽകുകയോ ചെയ്യുന്നില്ല. ഉപകരണത്തിന്റെ ബാക്കപ്പുകളിൽ ആപ്പിന്റെ പ്രാദേശിക ഡാറ്റ ഉൾപ്പെട്ടേക്കാം."
+      },
+      {
+        "title": "ഫോട്ടോകളും PDF-കളും",
+        "text": "ടെക്സ്റ്റ് തിരിച്ചറിയൽ നിങ്ങളുടെ ഉപകരണത്തിലാണ് നടക്കുന്നത്. ഇറക്കുമതി ചെയ്ത ഫോട്ടോകളും PDF-കളും നിങ്ങളുടെ മെറ്റീരിയലിനൊപ്പം പ്രാദേശികമായി സംരക്ഷിക്കപ്പെടുന്നു. Pro പാഠങ്ങൾക്കായി, അവലോകനം ചെയ്ത് സ്ഥിരീകരിച്ച ശേഷം ഫോട്ടോയോ തിരഞ്ഞെടുത്ത പൂർണ്ണ PDF പേജുകളോ OpenAI-ലേക്ക് അയയ്ക്കാം. ടെക്സ്റ്റ് മാത്രമുള്ള മോഡുകൾ അവലോകനം ചെയ്ത ടെക്സ്റ്റ് മാത്രമേ അയയ്ക്കൂ."
+      },
+      {
+        "title": "AI സേവനദാതാക്കൾ",
+        "text": "നിങ്ങളുടെ API കീ ഉപയോഗിക്കുമ്പോൾ, തിരഞ്ഞെടുത്ത ഭാഗങ്ങളും സൃഷ്ടിക്കാനുള്ള നിർദ്ദേശങ്ങളും മാത്രമാണ് നിങ്ങൾ സ്ഥിരീകരിക്കുന്ന സേവനദാതാവിനും മോഡലിനും നേരിട്ട് അയയ്ക്കുന്നത്. ഈ ഉപകരണത്തിന്റെ Keychain-ൽ നിങ്ങളുടെ കീ സൂക്ഷിക്കുന്നു. സേവനദാതാവ് സ്വന്തം നിബന്ധനകൾ പ്രകാരം അഭ്യർത്ഥനകൾ സൂക്ഷിച്ചേക്കാം. ആ സേവനദാതാവിന്റെ പക്കൽ ഇതിനകം ഉള്ള പകർപ്പുകൾ ഇല്ലാതാക്കാൻ AnyPractice-ന് കഴിയില്ല."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence പിന്തുണയ്ക്കുന്ന ഉപകരണങ്ങളിൽ സ്രോതസ്സിനെ അടിസ്ഥാനമാക്കിയുള്ള ഫ്ലാഷ്കാർഡുകൾ സൃഷ്ടിക്കുന്നു. സൃഷ്ടിക്കലും പിന്തുണയ്ക്കുന്ന വിവർത്തനവും ഉപകരണത്തിൽത്തന്നെ നടക്കുന്നു; ഭാഷാ വിഭവങ്ങൾ ഡൗൺലോഡ് ചെയ്യേണ്ടിവരാം."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro-യിൽ തിരഞ്ഞെടുത്ത ടെക്സ്റ്റും സ്ഥിരീകരിച്ച മൂല പേജുകളും Vercel-ലുള്ള AnyPractice വഴി OpenAI-ലേക്ക് പോകുന്നു. സർവറിൽ ഫയൽ ലൈബ്രറി സൃഷ്ടിക്കാതെ, ആ അഭ്യർത്ഥനയ്ക്കായി മൂല ഫയലുകൾ പ്രോസസ് ചെയ്യപ്പെടുന്നു. Apple പണമിടപാടുകൾ കൈകാര്യം ചെയ്യുന്നു; സർവർ നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ പരിശോധിക്കുകയും തിരിച്ചറിയൽ വിവരങ്ങളും ഉപയോഗത്തിന്റെ എണ്ണവും സൂക്ഷിക്കുകയും ചെയ്യുന്നു. സേവനദാതാക്കളും ഹോസ്റ്റിംഗ് സേവനങ്ങളും അവരുടെ സ്വന്തം നയങ്ങൾ അനുസരിച്ച് ഡാറ്റ കൈകാര്യം ചെയ്യുന്നു."
+      },
+      {
+        "title": "സംരക്ഷിച്ച ഡാറ്റ നീക്കം ചെയ്യുക",
+        "text": "ഒരു ഡെക്ക് ഇല്ലാതാക്കിയാൽ, അതിന്റെ സംരക്ഷിച്ച ടെക്സ്റ്റ്, ഫോട്ടോയുടെയോ PDF-യുടെയോ പ്രാദേശിക പകർപ്പ്, സൃഷ്ടിച്ച മെറ്റീരിയൽ, പുരോഗതി എന്നിവ ഈ ആപ്പിൽനിന്ന് നീക്കം ചെയ്യും. അതേ മെറ്റീരിയൽ ഉപയോഗിക്കുന്ന മറ്റ് ഡെക്കുകൾ അവയുടെ പകർപ്പുകൾ നിലനിർത്തും. «കണക്ഷൻ നീക്കം ചെയ്യുക» സംരക്ഷിച്ച വ്യക്തിഗത കീ ഇല്ലാതാക്കും. ഈ ആപ്പിനു പുറത്തുള്ള ഫയലുകൾ, ബാക്കപ്പുകൾ, സേവനദാതാവിന്റെ കൈവശമുള്ള ഡാറ്റ എന്നിവ വേറെയാണ്."
+      }
+    ],
+    "report": "AI തെറ്റുകൾ വരുത്താം. ആപ്പിൽ സൃഷ്ടിച്ച പഠനസാമഗ്രികൾ തിരുത്താനോ ഇല്ലാതാക്കാനോ കഴിയും. ഹാനികരമായ ഉള്ളടക്കം റിപ്പോർട്ട് ചെയ്യാൻ സ്വകാര്യ വിവരങ്ങൾ ഉൾപ്പെടുത്താതെ പ്രശ്നം വിവരിക്കുക."
+  },
+  "mr": {
+    "labels": {
+      "Your material": "तुमचे साहित्य",
+      "Language": "भाषा",
+      "Lesson": "धडा",
+      "Cheat sheet": "सारांश तक्ता",
+      "Practice": "सराव",
+      "Support": "मदत",
+      "Privacy policy": "गोपनीयता धोरण",
+      "Contact support": "मदतीसाठी संपर्क करा",
+      "Report generated content": "तयार केलेल्या मजकुराची तक्रार करा",
+      "Terms of use": "वापराच्या अटी",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "फोटो आणि PDF",
+      "Remove saved data": "जतन केलेला डेटा काढा",
+      "A LITTLE PRACTICE, EVERY DAY": "रोज थोडासा सराव",
+      "Read and review": "वाचा आणि उजळणी करा",
+      "AI providers": "AI प्रदाते",
+      "Local library": "स्थानिक लायब्ररी",
+      "About": "विषयी"
+    },
+    "privacy": [
+      {
+        "title": "स्थानिक लायब्ररी",
+        "text": "काढलेला अभ्यासाचा मजकूर, धडे, कार्ड आणि प्रगती तुमच्या उपकरणावर या ॲपमध्ये जतन होतात. ॲप AnyPractice खाते तयार करत नाही किंवा स्वतःची क्लाउड सिंक सुविधा देत नाही. उपकरणाच्या बॅकअपमध्ये ॲपचा स्थानिक डेटा असू शकतो."
+      },
+      {
+        "title": "फोटो आणि PDF",
+        "text": "मजकूर ओळखण्याची प्रक्रिया तुमच्या डिव्हाइसवर चालते. आयात केलेले फोटो आणि PDFदेखील तुमच्या साहित्याबरोबर स्थानिकरीत्या जतन केले जातात. Pro धड्यांसाठी, तपासून पुष्टी केल्यानंतर तुम्ही फोटो किंवा निवडलेली संपूर्ण PDF पाने OpenAIला पाठवू शकता. फक्त मजकूर वापरणारे मोड केवळ तपासलेला मजकूर पाठवतात."
+      },
+      {
+        "title": "AI प्रदाते",
+        "text": "तुमची API की वापरताना फक्त निवडलेले उतारे आणि निर्मितीच्या सूचना तुम्ही पुष्टी केलेल्या प्रदात्याला व मॉडेलला थेट पाठवल्या जातात. तुमची की या उपकरणाच्या Keychain मध्ये साठवली जाते. प्रदाता स्वतःच्या अटींनुसार विनंत्या ठेवू शकतो. त्या प्रदात्याकडे आधीपासून असलेल्या प्रती AnyPractice हटवू शकत नाही."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence समर्थित उपकरणांवर स्रोतावर आधारित फ्लॅशकार्ड तयार करते. निर्मिती आणि समर्थित भाषांतर स्थानिकरीत्या होते; भाषेची संसाधने डाउनलोड करावी लागू शकतात."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Proमध्ये निवडलेला मजकूर आणि पुष्टी केलेली मूळ पाने Vercelवरील AnyPracticeमार्फत OpenAIकडे जातात. सर्व्हरवर फाइल लायब्ररी तयार न करता, त्या विनंतीसाठी मूळ फाइल्सवर प्रक्रिया होते. Apple पेमेंटवर प्रक्रिया करते; सर्व्हर तुमचे सदस्यत्व पडताळतो आणि ओळखचिन्हे व वापराच्या नोंदींची संख्या जतन करतो. सेवा पुरवठादार आणि होस्टिंग सेवा त्यांच्या स्वतःच्या धोरणांनुसार डेटा हाताळतात."
+      },
+      {
+        "title": "जतन केलेला डेटा काढा",
+        "text": "डेक हटवल्यास या अ‍ॅपमधून त्याचा जतन केलेला मजकूर, फोटो किंवा PDFची स्थानिक प्रत, तयार केलेले साहित्य आणि प्रगती काढून टाकली जाईल. तेच साहित्य वापरणाऱ्या इतर डेकमधील प्रती कायम राहतील. «कनेक्शन काढून टाका» जतन केलेली वैयक्तिक की हटवते. या अ‍ॅपबाहेरील फाइल्स, बॅकअप आणि सेवा पुरवठादाराकडील डेटा वेगळा आहे."
+      }
+    ],
+    "report": "AI चुका करू शकते. ॲपमध्ये तयार केलेले साहित्य संपादित किंवा हटवता येते. हानिकारक मजकुराची तक्रार करताना खाजगी माहिती न देता समस्या वर्णन करा."
+  },
+  "ms": {
+    "labels": {
+      "Your material": "Bahan anda",
+      "Language": "Bahasa",
+      "Lesson": "Pelajaran",
+      "Cheat sheet": "Lembaran ringkasan",
+      "Practice": "Latihan",
+      "Support": "Sokongan",
+      "Privacy policy": "Dasar privasi",
+      "Contact support": "Hubungi sokongan",
+      "Report generated content": "Laporkan kandungan yang dijana",
+      "Terms of use": "Syarat penggunaan",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Foto dan PDF",
+      "Remove saved data": "Alih keluar data tersimpan",
+      "A LITTLE PRACTICE, EVERY DAY": "SEDIKIT LATIHAN, SETIAP HARI",
+      "Read and review": "Baca dan semak",
+      "AI providers": "Penyedia AI",
+      "Local library": "Pustaka setempat",
+      "About": "Perihal"
+    },
+    "privacy": [
+      {
+        "title": "Pustaka setempat",
+        "text": "Teks pembelajaran yang diekstrak, pelajaran, kad dan kemajuan anda disimpan dalam aplikasi ini pada peranti anda. Aplikasi tidak mencipta akaun AnyPractice atau menyediakan penyegerakan awannya sendiri. Sandaran peranti mungkin merangkumi data aplikasi setempat."
+      },
+      {
+        "title": "Foto dan PDF",
+        "text": "Pengecaman teks berjalan pada peranti anda. Foto dan PDF yang diimport juga disimpan pada peranti bersama bahan anda. Untuk pelajaran Pro, anda boleh menghantar foto atau keseluruhan halaman PDF yang dipilih ke OpenAI selepas menyemak dan mengesahkannya. Mod teks sahaja hanya menghantar teks yang telah disemak."
+      },
+      {
+        "title": "Penyedia AI",
+        "text": "Dengan kunci API anda, hanya petikan yang dipilih dan arahan penjanaan dihantar terus kepada penyedia dan model yang anda sahkan. Kunci anda disimpan dalam Keychain peranti ini. Penyedia mungkin menyimpan permintaan mengikut syaratnya sendiri. AnyPractice tidak boleh memadam salinan yang sudah dipegang oleh penyedia tersebut."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence menghasilkan kad imbas berasaskan sumber pada peranti yang disokong. Penjanaan dan terjemahan yang disokong dijalankan secara setempat; aset bahasa mungkin perlu dimuat turun."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Dengan Pro, teks yang dipilih dan halaman asal yang telah anda sahkan akan melalui AnyPractice pada Vercel ke OpenAI. Fail asal diproses untuk permintaan tersebut tanpa pustaka fail pada pelayan. Apple mengendalikan pembayaran; pelayan mengesahkan langganan anda serta menyimpan pengecam dan pembilang penggunaan. Penyedia dan perkhidmatan pengehosan mengendalikan data mengikut dasar masing-masing."
+      },
+      {
+        "title": "Alih keluar data tersimpan",
+        "text": "Padam dek untuk mengalih keluar teks tersimpan, salinan foto atau PDF pada peranti, bahan yang dijana dan kemajuannya daripada aplikasi ini. Dek lain yang menggunakan bahan yang sama masih menyimpan salinan masing-masing. Alih keluar sambungan akan memadamkan kunci peribadi yang disimpan. Fail di luar aplikasi ini, sandaran dan data pada pihak penyedia diurus secara berasingan."
+      }
+    ],
+    "report": "AI boleh membuat kesilapan. Anda boleh mengedit atau memadam bahan yang dijana dalam aplikasi. Untuk melaporkan kandungan berbahaya, terangkan masalah tanpa menyertakan maklumat peribadi."
+  },
+  "nb": {
+    "labels": {
+      "Your material": "Materialet ditt",
+      "Language": "Språk",
+      "Lesson": "Leksjon",
+      "Cheat sheet": "Jukseark",
+      "Practice": "Øv",
+      "Support": "Brukerstøtte",
+      "Privacy policy": "Personvernerklæring",
+      "Contact support": "Kontakt brukerstøtte",
+      "Report generated content": "Rapporter generert innhold",
+      "Terms of use": "Bruksvilkår",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Bilder og PDF-filer",
+      "Remove saved data": "Fjern lagrede data",
+      "A LITTLE PRACTICE, EVERY DAY": "LITT ØVING HVER DAG",
+      "Read and review": "Les og gå gjennom",
+      "AI providers": "KI-leverandører",
+      "Local library": "Lokalt bibliotek",
+      "About": "Om"
+    },
+    "privacy": [
+      {
+        "title": "Lokalt bibliotek",
+        "text": "Den uthentede studieteksten, leksjonene, kortene og fremgangen lagres i denne appen på enheten din. Appen oppretter ikke en AnyPractice-konto og tilbyr ikke egen skysynkronisering. Sikkerhetskopier av enheten kan inneholde lokale appdata."
+      },
+      {
+        "title": "Bilder og PDF-filer",
+        "text": "Tekstgjenkjenning skjer på enheten din. Importerte bilder og PDF-er lagres også lokalt sammen med materialet ditt. For Pro-leksjoner kan du sende bildet eller hele de valgte PDF-sidene til OpenAI etter at du har gått gjennom og bekreftet dem. Moduser med bare tekst sender kun gjennomgått tekst."
+      },
+      {
+        "title": "KI-leverandører",
+        "text": "Med API-nøkkelen din sendes bare de valgte tekstutdragene og genereringsinstruksjonene direkte til leverandøren og modellen du bekrefter. Nøkkelen lagres i denne enhetens Keychain. Leverandøren kan beholde forespørsler i henhold til egne vilkår. AnyPractice kan ikke slette kopier som leverandøren allerede har."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence lager kildebaserte læringskort på støttede enheter. Generering og støttede oversettelser kjøres lokalt; språkressurser må kanskje lastes ned."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Med Pro går valgt tekst og bekreftede originalsider via AnyPractice på Vercel til OpenAI. Originalfiler behandles for den forespørselen uten et filbibliotek på serveren. Apple behandler betalinger; serveren verifiserer abonnementet ditt og lagrer identifikatorer og brukstellere. Leverandører og hostingtjenester behandler data etter sine egne retningslinjer."
+      },
+      {
+        "title": "Fjern lagrede data",
+        "text": "Slett en kortstokk for å fjerne lagret tekst, den lokale bilde- eller PDF-kopien, generert materiale og fremgang fra denne appen. Andre kortstokker som bruker samme materiale, beholder kopiene sine. «Fjern tilkobling» sletter den lagrede personlige nøkkelen. Filer utenfor denne appen, sikkerhetskopier og data hos leverandøren er separate."
+      }
+    ],
+    "report": "KI kan gjøre feil. Du kan redigere eller slette generert materiale i appen. Beskriv problemet uten private opplysninger når du rapporterer skadelig innhold."
+  },
+  "nl": {
+    "labels": {
+      "Your material": "Je materiaal",
+      "Language": "Taal",
+      "Lesson": "Les",
+      "Cheat sheet": "Spiekbriefje",
+      "Practice": "Oefenen",
+      "Support": "Ondersteuning",
+      "Privacy policy": "Privacybeleid",
+      "Contact support": "Contact opnemen met ondersteuning",
+      "Report generated content": "Gegenereerde inhoud melden",
+      "Terms of use": "Gebruiksvoorwaarden",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Foto’s en pdf’s",
+      "Remove saved data": "Opgeslagen gegevens verwijderen",
+      "A LITTLE PRACTICE, EVERY DAY": "ELKE DAG EEN BEETJE OEFENEN",
+      "Read and review": "Lezen en nakijken",
+      "AI providers": "AI-aanbieders",
+      "Local library": "Lokale bibliotheek",
+      "About": "Over"
+    },
+    "privacy": [
+      {
+        "title": "Lokale bibliotheek",
+        "text": "Je geëxtraheerde studietekst, lessen, kaarten en voortgang worden in deze app op je apparaat opgeslagen. De app maakt geen AnyPractice-account aan en biedt geen eigen cloudsynchronisatie. Apparaatback-ups kunnen lokale appgegevens bevatten."
+      },
+      {
+        "title": "Foto’s en pdf’s",
+        "text": "Tekstherkenning vindt plaats op je apparaat. Geïmporteerde foto’s en PDF’s worden ook lokaal bij je materiaal opgeslagen. Voor Pro-lessen kun je de foto of volledige geselecteerde PDF-pagina’s na controle en bevestiging naar OpenAI sturen. Modi voor alleen tekst versturen uitsluitend gecontroleerde tekst."
+      },
+      {
+        "title": "AI-aanbieders",
+        "text": "Met je API-sleutel worden alleen de geselecteerde passages en generatie-instructies rechtstreeks naar de aanbieder en het model verzonden die je bevestigt. Je sleutel wordt opgeslagen in de Keychain van dit apparaat. De aanbieder kan verzoeken bewaren volgens zijn eigen voorwaarden. AnyPractice kan kopieën die al bij die aanbieder zijn opgeslagen niet verwijderen."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence maakt op ondersteunde apparaten leerkaarten op basis van het bronmateriaal. Het genereren en ondersteunde vertalingen vinden lokaal plaats; taalbestanden moeten mogelijk worden gedownload."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Met Pro gaan geselecteerde tekst en bevestigde originele pagina’s via AnyPractice op Vercel naar OpenAI. Originele bestanden worden voor dat verzoek verwerkt, zonder een bestandsbibliotheek op de server. Apple verwerkt betalingen; de server controleert je abonnement en bewaart identificatiegegevens en gebruikstellers. Aanbieders en hostingdiensten verwerken gegevens volgens hun eigen beleid."
+      },
+      {
+        "title": "Opgeslagen gegevens verwijderen",
+        "text": "Verwijder een kaartenset om de opgeslagen tekst, lokale foto- of PDF-kopie, gegenereerd materiaal en voortgang uit deze app te verwijderen. Andere kaartensets met hetzelfde materiaal behouden hun kopieën. ‘Verbinding verwijderen’ wist de opgeslagen persoonlijke sleutel. Bestanden buiten deze app, reservekopieën en gegevens bij de aanbieder staan hier los van."
+      }
+    ],
+    "report": "AI kan fouten maken. Je kunt gegenereerd materiaal in de app bewerken of verwijderen. Beschrijf bij het melden van schadelijke inhoud het probleem zonder privégegevens op te nemen."
+  },
+  "or": {
+    "labels": {
+      "Your material": "ଆପଣଙ୍କ ସାମଗ୍ରୀ",
+      "Language": "ଭାଷା",
+      "Lesson": "ପାଠ",
+      "Cheat sheet": "ସଂକ୍ଷିପ୍ତ ସାରାଂଶ",
+      "Practice": "ଅଭ୍ୟାସ",
+      "Support": "ସହାୟତା",
+      "Privacy policy": "ଗୋପନୀୟତା ନୀତି",
+      "Contact support": "ସହାୟତା ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ",
+      "Report generated content": "ତିଆରି ବିଷୟବସ୍ତୁର ଅଭିଯୋଗ କରନ୍ତୁ",
+      "Terms of use": "ବ୍ୟବହାରର ସର୍ତ୍ତାବଳୀ",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ଫଟୋ ଏବଂ PDF",
+      "Remove saved data": "ସଞ୍ଚିତ ତଥ୍ୟ ହଟାନ୍ତୁ",
+      "A LITTLE PRACTICE, EVERY DAY": "ପ୍ରତିଦିନ ଟିକେ ଅଭ୍ୟାସ",
+      "Read and review": "ପଢ଼ନ୍ତୁ ଓ ସମୀକ୍ଷା କରନ୍ତୁ",
+      "AI providers": "AI ପ୍ରଦାନକାରୀ",
+      "Local library": "ସ୍ଥାନୀୟ ଲାଇବ୍ରେରି",
+      "About": "ବିଷୟରେ"
+    },
+    "privacy": [
+      {
+        "title": "ସ୍ଥାନୀୟ ଲାଇବ୍ରେରି",
+        "text": "ବାହାର କରାଯାଇଥିବା ଅଧ୍ୟୟନ ଲେଖା, ପାଠ, କାର୍ଡ ଏବଂ ପ୍ରଗତି ଆପଣଙ୍କ ଡିଭାଇସ୍‌ର ଏହି ଆପ୍‌ରେ ସଞ୍ଚିତ ହୁଏ। ଆପ୍ AnyPractice ଆକାଉଣ୍ଟ ତିଆରି କରେ ନାହିଁ କିମ୍ବା ନିଜସ୍ୱ କ୍ଲାଉଡ୍ ସିଙ୍କ ଦିଏ ନାହିଁ। ଡିଭାଇସ୍ ବ୍ୟାକଅପ୍‌ରେ ଆପ୍‌ର ସ୍ଥାନୀୟ ତଥ୍ୟ ରହିପାରେ।"
+      },
+      {
+        "title": "ଫଟୋ ଏବଂ PDF",
+        "text": "ପାଠ୍ୟ ଚିହ୍ନଟ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ଚାଲେ। ଆମଦାନି ହୋଇଥିବା ଫଟୋ ଓ PDF ମଧ୍ୟ ଆପଣଙ୍କ ସାମଗ୍ରୀ ସହ ସ୍ଥାନୀୟ ଭାବେ ସଂରକ୍ଷିତ ହୁଏ। Pro ପାଠ ପାଇଁ, ସମୀକ୍ଷା କରି ନିଶ୍ଚିତ କରିବା ପରେ ଆପଣ ଫଟୋ କିମ୍ବା ବଛାଯାଇଥିବା ସମ୍ପୂର୍ଣ୍ଣ PDF ପୃଷ୍ଠା OpenAIକୁ ପଠାଇପାରିବେ। କେବଳ ପାଠ୍ୟ ମୋଡ୍‌ଗୁଡ଼ିକ ସମୀକ୍ଷା ହୋଇଥିବା ପାଠ୍ୟ ହିଁ ପଠାଏ।"
+      },
+      {
+        "title": "AI ପ୍ରଦାନକାରୀ",
+        "text": "ଆପଣଙ୍କ API କୀ ସହିତ କେବଳ ଚୟନିତ ଅଂଶ ଏବଂ ସୃଷ୍ଟି ନିର୍ଦ୍ଦେଶ ଆପଣ ନିଶ୍ଚିତ କରିଥିବା ପ୍ରଦାନକାରୀ ଓ ମଡେଲ୍‌କୁ ସିଧା ପଠାଯାଏ। ଆପଣଙ୍କ କୀ ଏହି ଡିଭାଇସ୍‌ର Keychainରେ ସଞ୍ଚିତ ରହେ। ପ୍ରଦାନକାରୀ ନିଜ ସର୍ତ୍ତ ଅନୁସାରେ ଅନୁରୋଧ ରଖିପାରନ୍ତି। ସେହି ପ୍ରଦାନକାରୀଙ୍କ ପାଖରେ ପୂର୍ବରୁ ଥିବା କପି AnyPractice ବିଲୋପ କରିପାରେ ନାହିଁ।"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence ସମର୍ଥିତ ଡିଭାଇସ୍‌ରେ ଉତ୍ସ-ଆଧାରିତ ଫ୍ଲାଶକାର୍ଡ ତିଆରି କରେ। ସୃଷ୍ଟି ଏବଂ ସମର୍ଥିତ ଅନୁବାଦ ସ୍ଥାନୀୟ ଭାବେ ହୁଏ; ଭାଷା ସମ୍ପଦ ଡାଉନଲୋଡ୍ କରିବାକୁ ପଡ଼ିପାରେ।"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Proରେ ବଛାଯାଇଥିବା ପାଠ୍ୟ ଓ ନିଶ୍ଚିତ ହୋଇଥିବା ମୂଳ ପୃଷ୍ଠାଗୁଡ଼ିକ Vercelରେ ଥିବା AnyPractice ମାଧ୍ୟମରେ OpenAIକୁ ଯାଏ। ସର୍ଭରରେ ଫାଇଲ ଲାଇବ୍ରେରୀ ତିଆରି ନକରି, ସେହି ଅନୁରୋଧ ପାଇଁ ମୂଳ ଫାଇଲଗୁଡ଼ିକ ପ୍ରକ୍ରିୟାକରଣ କରାଯାଏ। Apple ଦେୟ ପ୍ରକ୍ରିୟାକରଣ କରେ; ସର୍ଭର ଆପଣଙ୍କ ସଦସ୍ୟତା ଯାଞ୍ଚ କରେ ଏବଂ ପରିଚୟସୂଚକ ଓ ବ୍ୟବହାର ଗଣନା ସଂରକ୍ଷଣ କରେ। ପ୍ରଦାନକାରୀ ଓ ହୋଷ୍ଟିଂ ସେବାଗୁଡ଼ିକ ନିଜ ନୀତି ଅନୁଯାୟୀ ତଥ୍ୟ ପରିଚାଳନା କରନ୍ତି।"
+      },
+      {
+        "title": "ସଞ୍ଚିତ ତଥ୍ୟ ହଟାନ୍ତୁ",
+        "text": "ଡେକ୍ ଡିଲିଟ୍ କଲେ ଏହି ଆପ୍‌ରୁ ଏହାର ସଂରକ୍ଷିତ ପାଠ୍ୟ, ଫଟୋ କିମ୍ବା PDFର ସ୍ଥାନୀୟ ନକଲ, ତିଆରି ହୋଇଥିବା ସାମଗ୍ରୀ ଓ ଅଗ୍ରଗତି ହଟିଯିବ। ସେହି ସାମଗ୍ରୀ ବ୍ୟବହାର କରୁଥିବା ଅନ୍ୟ ଡେକ୍‌ଗୁଡ଼ିକ ସେମାନଙ୍କର ନକଲ ରଖିବେ। «ସଂଯୋଗ ହଟାନ୍ତୁ» ସଂରକ୍ଷିତ ବ୍ୟକ୍ତିଗତ କୀ ଡିଲିଟ୍ କରେ। ଏହି ଆପ୍ ବାହାରର ଫାଇଲ, ବ୍ୟାକଅପ୍ ଓ ପ୍ରଦାନକାରୀଙ୍କ ପାଖରେ ଥିବା ତଥ୍ୟ ଅଲଗା।"
+      }
+    ],
+    "report": "AI ଭୁଲ କରିପାରେ। ଆପଣ ଆପ୍‌ରେ ତିଆରି ହୋଇଥିବା ସାମଗ୍ରୀ ସମ୍ପାଦନ କିମ୍ବା ବିଲୋପ କରିପାରିବେ। କ୍ଷତିକାରକ ବିଷୟବସ୍ତୁର ଅଭିଯୋଗ କରିବାକୁ ବ୍ୟକ୍ତିଗତ ସୂଚନା ନ ଦେଇ ସମସ୍ୟା ବର୍ଣ୍ଣନା କରନ୍ତୁ।"
+  },
+  "pa": {
+    "labels": {
+      "Your material": "ਤੁਹਾਡੀ ਸਮੱਗਰੀ",
+      "Language": "ਭਾਸ਼ਾ",
+      "Lesson": "ਪਾਠ",
+      "Cheat sheet": "ਚੀਟ ਸ਼ੀਟ",
+      "Practice": "ਅਭਿਆਸ",
+      "Support": "ਸਹਾਇਤਾ",
+      "Privacy policy": "ਪਰਦੇਦਾਰੀ ਨੀਤੀ",
+      "Contact support": "ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+      "Report generated content": "ਬਣਾਈ ਸਮੱਗਰੀ ਦੀ ਰਿਪੋਰਟ ਕਰੋ",
+      "Terms of use": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ਫੋਟੋਆਂ ਅਤੇ PDF",
+      "Remove saved data": "ਸੰਭਾਲਿਆ ਡਾਟਾ ਹਟਾਓ",
+      "A LITTLE PRACTICE, EVERY DAY": "ਹਰ ਰੋਜ਼ ਥੋੜ੍ਹਾ ਅਭਿਆਸ",
+      "Read and review": "ਪੜ੍ਹੋ ਅਤੇ ਦੇਖੋ",
+      "AI providers": "AI ਪ੍ਰਦਾਤਾ",
+      "Local library": "ਸਥਾਨਕ ਲਾਇਬ੍ਰੇਰੀ",
+      "About": "ਬਾਰੇ"
+    },
+    "privacy": [
+      {
+        "title": "ਸਥਾਨਕ ਲਾਇਬ੍ਰੇਰੀ",
+        "text": "ਕੱਢਿਆ ਪੜ੍ਹਾਈ ਦਾ ਲਿਖਤ, ਪਾਠ, ਕਾਰਡ ਅਤੇ ਤਰੱਕੀ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਇਸ ਐਪ ਵਿੱਚ ਸੰਭਾਲੇ ਜਾਂਦੇ ਹਨ। ਐਪ AnyPractice ਖਾਤਾ ਨਹੀਂ ਬਣਾਉਂਦਾ ਅਤੇ ਆਪਣੀ ਕਲਾਊਡ ਸਿੰਕ ਸਹੂਲਤ ਨਹੀਂ ਦਿੰਦਾ। ਡਿਵਾਈਸ ਦੇ ਬੈਕਅੱਪ ਵਿੱਚ ਐਪ ਦਾ ਸਥਾਨਕ ਡਾਟਾ ਹੋ ਸਕਦਾ ਹੈ।"
+      },
+      {
+        "title": "ਫੋਟੋਆਂ ਅਤੇ PDF",
+        "text": "ਪਾਠ ਪਛਾਣ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਚੱਲਦੀ ਹੈ। ਆਯਾਤ ਕੀਤੀਆਂ ਫੋਟੋਆਂ ਅਤੇ PDF ਵੀ ਤੁਹਾਡੀ ਸਮੱਗਰੀ ਨਾਲ ਸਥਾਨਕ ਤੌਰ ਉੱਤੇ ਸੰਭਾਲੇ ਜਾਂਦੇ ਹਨ। Pro ਪਾਠਾਂ ਲਈ, ਸਮੀਖਿਆ ਅਤੇ ਪੁਸ਼ਟੀ ਕਰਨ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਫੋਟੋ ਜਾਂ ਚੁਣੇ ਹੋਏ ਪੂਰੇ PDF ਪੰਨੇ OpenAI ਨੂੰ ਭੇਜ ਸਕਦੇ ਹੋ। ਸਿਰਫ਼ ਪਾਠ ਵਾਲੇ ਮੋਡ ਕੇਵਲ ਸਮੀਖਿਆ ਕੀਤਾ ਪਾਠ ਭੇਜਦੇ ਹਨ।"
+      },
+      {
+        "title": "AI ਪ੍ਰਦਾਤਾ",
+        "text": "ਤੁਹਾਡੀ API ਕੁੰਜੀ ਨਾਲ ਸਿਰਫ਼ ਚੁਣੇ ਅੰਸ਼ ਅਤੇ ਸਮੱਗਰੀ ਬਣਾਉਣ ਦੀਆਂ ਹਦਾਇਤਾਂ ਸਿੱਧੇ ਉਸ ਪ੍ਰਦਾਤਾ ਤੇ ਮਾਡਲ ਨੂੰ ਭੇਜੀਆਂ ਜਾਂਦੀਆਂ ਹਨ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਪੁਸ਼ਟੀ ਕਰਦੇ ਹੋ। ਤੁਹਾਡੀ ਕੁੰਜੀ ਇਸ ਡਿਵਾਈਸ ਦੇ Keychain ਵਿੱਚ ਸੰਭਾਲੀ ਜਾਂਦੀ ਹੈ। ਪ੍ਰਦਾਤਾ ਆਪਣੀਆਂ ਸ਼ਰਤਾਂ ਅਨੁਸਾਰ ਬੇਨਤੀਆਂ ਰੱਖ ਸਕਦਾ ਹੈ। ਉਸ ਪ੍ਰਦਾਤਾ ਕੋਲ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਕਾਪੀਆਂ AnyPractice ਨਹੀਂ ਮਿਟਾ ਸਕਦਾ।"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence ਸਮਰਥਿਤ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਰੋਤ-ਆਧਾਰਿਤ ਫਲੈਸ਼ਕਾਰਡ ਬਣਾਉਂਦਾ ਹੈ। ਸਮੱਗਰੀ ਬਣਾਉਣਾ ਅਤੇ ਸਮਰਥਿਤ ਅਨੁਵਾਦ ਸਥਾਨਕ ਤੌਰ ਉੱਤੇ ਹੁੰਦੇ ਹਨ; ਭਾਸ਼ਾ ਦੇ ਸਰੋਤ ਡਾਊਨਲੋਡ ਕਰਨੇ ਪੈ ਸਕਦੇ ਹਨ।"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro ਵਿੱਚ ਚੁਣਿਆ ਪਾਠ ਅਤੇ ਪੁਸ਼ਟੀ ਕੀਤੇ ਮੂਲ ਪੰਨੇ Vercel ਉੱਤੇ ਚੱਲਦੇ AnyPractice ਰਾਹੀਂ OpenAI ਤੱਕ ਜਾਂਦੇ ਹਨ। ਸਰਵਰ ਉੱਤੇ ਫਾਈਲ ਲਾਇਬ੍ਰੇਰੀ ਬਣਾਏ ਬਿਨਾਂ, ਮੂਲ ਫਾਈਲਾਂ ਉਸ ਬੇਨਤੀ ਲਈ ਪ੍ਰੋਸੈਸ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ। Apple ਭੁਗਤਾਨਾਂ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰਦਾ ਹੈ; ਸਰਵਰ ਤੁਹਾਡੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦਾ ਹੈ ਅਤੇ ਪਛਾਣ-ਚਿੰਨ੍ਹ ਤੇ ਵਰਤੋਂ ਦੇ ਕਾਊਂਟਰ ਸੰਭਾਲਦਾ ਹੈ। ਪ੍ਰਦਾਤਾ ਅਤੇ ਹੋਸਟਿੰਗ ਸੇਵਾਵਾਂ ਆਪਣੀਆਂ ਨੀਤੀਆਂ ਅਨੁਸਾਰ ਡਾਟਾ ਸੰਭਾਲਦੀਆਂ ਹਨ।"
+      },
+      {
+        "title": "ਸੰਭਾਲਿਆ ਡਾਟਾ ਹਟਾਓ",
+        "text": "ਡੈੱਕ ਮਿਟਾਉਣ ਨਾਲ ਇਸ ਐਪ ਵਿੱਚੋਂ ਉਸ ਦਾ ਸੰਭਾਲਿਆ ਪਾਠ, ਫੋਟੋ ਜਾਂ PDF ਦੀ ਸਥਾਨਕ ਕਾਪੀ, ਬਣਾਈ ਸਮੱਗਰੀ ਅਤੇ ਤਰੱਕੀ ਹਟ ਜਾਵੇਗੀ। ਉਹੀ ਸਮੱਗਰੀ ਵਰਤਣ ਵਾਲੇ ਹੋਰ ਡੈੱਕ ਆਪਣੀਆਂ ਕਾਪੀਆਂ ਰੱਖਣਗੇ। «ਕਨੈਕਸ਼ਨ ਹਟਾਓ» ਸੰਭਾਲੀ ਨਿੱਜੀ ਕੁੰਜੀ ਮਿਟਾਉਂਦਾ ਹੈ। ਇਸ ਐਪ ਤੋਂ ਬਾਹਰ ਦੀਆਂ ਫਾਈਲਾਂ, ਬੈਕਅੱਪ ਅਤੇ ਪ੍ਰਦਾਤਾ ਕੋਲ ਮੌਜੂਦ ਡਾਟਾ ਵੱਖਰੇ ਹਨ।"
+      }
+    ],
+    "report": "AI ਗਲਤੀਆਂ ਕਰ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਐਪ ਵਿੱਚ ਬਣਾਈ ਸਮੱਗਰੀ ਨੂੰ ਸੋਧ ਜਾਂ ਮਿਟਾ ਸਕਦੇ ਹੋ। ਨੁਕਸਾਨਦੇਹ ਸਮੱਗਰੀ ਦੀ ਰਿਪੋਰਟ ਕਰਨ ਲਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਲ ਕੀਤੇ ਬਿਨਾਂ ਸਮੱਸਿਆ ਦੱਸੋ।"
+  },
+  "pl": {
+    "labels": {
+      "Your material": "Twój materiał",
+      "Language": "Język",
+      "Lesson": "Lekcja",
+      "Cheat sheet": "Ściąga",
+      "Practice": "Ćwicz",
+      "Support": "Pomoc",
+      "Privacy policy": "Polityka prywatności",
+      "Contact support": "Skontaktuj się z pomocą",
+      "Report generated content": "Zgłoś wygenerowaną treść",
+      "Terms of use": "Warunki użytkowania",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Zdjęcia i pliki PDF",
+      "Remove saved data": "Usuń zapisane dane",
+      "A LITTLE PRACTICE, EVERY DAY": "TROCHĘ NAUKI KAŻDEGO DNIA",
+      "Read and review": "Czytaj i powtarzaj",
+      "AI providers": "Dostawcy AI",
+      "Local library": "Lokalna biblioteka",
+      "About": "Informacje"
+    },
+    "privacy": [
+      {
+        "title": "Lokalna biblioteka",
+        "text": "Wyodrębniony tekst do nauki, lekcje, karty i postępy są zapisywane w tej aplikacji na Twoim urządzeniu. Aplikacja nie tworzy konta AnyPractice ani nie oferuje własnej synchronizacji w chmurze. Kopie zapasowe urządzenia mogą zawierać lokalne dane aplikacji."
+      },
+      {
+        "title": "Zdjęcia i pliki PDF",
+        "text": "Rozpoznawanie tekstu odbywa się na Twoim urządzeniu. Importowane zdjęcia i pliki PDF są również zapisywane lokalnie wraz z materiałami. W lekcjach Pro możesz wysłać zdjęcie lub całe wybrane strony PDF do OpenAI po ich sprawdzeniu i potwierdzeniu. Tryby tekstowe wysyłają wyłącznie sprawdzony tekst."
+      },
+      {
+        "title": "Dostawcy AI",
+        "text": "Przy korzystaniu z Twojego klucza API tylko wybrane fragmenty i instrukcje generowania są wysyłane bezpośrednio do potwierdzonego dostawcy i modelu. Klucz jest przechowywany w Keychain tego urządzenia. Dostawca może zachowywać żądania zgodnie z własnymi warunkami. AnyPractice nie może usunąć kopii, które ten dostawca już posiada."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence tworzy fiszki na podstawie materiału źródłowego na obsługiwanych urządzeniach. Generowanie i obsługiwane tłumaczenia działają lokalnie; może być konieczne pobranie zasobów językowych."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "W Pro wybrany tekst i potwierdzone oryginalne strony trafiają do OpenAI przez AnyPractice działające na Vercel. Oryginalne pliki są przetwarzane na potrzeby danego żądania, bez biblioteki plików na serwerze. Apple obsługuje płatności; serwer weryfikuje subskrypcję i przechowuje identyfikatory oraz liczniki użycia. Dostawcy i usługi hostingowe przetwarzają dane zgodnie z własnymi zasadami."
+      },
+      {
+        "title": "Usuń zapisane dane",
+        "text": "Usuń talię, aby usunąć z tej aplikacji zapisany tekst, lokalną kopię zdjęcia lub PDF, wygenerowane materiały i postępy. Inne talie korzystające z tych samych materiałów zachowają swoje kopie. „Usuń połączenie” usuwa zapisany klucz osobisty. Pliki poza tą aplikacją, kopie zapasowe i dane po stronie dostawcy są oddzielne."
+      }
+    ],
+    "report": "AI może popełniać błędy. Wygenerowane materiały można edytować lub usuwać w aplikacji. Zgłaszając szkodliwe treści, opisz problem bez podawania prywatnych informacji."
+  },
+  "pt-BR": {
+    "labels": {
+      "Your material": "Seu material",
+      "Language": "Idioma",
+      "Lesson": "Lição",
+      "Cheat sheet": "Resumo rápido",
+      "Practice": "Praticar",
+      "Support": "Suporte",
+      "Privacy policy": "Política de privacidade",
+      "Contact support": "Entrar em contato com o suporte",
+      "Report generated content": "Denunciar conteúdo gerado",
+      "Terms of use": "Termos de uso",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotos e PDFs",
+      "Remove saved data": "Remover dados salvos",
+      "A LITTLE PRACTICE, EVERY DAY": "UM POUCO DE PRÁTICA, TODO DIA",
+      "Read and review": "Ler e revisar",
+      "AI providers": "Provedores de IA",
+      "Local library": "Biblioteca local",
+      "About": "Sobre"
+    },
+    "privacy": [
+      {
+        "title": "Biblioteca local",
+        "text": "O texto de estudo extraído, as lições, os cards e o progresso são salvos neste app no seu dispositivo. O app não cria uma conta AnyPractice nem oferece sincronização própria na nuvem. Os backups do dispositivo podem incluir dados locais do app."
+      },
+      {
+        "title": "Fotos e PDFs",
+        "text": "O reconhecimento de texto ocorre no seu dispositivo. As fotos e os PDFs importados também são salvos localmente com seu material. Nas aulas Pro, você pode enviar a foto ou as páginas completas do PDF selecionado à OpenAI depois de revisar e confirmar. Os modos somente texto enviam apenas o texto revisado."
+      },
+      {
+        "title": "Provedores de IA",
+        "text": "Com sua chave de API, apenas os trechos selecionados e as instruções de geração são enviados diretamente ao provedor e ao modelo que você confirmar. Sua chave é armazenada no Keychain deste dispositivo. O provedor pode guardar as solicitações conforme seus próprios termos. O AnyPractice não pode excluir cópias já mantidas por esse provedor."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "O Apple Intelligence cria cards com base no material original em dispositivos compatíveis. A geração e as traduções compatíveis são executadas localmente; pode ser necessário baixar recursos de idiomas."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Com o Pro, o texto selecionado e as páginas originais confirmadas passam pelo AnyPractice na Vercel até a OpenAI. Os arquivos originais são processados para essa solicitação, sem uma biblioteca de arquivos no servidor. A Apple processa os pagamentos; o servidor verifica sua assinatura e armazena identificadores e contadores de uso. Os provedores de IA e hospedagem tratam os dados segundo suas próprias políticas."
+      },
+      {
+        "title": "Remover dados salvos",
+        "text": "Exclua um baralho para remover deste app o texto salvo, a cópia local da foto ou do PDF, o material gerado e o progresso. Outros baralhos que usam o mesmo material mantêm suas cópias. «Remover conexão» apaga a chave pessoal salva. Os arquivos fora deste app, os backups e os dados nos provedores são separados."
+      }
+    ],
+    "report": "A IA pode cometer erros. Você pode editar ou excluir o material gerado no app. Para denunciar conteúdo prejudicial, descreva o problema sem incluir informações privadas."
+  },
+  "pt-PT": {
+    "labels": {
+      "Your material": "O seu material",
+      "Language": "Idioma",
+      "Lesson": "Lição",
+      "Cheat sheet": "Folha de consulta",
+      "Practice": "Praticar",
+      "Support": "Suporte",
+      "Privacy policy": "Política de privacidade",
+      "Contact support": "Contactar o suporte",
+      "Report generated content": "Denunciar conteúdo gerado",
+      "Terms of use": "Termos de utilização",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotografias e PDF",
+      "Remove saved data": "Remover dados guardados",
+      "A LITTLE PRACTICE, EVERY DAY": "UM POUCO DE PRÁTICA, TODOS OS DIAS",
+      "Read and review": "Ler e rever",
+      "AI providers": "Fornecedores de IA",
+      "Local library": "Biblioteca local",
+      "About": "Acerca de"
+    },
+    "privacy": [
+      {
+        "title": "Biblioteca local",
+        "text": "O texto de estudo extraído, as lições, os cartões e o progresso são guardados nesta aplicação no seu dispositivo. A aplicação não cria uma conta AnyPractice nem disponibiliza sincronização própria na nuvem. As cópias de segurança do dispositivo podem incluir dados locais da aplicação."
+      },
+      {
+        "title": "Fotografias e PDF",
+        "text": "O reconhecimento de texto ocorre no teu dispositivo. As fotografias e os PDF importados também são guardados localmente com o teu material. Nas lições Pro, podes enviar a fotografia ou as páginas completas do PDF selecionado para a OpenAI depois de reveres e confirmares. Os modos apenas de texto enviam somente o texto revisto."
+      },
+      {
+        "title": "Fornecedores de IA",
+        "text": "Com a sua chave de API, apenas os excertos selecionados e as instruções de geração são enviados diretamente para o fornecedor e o modelo que confirmar. A chave é guardada no Keychain deste dispositivo. O fornecedor pode conservar os pedidos de acordo com os seus próprios termos. A AnyPractice não pode eliminar cópias já mantidas por esse fornecedor."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "O Apple Intelligence cria cartões com base no material original em dispositivos compatíveis. A geração e as traduções suportadas são executadas localmente; poderá ser necessário descarregar recursos linguísticos."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Com o Pro, o texto selecionado e as páginas originais confirmadas passam pelo AnyPractice na Vercel até à OpenAI. Os ficheiros originais são processados para esse pedido, sem uma biblioteca de ficheiros no servidor. A Apple processa os pagamentos; o servidor verifica a tua assinatura e guarda identificadores e contadores de utilização. Os fornecedores e os serviços de alojamento tratam os dados segundo as suas próprias políticas."
+      },
+      {
+        "title": "Remover dados guardados",
+        "text": "Apaga um baralho para remover desta aplicação o texto guardado, a cópia local da fotografia ou do PDF, o material gerado e o progresso. Os outros baralhos que utilizam o mesmo material mantêm as suas cópias. «Remover ligação» apaga a chave pessoal guardada. Os ficheiros fora desta aplicação, as cópias de segurança e os dados nos fornecedores são separados."
+      }
+    ],
+    "report": "A IA pode cometer erros. Pode editar ou eliminar o material gerado na aplicação. Para denunciar conteúdo prejudicial, descreva o problema sem incluir informações privadas."
+  },
+  "ro": {
+    "labels": {
+      "Your material": "Materialul tău",
+      "Language": "Limbă",
+      "Lesson": "Lecție",
+      "Cheat sheet": "Fișă recapitulativă",
+      "Practice": "Exersează",
+      "Support": "Asistență",
+      "Privacy policy": "Politica de confidențialitate",
+      "Contact support": "Contactează asistența",
+      "Report generated content": "Raportează conținut generat",
+      "Terms of use": "Condiții de utilizare",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotografii și PDF-uri",
+      "Remove saved data": "Elimină datele salvate",
+      "A LITTLE PRACTICE, EVERY DAY": "UN Pic DE EXERSARE, ÎN FIECARE ZI",
+      "Read and review": "Citește și verifică",
+      "AI providers": "Furnizori AI",
+      "Local library": "Bibliotecă locală",
+      "About": "Despre"
+    },
+    "privacy": [
+      {
+        "title": "Bibliotecă locală",
+        "text": "Textul de studiu extras, lecțiile, fișele și progresul sunt salvate în această aplicație pe dispozitivul tău. Aplicația nu creează un cont AnyPractice și nu oferă propria sincronizare în cloud. Copiile de siguranță ale dispozitivului pot include datele locale ale aplicației."
+      },
+      {
+        "title": "Fotografii și PDF-uri",
+        "text": "Recunoașterea textului are loc pe dispozitivul tău. Fotografiile și PDF-urile importate sunt salvate și local, împreună cu materialul tău. Pentru lecțiile Pro, poți trimite fotografia sau paginile PDF selectate complete către OpenAI după ce le verifici și confirmi. Modurile doar text trimit numai textul verificat."
+      },
+      {
+        "title": "Furnizori AI",
+        "text": "Cu cheia ta API, doar fragmentele selectate și instrucțiunile de generare sunt trimise direct către furnizorul și modelul pe care le confirmi. Cheia este stocată în Keychain pe acest dispozitiv. Furnizorul poate păstra cererile conform propriilor condiții. AnyPractice nu poate șterge copiile deja deținute de acel furnizor."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence creează fișe de studiu pe baza surselor pe dispozitivele compatibile. Generarea și traducerea acceptată rulează local; poate fi necesară descărcarea resurselor lingvistice."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Cu Pro, textul selectat și paginile originale confirmate trec prin AnyPractice pe Vercel către OpenAI. Fișierele originale sunt procesate pentru cererea respectivă, fără o bibliotecă de fișiere pe server. Apple procesează plățile; serverul verifică abonamentul și stochează identificatori și contoare de utilizare. Furnizorii și serviciile de găzduire prelucrează datele conform propriilor politici."
+      },
+      {
+        "title": "Elimină datele salvate",
+        "text": "Șterge un set de fișe pentru a elimina din această aplicație textul salvat, copia locală a fotografiei sau PDF-ului, materialul generat și progresul. Alte seturi care folosesc același material își păstrează copiile. „Elimină conexiunea” șterge cheia personală salvată. Fișierele din afara aplicației, copiile de siguranță și datele de la furnizor sunt separate."
+      }
+    ],
+    "report": "AI poate greși. Poți edita sau șterge materialele generate în aplicație. Pentru a raporta conținut dăunător, descrie problema fără a include informații private."
+  },
+  "sk": {
+    "labels": {
+      "Your material": "Váš materiál",
+      "Language": "Jazyk",
+      "Lesson": "Lekcia",
+      "Cheat sheet": "Ťahák",
+      "Practice": "Precvičovať",
+      "Support": "Podpora",
+      "Privacy policy": "Zásady ochrany súkromia",
+      "Contact support": "Kontaktovať podporu",
+      "Report generated content": "Nahlásiť vygenerovaný obsah",
+      "Terms of use": "Podmienky používania",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotografie a PDF",
+      "Remove saved data": "Odstrániť uložené údaje",
+      "A LITTLE PRACTICE, EVERY DAY": "MALÉ CVIČENIE KAŽDÝ DEŇ",
+      "Read and review": "Prečítať a skontrolovať",
+      "AI providers": "Poskytovatelia AI",
+      "Local library": "Lokálna knižnica",
+      "About": "O aplikácii"
+    },
+    "privacy": [
+      {
+        "title": "Lokálna knižnica",
+        "text": "Extrahovaný študijný text, lekcie, kartičky a pokrok sa ukladajú v tejto aplikácii na vašom zariadení. Aplikácia nevytvára účet AnyPractice ani neposkytuje vlastnú cloudovú synchronizáciu. Zálohy zariadenia môžu obsahovať lokálne údaje aplikácie."
+      },
+      {
+        "title": "Fotografie a PDF",
+        "text": "Rozpoznávanie textu prebieha na tvojom zariadení. Importované fotografie a PDF sa tiež ukladajú miestne s tvojimi materiálmi. Pri lekciách Pro môžeš po kontrole a potvrdení odoslať fotografiu alebo celé vybrané strany PDF do OpenAI. Textové režimy odosielajú iba skontrolovaný text."
+      },
+      {
+        "title": "Poskytovatelia AI",
+        "text": "S vaším kľúčom API sa priamo poskytovateľovi a modelu, ktoré potvrdíte, odošlú iba vybrané úryvky a pokyny na generovanie. Kľúč je uložený v Keychain tohto zariadenia. Poskytovateľ môže požiadavky uchovávať podľa vlastných podmienok. AnyPractice nemôže vymazať kópie, ktoré tento poskytovateľ už má."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence vytvára na podporovaných zariadeniach kartičky podľa zdrojov. Generovanie aj podporovaný preklad prebiehajú lokálne; jazykové prostriedky môže byť potrebné stiahnuť."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "S Pro prechádzajú vybraný text a potvrdené pôvodné strany cez AnyPractice na Verceli do OpenAI. Pôvodné súbory sa spracúvajú pre danú požiadavku, bez knižnice súborov na serveri. Platby spracúva Apple; server overuje tvoje predplatné a ukladá identifikátory a počítadlá používania. Poskytovatelia a hostingové služby spracúvajú údaje podľa vlastných pravidiel."
+      },
+      {
+        "title": "Odstrániť uložené údaje",
+        "text": "Vymazaním balíčka z tejto aplikácie odstrániš jeho uložený text, miestnu kópiu fotografie alebo PDF, vygenerované materiály a pokrok. Ostatné balíčky používajúce rovnaké materiály si svoje kópie ponechajú. „Odstrániť pripojenie“ vymaže uložený osobný kľúč. Súbory mimo tejto aplikácie, zálohy a údaje u poskytovateľa sú oddelené."
+      }
+    ],
+    "report": "AI sa môže mýliť. Vygenerované materiály môžete v aplikácii upraviť alebo vymazať. Ak chcete nahlásiť škodlivý obsah, opíšte problém bez súkromných údajov."
+  },
+  "sl": {
+    "labels": {
+      "Your material": "Vaše gradivo",
+      "Language": "Jezik",
+      "Lesson": "Lekcija",
+      "Cheat sheet": "Povzetek",
+      "Practice": "Vadba",
+      "Support": "Podpora",
+      "Privacy policy": "Pravilnik o zasebnosti",
+      "Contact support": "Obrnite se na podporo",
+      "Report generated content": "Prijavi ustvarjeno vsebino",
+      "Terms of use": "Pogoji uporabe",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotografije in PDF-ji",
+      "Remove saved data": "Odstrani shranjene podatke",
+      "A LITTLE PRACTICE, EVERY DAY": "MALO VADBE VSAK DAN",
+      "Read and review": "Preberi in preglej",
+      "AI providers": "Ponudniki AI",
+      "Local library": "Lokalna knjižnica",
+      "About": "O aplikaciji"
+    },
+    "privacy": [
+      {
+        "title": "Lokalna knjižnica",
+        "text": "Vaše izvlečeno učno besedilo, lekcije, kartice in napredek so shranjeni v tej aplikaciji na vaši napravi. Aplikacija ne ustvari računa AnyPractice in ne zagotavlja lastne sinhronizacije v oblaku. Varnostne kopije naprave lahko vključujejo lokalne podatke aplikacije."
+      },
+      {
+        "title": "Fotografije in PDF-ji",
+        "text": "Prepoznavanje besedila poteka na tvoji napravi. Uvožene fotografije in PDF-ji se prav tako shranijo lokalno skupaj z gradivom. Za lekcije Pro lahko fotografijo ali celotne izbrane strani PDF po pregledu in potrditvi pošlješ v OpenAI. Načini samo z besedilom pošiljajo le pregledano besedilo."
+      },
+      {
+        "title": "Ponudniki AI",
+        "text": "Z vašim ključem API se neposredno ponudniku in modelu, ki ju potrdite, pošljejo samo izbrani odlomki in navodila za ustvarjanje. Ključ je shranjen v Keychainu te naprave. Ponudnik lahko hrani zahteve v skladu s svojimi pogoji. AnyPractice ne more izbrisati kopij, ki jih ta ponudnik že ima."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence na podprtih napravah ustvarja učne kartice na podlagi virov. Ustvarjanje in podprto prevajanje potekata lokalno; jezikovne vire bo morda treba prenesti."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "S Pro gredo izbrano besedilo in potrjene izvirne strani prek AnyPractice na Vercelu v OpenAI. Izvirne datoteke se obdelajo za to zahtevo, brez knjižnice datotek na strežniku. Apple obdeluje plačila; strežnik preveri tvojo naročnino ter shrani identifikatorje in števce uporabe. Ponudniki in storitve gostovanja obdelujejo podatke po svojih pravilnikih."
+      },
+      {
+        "title": "Odstrani shranjene podatke",
+        "text": "Izbriši komplet kartic, da iz te aplikacije odstraniš njegovo shranjeno besedilo, lokalno kopijo fotografije ali PDF-ja, ustvarjeno gradivo in napredek. Drugi kompleti z istim gradivom obdržijo svoje kopije. »Odstrani povezavo« izbriše shranjeni osebni ključ. Datoteke zunaj te aplikacije, varnostne kopije in podatki pri ponudniku so ločeni."
+      }
+    ],
+    "report": "AI se lahko zmoti. Ustvarjeno gradivo lahko v aplikaciji uredite ali izbrišete. Če želite prijaviti škodljivo vsebino, opišite težavo brez zasebnih podatkov."
+  },
+  "sv": {
+    "labels": {
+      "Your material": "Ditt material",
+      "Language": "Språk",
+      "Lesson": "Lektion",
+      "Cheat sheet": "Fusklapp",
+      "Practice": "Öva",
+      "Support": "Support",
+      "Privacy policy": "Integritetspolicy",
+      "Contact support": "Kontakta supporten",
+      "Report generated content": "Anmäl skapat innehåll",
+      "Terms of use": "Användarvillkor",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Foton och PDF-filer",
+      "Remove saved data": "Ta bort sparade data",
+      "A LITTLE PRACTICE, EVERY DAY": "LITE ÖVNING VARJE DAG",
+      "Read and review": "Läs och repetera",
+      "AI providers": "AI-leverantörer",
+      "Local library": "Lokalt bibliotek",
+      "About": "Om"
+    },
+    "privacy": [
+      {
+        "title": "Lokalt bibliotek",
+        "text": "Din extraherade studietext, lektioner, kort och framsteg sparas i den här appen på din enhet. Appen skapar inget AnyPractice-konto och erbjuder ingen egen molnsynkronisering. Enhetens säkerhetskopior kan innehålla lokala appdata."
+      },
+      {
+        "title": "Foton och PDF-filer",
+        "text": "Textigenkänningen sker på din enhet. Importerade foton och PDF-filer sparas också lokalt med ditt material. För Pro-lektioner kan du skicka fotot eller hela valda PDF-sidor till OpenAI efter att du har granskat och bekräftat dem. Lägen för enbart text skickar endast granskad text."
+      },
+      {
+        "title": "AI-leverantörer",
+        "text": "Med din API-nyckel skickas endast de valda textavsnitten och genereringsinstruktionerna direkt till den leverantör och modell du bekräftar. Din nyckel lagras i enhetens Keychain. Leverantören kan behålla förfrågningar enligt sina egna villkor. AnyPractice kan inte radera kopior som leverantören redan har."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence skapar källbaserade instuderingskort på enheter som stöds. Generering och översättningar som stöds körs lokalt; språkresurser kan behöva hämtas."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Med Pro går vald text och bekräftade originalsidor via AnyPractice på Vercel till OpenAI. Originalfiler behandlas för den begäran, utan något filbibliotek på servern. Apple hanterar betalningar; servern verifierar din prenumeration och lagrar identifierare och användningsräknare. Leverantörer och värdtjänster hanterar data enligt sina egna policyer."
+      },
+      {
+        "title": "Ta bort sparade data",
+        "text": "Radera en kortlek för att ta bort dess sparade text, lokala foto- eller PDF-kopia, genererade material och framsteg från appen. Andra kortlekar med samma material behåller sina kopior. ”Ta bort anslutning” raderar den sparade personliga nyckeln. Filer utanför appen, säkerhetskopior och data hos leverantören är separata."
+      }
+    ],
+    "report": "AI kan göra fel. Du kan redigera eller radera skapat material i appen. Beskriv problemet utan privat information när du anmäler skadligt innehåll."
+  },
+  "ta": {
+    "labels": {
+      "Your material": "உங்கள் பாடப்பொருள்",
+      "Language": "மொழி",
+      "Lesson": "பாடம்",
+      "Cheat sheet": "சுருக்கக் குறிப்பு",
+      "Practice": "பயிற்சி",
+      "Support": "ஆதரவு",
+      "Privacy policy": "தனியுரிமைக் கொள்கை",
+      "Contact support": "ஆதரவைத் தொடர்புகொள்ளவும்",
+      "Report generated content": "உருவாக்கிய உள்ளடக்கத்தைப் புகாரளி",
+      "Terms of use": "பயன்பாட்டு விதிமுறைகள்",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "படங்களும் PDFகளும்",
+      "Remove saved data": "சேமித்த தரவை அகற்று",
+      "A LITTLE PRACTICE, EVERY DAY": "தினமும் சிறிது பயிற்சி",
+      "Read and review": "படித்து மதிப்பாய்வு செய்",
+      "AI providers": "AI வழங்குநர்கள்",
+      "Local library": "சாதன நூலகம்",
+      "About": "பற்றி"
+    },
+    "privacy": [
+      {
+        "title": "சாதன நூலகம்",
+        "text": "பிரித்தெடுத்த படிப்பு உரை, பாடங்கள், அட்டைகள் மற்றும் முன்னேற்றம் உங்கள் சாதனத்தில் இந்த ஆப்பில் சேமிக்கப்படும். ஆப் AnyPractice கணக்கை உருவாக்கவோ தனது சொந்த கிளவுட் ஒத்திசைவை வழங்கவோ செய்யாது. சாதனக் காப்புப்பிரதிகளில் ஆப்பின் உள்ளூர் தரவு இருக்கலாம்."
+      },
+      {
+        "title": "படங்களும் PDFகளும்",
+        "text": "உரை கண்டறிதல் உங்கள் சாதனத்தில் இயங்குகிறது. இறக்குமதி செய்த புகைப்படங்களும் PDF-களும் உங்கள் பாடப்பொருளுடன் சாதனத்திலேயே சேமிக்கப்படுகின்றன. Pro பாடங்களுக்கு, மதிப்பாய்வு செய்து உறுதிசெய்த பிறகு புகைப்படத்தையோ தேர்ந்தெடுத்த முழு PDF பக்கங்களையோ OpenAI-க்கு அனுப்பலாம். உரை மட்டும் பயன்படுத்தும் முறைகள் மதிப்பாய்வு செய்த உரையை மட்டுமே அனுப்பும்."
+      },
+      {
+        "title": "AI வழங்குநர்கள்",
+        "text": "உங்கள் API விசையைப் பயன்படுத்தும்போது, தேர்ந்தெடுத்த பகுதிகளும் உருவாக்க வழிமுறைகளும் மட்டுமே நீங்கள் உறுதிப்படுத்தும் வழங்குநருக்கும் மாதிரிக்கும் நேரடியாக அனுப்பப்படும். உங்கள் விசை இந்தச் சாதனத்தின் Keychainஇல் சேமிக்கப்படும். வழங்குநர் தனது விதிமுறைகளின்படி கோரிக்கைகளை வைத்திருக்கலாம். அந்த வழங்குநரிடம் ஏற்கெனவே உள்ள நகல்களை AnyPracticeஆல் நீக்க முடியாது."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence ஆதரிக்கப்படும் சாதனங்களில் மூலத்தை அடிப்படையாகக் கொண்ட நினைவட்டைகளை உருவாக்குகிறது. உருவாக்கமும் ஆதரிக்கப்படும் மொழிபெயர்ப்பும் சாதனத்திலேயே நடைபெறும்; மொழி வளங்களைப் பதிவிறக்க வேண்டியிருக்கலாம்."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro-வில் தேர்ந்தெடுத்த உரையும் உறுதிசெய்த மூலப் பக்கங்களும் Vercel-இல் இயங்கும் AnyPractice வழியாக OpenAI-க்குச் செல்லும். சேவையகத்தில் கோப்பு நூலகம் உருவாக்காமல், அந்தக் கோரிக்கைக்காக மூலக் கோப்புகள் செயலாக்கப்படுகின்றன. Apple கட்டணங்களைச் செயலாக்குகிறது; சேவையகம் உங்கள் சந்தாவைச் சரிபார்த்து அடையாளங்காட்டிகளையும் பயன்பாட்டு எண்ணிக்கைகளையும் சேமிக்கிறது. வழங்குநர்களும் ஹோஸ்டிங் சேவைகளும் தங்கள் சொந்தக் கொள்கைகளின்படி தரவைக் கையாளுகின்றன."
+      },
+      {
+        "title": "சேமித்த தரவை அகற்று",
+        "text": "ஒரு டெக்கை நீக்கினால், அதன் சேமித்த உரை, புகைப்படம் அல்லது PDF-இன் உள்ளூர் நகல், உருவாக்கிய பாடப்பொருள் மற்றும் முன்னேற்றம் இந்தச் செயலியிலிருந்து அகற்றப்படும். அதே பாடப்பொருளைப் பயன்படுத்தும் மற்ற டெக்குகள் அவற்றின் நகல்களைத் தக்கவைக்கும். «இணைப்பை அகற்று» சேமித்த தனிப்பட்ட விசையை நீக்கும். இந்தச் செயலிக்கு வெளியே உள்ள கோப்புகள், காப்புப்பிரதிகள் மற்றும் வழங்குநரிடம் உள்ள தரவு தனியானவை."
+      }
+    ],
+    "report": "AI தவறுகள் செய்யலாம். உருவாக்கப்பட்ட உள்ளடக்கத்தை ஆப்பில் திருத்தலாம் அல்லது நீக்கலாம். தீங்கு விளைவிக்கும் உள்ளடக்கத்தைப் புகாரளிக்க, தனிப்பட்ட தகவல்களைச் சேர்க்காமல் சிக்கலை விவரிக்கவும்."
+  },
+  "te": {
+    "labels": {
+      "Your material": "మీ మెటీరియల్",
+      "Language": "భాష",
+      "Lesson": "పాఠం",
+      "Cheat sheet": "చీట్ షీట్",
+      "Practice": "ప్రాక్టీస్",
+      "Support": "సహాయం",
+      "Privacy policy": "గోప్యతా విధానం",
+      "Contact support": "సహాయాన్ని సంప్రదించండి",
+      "Report generated content": "రూపొందించిన కంటెంట్‌ను నివేదించు",
+      "Terms of use": "వినియోగ నిబంధనలు",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "ఫోటోలు మరియు PDFలు",
+      "Remove saved data": "సేవ్ చేసిన డేటాను తీసివేయి",
+      "A LITTLE PRACTICE, EVERY DAY": "ప్రతిరోజూ కొద్దిగా సాధన",
+      "Read and review": "చదవండి మరియు సమీక్షించండి",
+      "AI providers": "AI ప్రదాతలు",
+      "Local library": "స్థానిక లైబ్రరీ",
+      "About": "గురించి"
+    },
+    "privacy": [
+      {
+        "title": "స్థానిక లైబ్రరీ",
+        "text": "వెలికితీసిన అధ్యయన వచనం, పాఠాలు, కార్డ్‌లు, పురోగతి మీ పరికరంలోని ఈ యాప్‌లో సేవ్ చేయబడతాయి. యాప్ AnyPractice ఖాతాను సృష్టించదు లేదా సొంత క్లౌడ్ సింక్‌ను అందించదు. పరికర బ్యాకప్‌లలో యాప్ స్థానిక డేటా ఉండవచ్చు."
+      },
+      {
+        "title": "ఫోటోలు మరియు PDFలు",
+        "text": "వచన గుర్తింపు మీ పరికరంలో పనిచేస్తుంది. దిగుమతి చేసిన ఫోటోలు, PDFలు కూడా మీ సామగ్రితో పాటు స్థానికంగా సేవ్ చేయబడతాయి. Pro పాఠాల కోసం, సమీక్షించి నిర్ధారించిన తర్వాత ఫోటోను లేదా ఎంచుకున్న పూర్తి PDF పేజీలను OpenAIకి పంపవచ్చు. వచనం మాత్రమే వాడే మోడ్‌లు సమీక్షించిన వచనాన్ని మాత్రమే పంపుతాయి."
+      },
+      {
+        "title": "AI ప్రదాతలు",
+        "text": "మీ API కీతో, ఎంచుకున్న భాగాలు, రూపొందింపు సూచనలు మాత్రమే మీరు నిర్ధారించిన ప్రదాతకు, మోడల్‌కు నేరుగా పంపబడతాయి. మీ కీ ఈ పరికరం Keychainలో నిల్వ చేయబడుతుంది. ప్రదాత తన నిబంధనల ప్రకారం అభ్యర్థనలను ఉంచవచ్చు. ఆ ప్రదాత వద్ద ఇప్పటికే ఉన్న కాపీలను AnyPractice ద్వారా తొలగించడం సాధ్యం కాదు."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence మద్దతు ఉన్న పరికరాల్లో మూలం ఆధారంగా ఫ్లాష్‌కార్డ్‌లను రూపొందిస్తుంది. రూపొందించడం, మద్దతు ఉన్న అనువాదం స్థానికంగానే జరుగుతాయి; భాషా వనరులను డౌన్‌లోడ్ చేయాల్సి రావచ్చు."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Proలో ఎంచుకున్న వచనం, నిర్ధారించిన అసలు పేజీలు Vercelలోని AnyPractice ద్వారా OpenAIకి చేరుతాయి. సర్వర్‌లో ఫైల్ లైబ్రరీని నిర్మించకుండా, ఆ అభ్యర్థన కోసం అసలు ఫైళ్లు ప్రాసెస్ చేయబడతాయి. Apple చెల్లింపులను ప్రాసెస్ చేస్తుంది; సర్వర్ మీ చందాను ధృవీకరించి గుర్తింపులను, వినియోగ లెక్కలను నిల్వ చేస్తుంది. సేవాదారులు, హోస్టింగ్ సేవలు తమ సొంత విధానాల ప్రకారం డేటాను నిర్వహిస్తాయి."
+      },
+      {
+        "title": "సేవ్ చేసిన డేటాను తీసివేయి",
+        "text": "డెక్ తొలగిస్తే ఈ యాప్ నుండి దానిలో సేవ్ చేసిన వచనం, ఫోటో లేదా PDF యొక్క స్థానిక కాపీ, రూపొందించిన సామగ్రి, పురోగతి తొలగిపోతాయి. అదే సామగ్రిని వాడే ఇతర డెక్‌లు తమ కాపీలను ఉంచుకుంటాయి. «కనెక్షన్‌ను తొలగించండి» సేవ్ చేసిన వ్యక్తిగత కీని తొలగిస్తుంది. ఈ యాప్ వెలుపల ఉన్న ఫైళ్లు, బ్యాకప్‌లు, సేవాదారు వద్ద ఉన్న డేటా వేరు."
+      }
+    ],
+    "report": "AI పొరపాట్లు చేయవచ్చు. రూపొందించిన విషయాలను యాప్‌లో సవరించవచ్చు లేదా తొలగించవచ్చు. హానికరమైన కంటెంట్‌ను నివేదించడానికి వ్యక్తిగత సమాచారాన్ని చేర్చకుండా సమస్యను వివరించండి."
+  },
+  "th": {
+    "labels": {
+      "Your material": "เนื้อหาของคุณ",
+      "Language": "ภาษา",
+      "Lesson": "บทเรียน",
+      "Cheat sheet": "สรุปย่อ",
+      "Practice": "ฝึกฝน",
+      "Support": "ฝ่ายสนับสนุน",
+      "Privacy policy": "นโยบายความเป็นส่วนตัว",
+      "Contact support": "ติดต่อฝ่ายสนับสนุน",
+      "Report generated content": "รายงานเนื้อหาที่สร้างขึ้น",
+      "Terms of use": "ข้อกำหนดการใช้งาน",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "รูปภาพและ PDF",
+      "Remove saved data": "ลบข้อมูลที่บันทึกไว้",
+      "A LITTLE PRACTICE, EVERY DAY": "ฝึกทีละนิด ทุกวัน",
+      "Read and review": "อ่านและทบทวน",
+      "AI providers": "ผู้ให้บริการ AI",
+      "Local library": "คลังบนอุปกรณ์",
+      "About": "เกี่ยวกับ"
+    },
+    "privacy": [
+      {
+        "title": "คลังบนอุปกรณ์",
+        "text": "ข้อความเพื่อการเรียนที่ดึงออกมา บทเรียน การ์ด และความคืบหน้าจะบันทึกไว้ในแอปนี้บนอุปกรณ์ของคุณ แอปไม่สร้างบัญชี AnyPractice และไม่มีบริการซิงค์คลาวด์ของตนเอง ข้อมูลสำรองของอุปกรณ์อาจรวมข้อมูลแอปที่เก็บไว้บนอุปกรณ์"
+      },
+      {
+        "title": "รูปภาพและ PDF",
+        "text": "การอ่านข้อความทำงานบนอุปกรณ์ของคุณ รูปภาพและ PDF ที่นำเข้าจะถูกบันทึกไว้ในเครื่องพร้อมเนื้อหาของคุณด้วย สำหรับบทเรียน Pro คุณสามารถส่งรูปภาพหรือหน้า PDF ที่เลือกแบบเต็มหน้าไปยัง OpenAI หลังจากตรวจทานและยืนยันแล้ว โหมดที่ใช้เฉพาะข้อความจะส่งเฉพาะข้อความที่ตรวจทานแล้ว"
+      },
+      {
+        "title": "ผู้ให้บริการ AI",
+        "text": "เมื่อใช้คีย์ API ของคุณ ระบบจะส่งเฉพาะข้อความที่เลือกและคำสั่งในการสร้างเนื้อหาไปยังผู้ให้บริการและโมเดลที่คุณยืนยันโดยตรง คีย์ของคุณเก็บอยู่ใน Keychain ของอุปกรณ์นี้ ผู้ให้บริการอาจเก็บคำขอไว้ตามข้อกำหนดของตน AnyPractice ไม่สามารถลบสำเนาที่ผู้ให้บริการนั้นเก็บไว้แล้วได้"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence สร้างแฟลชการ์ดจากสื่อต้นฉบับบนอุปกรณ์ที่รองรับ การสร้างเนื้อหาและการแปลที่รองรับทำงานบนอุปกรณ์ โดยอาจต้องดาวน์โหลดทรัพยากรภาษา"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "เมื่อใช้ Pro ข้อความที่เลือกและหน้าต้นฉบับใด ๆ ที่คุณยืนยันจะส่งผ่าน AnyPractice บน Vercel ไปยัง OpenAI ไฟล์ต้นฉบับจะถูกประมวลผลสำหรับคำขอนั้นโดยไม่มีคลังไฟล์บนเซิร์ฟเวอร์ Apple จัดการการชำระเงิน ส่วนเซิร์ฟเวอร์ตรวจสอบการสมัครสมาชิกและเก็บตัวระบุและตัวนับการใช้งาน บริการของผู้ให้บริการและบริการโฮสติ้งจัดการข้อมูลตามนโยบายของตนเอง"
+      },
+      {
+        "title": "ลบข้อมูลที่บันทึกไว้",
+        "text": "ลบเด็คเพื่อนำข้อความที่บันทึกไว้ สำเนารูปภาพหรือ PDF ในเครื่อง สื่อที่สร้างขึ้น และความคืบหน้าของเด็คนั้นออกจากแอปนี้ เด็คอื่นที่ใช้เนื้อหาเดียวกันจะยังเก็บสำเนาของตนไว้ การลบการเชื่อมต่อจะลบคีย์ส่วนตัวที่บันทึกไว้ ไฟล์นอกแอปนี้ ข้อมูลสำรอง และข้อมูลที่ผู้ให้บริการเก็บไว้เป็นข้อมูลคนละส่วนกัน"
+      }
+    ],
+    "report": "AI อาจทำผิดพลาดได้ คุณสามารถแก้ไขหรือลบสื่อที่สร้างขึ้นในแอปได้ หากต้องการรายงานเนื้อหาที่เป็นอันตราย โปรดอธิบายปัญหาโดยไม่ใส่ข้อมูลส่วนตัว"
+  },
+  "tr": {
+    "labels": {
+      "Your material": "Materyalin",
+      "Language": "Dil",
+      "Lesson": "Ders",
+      "Cheat sheet": "Özet kâğıdı",
+      "Practice": "Pratik",
+      "Support": "Destek",
+      "Privacy policy": "Gizlilik politikası",
+      "Contact support": "Destekle iletişime geçin",
+      "Report generated content": "Oluşturulan içeriği bildir",
+      "Terms of use": "Kullanım koşulları",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Fotoğraflar ve PDF’ler",
+      "Remove saved data": "Kayıtlı verileri kaldır",
+      "A LITTLE PRACTICE, EVERY DAY": "HER GÜN BİRAZ PRATİK",
+      "Read and review": "Oku ve gözden geçir",
+      "AI providers": "Yapay zekâ sağlayıcıları",
+      "Local library": "Yerel kitaplık",
+      "About": "Hakkında"
+    },
+    "privacy": [
+      {
+        "title": "Yerel kitaplık",
+        "text": "Çıkarılan çalışma metniniz, dersleriniz, kartlarınız ve ilerlemeniz cihazınızdaki bu uygulamada saklanır. Uygulama AnyPractice hesabı oluşturmaz veya kendi bulut eşzamanlamasını sunmaz. Cihaz yedekleri yerel uygulama verilerini içerebilir."
+      },
+      {
+        "title": "Fotoğraflar ve PDF’ler",
+        "text": "Metin tanıma aygıtınızda gerçekleşir. İçe aktarılan fotoğraflar ve PDF’ler de materyalinizle birlikte yerel olarak kaydedilir. Pro derslerinde fotoğrafı veya seçili PDF sayfalarının tamamını gözden geçirip onayladıktan sonra OpenAI’a gönderebilirsiniz. Yalnızca metin modları sadece gözden geçirilmiş metni gönderir."
+      },
+      {
+        "title": "Yapay zekâ sağlayıcıları",
+        "text": "API anahtarınızla yalnızca seçilen metin parçaları ve içerik oluşturma talimatları, onayladığınız sağlayıcıya ve modele doğrudan gönderilir. Anahtarınız bu cihazın Keychain’inde saklanır. Sağlayıcı istekleri kendi koşullarına göre saklayabilir. AnyPractice, sağlayıcının elinde bulunan kopyaları silemez."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence, desteklenen cihazlarda kaynak materyale dayalı çalışma kartları oluşturur. İçerik oluşturma ve desteklenen çeviriler cihazda çalışır; dil kaynaklarını indirmek gerekebilir."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro ile seçili metin ve onayladığınız orijinal sayfalar, Vercel üzerindeki AnyPractice aracılığıyla OpenAI’a iletilir. Orijinal dosyalar, sunucuda bir dosya kitaplığı oluşturulmadan ilgili istek için işlenir. Ödemeleri Apple işler; sunucu aboneliğinizi doğrular ve tanımlayıcılar ile kullanım sayaçlarını saklar. Sağlayıcılar ve barındırma hizmetleri verileri kendi politikalarına göre işler."
+      },
+      {
+        "title": "Kayıtlı verileri kaldır",
+        "text": "Bir kart destesini silmek, kayıtlı metnini, yerel fotoğraf veya PDF kopyasını, üretilen materyali ve ilerlemeyi bu uygulamadan kaldırır. Aynı materyali kullanan diğer desteler kendi kopyalarını korur. «Bağlantıyı kaldır», kayıtlı kişisel anahtarı siler. Bu uygulamanın dışındaki dosyalar, yedekler ve sağlayıcı tarafındaki veriler ayrıdır."
+      }
+    ],
+    "report": "Yapay zekâ hata yapabilir. Oluşturulan materyali uygulamada düzenleyebilir veya silebilirsiniz. Zararlı içerikleri bildirirken sorunu özel bilgilerinizi eklemeden açıklayın."
+  },
+  "uk": {
+    "labels": {
+      "Your material": "Ваш матеріал",
+      "Language": "Мова",
+      "Lesson": "Урок",
+      "Cheat sheet": "Шпаргалка",
+      "Practice": "Практика",
+      "Support": "Підтримка",
+      "Privacy policy": "Політика конфіденційності",
+      "Contact support": "Зв’язатися з підтримкою",
+      "Report generated content": "Повідомити про згенерований вміст",
+      "Terms of use": "Умови використання",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Фото та PDF",
+      "Remove saved data": "Видалити збережені дані",
+      "A LITTLE PRACTICE, EVERY DAY": "ТРОХИ ПРАКТИКИ ЩОДНЯ",
+      "Read and review": "Читати й переглянути",
+      "AI providers": "Постачальники ШІ",
+      "Local library": "Локальна бібліотека",
+      "About": "Про застосунок"
+    },
+    "privacy": [
+      {
+        "title": "Локальна бібліотека",
+        "text": "Витягнутий навчальний текст, уроки, картки та прогрес зберігаються в цьому застосунку на вашому пристрої. Застосунок не створює обліковий запис AnyPractice і не надає власної хмарної синхронізації. Резервні копії пристрою можуть містити локальні дані застосунку."
+      },
+      {
+        "title": "Фото та PDF",
+        "text": "Розпізнавання тексту відбувається на вашому пристрої. Імпортовані фото й PDF також зберігаються локально разом із вашими матеріалами. Для уроків Pro ви можете надіслати фото або повні вибрані сторінки PDF до OpenAI після перегляду й підтвердження. Текстові режими надсилають лише перевірений текст."
+      },
+      {
+        "title": "Постачальники ШІ",
+        "text": "З вашим API-ключем лише вибрані уривки та інструкції генерації надсилаються безпосередньо постачальнику й моделі, які ви підтвердили. Ключ зберігається в Keychain цього пристрою. Постачальник може зберігати запити за власними умовами. AnyPractice не може видалити копії, які вже є в цього постачальника."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence створює картки на основі джерел на підтримуваних пристроях. Генерація та підтримуваний переклад виконуються локально; мовні ресурси може знадобитися завантажити."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "З Pro вибраний текст і підтверджені оригінальні сторінки проходять через AnyPractice на Vercel до OpenAI. Оригінальні файли обробляються для цього запиту без серверної бібліотеки файлів. Apple обробляє платежі; сервер перевіряє вашу передплату та зберігає ідентифікатори й лічильники використання. Постачальники й сервіси хостингу обробляють дані за власними політиками."
+      },
+      {
+        "title": "Видалити збережені дані",
+        "text": "Видаліть колоду, щоб прибрати з цього застосунку її збережений текст, локальну копію фото чи PDF, створені матеріали та прогрес. Інші колоди з тими самими матеріалами збережуть свої копії. Дія «Видалити підключення» видаляє збережений особистий ключ. Файли поза цим застосунком, резервні копії та дані на боці постачальника є окремими."
+      }
+    ],
+    "report": "ШІ може помилятися. Ви можете редагувати або видаляти згенеровані матеріали в застосунку. Щоб повідомити про шкідливий вміст, опишіть проблему без особистих даних."
+  },
+  "ur": {
+    "labels": {
+      "Your material": "آپ کا مواد",
+      "Language": "زبان",
+      "Lesson": "سبق",
+      "Cheat sheet": "خلاصہ شیٹ",
+      "Practice": "مشق",
+      "Support": "معاونت",
+      "Privacy policy": "رازداری کی پالیسی",
+      "Contact support": "معاونت سے رابطہ کریں",
+      "Report generated content": "تیار کردہ مواد کی اطلاع دیں",
+      "Terms of use": "استعمال کی شرائط",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "تصاویر اور PDF",
+      "Remove saved data": "محفوظ ڈیٹا ہٹائیں",
+      "A LITTLE PRACTICE, EVERY DAY": "روزانہ تھوڑی سی مشق",
+      "Read and review": "پڑھیں اور ریویو کریں",
+      "AI providers": "AI فراہم کنندگان",
+      "Local library": "مقامی لائبریری",
+      "About": "تعارف"
+    },
+    "privacy": [
+      {
+        "title": "مقامی لائبریری",
+        "text": "آپ کا اخذ کردہ مطالعاتی متن، اسباق، کارڈز اور پیش رفت آپ کے آلے پر اس ایپ میں محفوظ ہوتے ہیں۔ ایپ AnyPractice اکاؤنٹ نہیں بناتی اور اپنی کلاؤڈ ہم آہنگی فراہم نہیں کرتی۔ آلے کے بیک اپ میں ایپ کا مقامی ڈیٹا شامل ہو سکتا ہے۔"
+      },
+      {
+        "title": "تصاویر اور PDF",
+        "text": "متن کی شناخت آپ کی ڈیوائس پر ہوتی ہے۔ درآمد کردہ تصاویر اور PDF بھی آپ کے مواد کے ساتھ مقامی طور پر محفوظ ہوتے ہیں۔ Pro اسباق کے لیے، جائزہ لینے اور تصدیق کرنے کے بعد آپ تصویر یا منتخب مکمل PDF صفحات OpenAI کو بھیج سکتے ہیں۔ صرف متن والے موڈ صرف جائزہ لیا گیا متن بھیجتے ہیں۔"
+      },
+      {
+        "title": "AI فراہم کنندگان",
+        "text": "آپ کی API کلید کے ساتھ صرف منتخب اقتباسات اور تیاری کی ہدایات براہِ راست اس فراہم کنندہ اور ماڈل کو بھیجی جاتی ہیں جن کی آپ تصدیق کرتے ہیں۔ آپ کی کلید اس آلے کے Keychain میں محفوظ ہوتی ہے۔ فراہم کنندہ اپنی شرائط کے تحت درخواستیں محفوظ رکھ سکتا ہے۔ AnyPractice اس فراہم کنندہ کے پاس پہلے سے موجود نقلیں حذف نہیں کر سکتا۔"
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence معاون آلات پر ماخذ پر مبنی فلیش کارڈز بناتا ہے۔ تیاری اور معاون ترجمہ مقامی طور پر ہوتے ہیں؛ زبان کے وسائل ڈاؤن لوڈ کرنا پڑ سکتے ہیں۔"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Pro میں منتخب متن اور تصدیق شدہ اصل صفحات Vercel پر موجود AnyPractice کے ذریعے OpenAI تک جاتے ہیں۔ سرور پر فائل لائبریری بنائے بغیر، اصل فائلوں پر اسی درخواست کے لیے کارروائی کی جاتی ہے۔ Apple ادائیگیوں پر کارروائی کرتا ہے؛ سرور آپ کی سبسکرپشن کی تصدیق کرتا ہے اور شناختی معلومات اور استعمال کے شمار محفوظ کرتا ہے۔ فراہم کنندگان اور ہوسٹنگ سروسز اپنی پالیسیوں کے مطابق ڈیٹا سنبھالتے ہیں۔"
+      },
+      {
+        "title": "محفوظ ڈیٹا ہٹائیں",
+        "text": "ڈیک حذف کرنے سے اس ایپ میں اس کا محفوظ متن، تصویر یا PDF کی مقامی نقل، تیار کردہ مواد اور پیش رفت ہٹ جائے گی۔ وہی مواد استعمال کرنے والے دوسرے ڈیک اپنی نقول برقرار رکھیں گے۔ «کنکشن ہٹائیں» محفوظ ذاتی کلید حذف کرتا ہے۔ اس ایپ سے باہر کی فائلیں، بیک اپ اور فراہم کنندہ کے پاس موجود ڈیٹا الگ ہیں۔"
+      }
+    ],
+    "report": "AI سے غلطیاں ہو سکتی ہیں۔ آپ ایپ میں تیار کردہ مواد میں ترمیم یا اسے حذف کر سکتے ہیں۔ نقصان دہ مواد کی اطلاع دینے کے لیے نجی معلومات شامل کیے بغیر مسئلہ بیان کریں۔"
+  },
+  "vi": {
+    "labels": {
+      "Your material": "Tài liệu của bạn",
+      "Language": "Ngôn ngữ",
+      "Lesson": "Bài học",
+      "Cheat sheet": "Bảng tóm tắt nhanh",
+      "Practice": "Luyện tập",
+      "Support": "Hỗ trợ",
+      "Privacy policy": "Chính sách quyền riêng tư",
+      "Contact support": "Liên hệ hỗ trợ",
+      "Report generated content": "Báo cáo nội dung đã tạo",
+      "Terms of use": "Điều khoản sử dụng",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "Ảnh và PDF",
+      "Remove saved data": "Xóa dữ liệu đã lưu",
+      "A LITTLE PRACTICE, EVERY DAY": "LUYỆN TẬP MỘT CHÚT MỖI NGÀY",
+      "Read and review": "Đọc và ôn lại",
+      "AI providers": "Nhà cung cấp AI",
+      "Local library": "Thư viện trên thiết bị",
+      "About": "Giới thiệu"
+    },
+    "privacy": [
+      {
+        "title": "Thư viện trên thiết bị",
+        "text": "Văn bản học tập đã trích xuất, bài học, thẻ và tiến độ được lưu trong ứng dụng này trên thiết bị của bạn. Ứng dụng không tạo tài khoản AnyPractice và không cung cấp dịch vụ đồng bộ đám mây riêng. Bản sao lưu thiết bị có thể chứa dữ liệu cục bộ của ứng dụng."
+      },
+      {
+        "title": "Ảnh và PDF",
+        "text": "Nhận dạng văn bản chạy trên thiết bị của bạn. Ảnh và PDF được nhập cũng được lưu trên thiết bị cùng với tài liệu của bạn. Với bài học Pro, bạn có thể gửi ảnh hoặc toàn bộ các trang PDF đã chọn đến OpenAI sau khi xem lại và xác nhận. Các chế độ chỉ dùng văn bản chỉ gửi văn bản đã được xem lại."
+      },
+      {
+        "title": "Nhà cung cấp AI",
+        "text": "Với khóa API của bạn, chỉ các đoạn đã chọn và hướng dẫn tạo nội dung được gửi trực tiếp đến nhà cung cấp và mô hình mà bạn xác nhận. Khóa được lưu trong Keychain của thiết bị này. Nhà cung cấp có thể giữ lại yêu cầu theo điều khoản riêng. AnyPractice không thể xóa các bản sao mà nhà cung cấp đó đã giữ."
+      },
+      {
+        "title": "Apple Intelligence",
+        "text": "Apple Intelligence tạo thẻ học dựa trên tài liệu nguồn trên các thiết bị được hỗ trợ. Việc tạo nội dung và các bản dịch được hỗ trợ diễn ra trên thiết bị; có thể cần tải tài nguyên ngôn ngữ."
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "Với Pro, văn bản đã chọn và các trang gốc mà bạn đã xác nhận gửi sẽ đi qua AnyPractice trên Vercel đến OpenAI. Tệp gốc được xử lý cho yêu cầu đó mà không có thư viện tệp trên máy chủ. Apple xử lý thanh toán; máy chủ xác minh gói đăng ký của bạn và lưu các mã định danh cùng bộ đếm sử dụng. Nhà cung cấp và dịch vụ lưu trữ xử lý dữ liệu theo chính sách riêng của họ."
+      },
+      {
+        "title": "Xóa dữ liệu đã lưu",
+        "text": "Xóa một bộ thẻ để gỡ văn bản đã lưu, bản sao ảnh hoặc PDF trên thiết bị, tài liệu đã tạo và tiến độ của bộ thẻ đó khỏi ứng dụng này. Các bộ thẻ khác dùng cùng tài liệu vẫn giữ bản sao của chúng. Xóa kết nối sẽ xóa khóa cá nhân đã lưu. Các tệp bên ngoài ứng dụng, bản sao lưu và dữ liệu phía nhà cung cấp là những dữ liệu riêng biệt."
+      }
+    ],
+    "report": "AI có thể mắc lỗi. Bạn có thể chỉnh sửa hoặc xóa tài liệu đã tạo trong ứng dụng. Để báo cáo nội dung có hại, hãy mô tả vấn đề mà không đưa vào thông tin riêng tư."
+  },
+  "zh-Hans": {
+    "labels": {
+      "Your material": "你的材料",
+      "Language": "语言",
+      "Lesson": "课程",
+      "Cheat sheet": "速查表",
+      "Practice": "练习",
+      "Support": "支持",
+      "Privacy policy": "隐私政策",
+      "Contact support": "联系支持",
+      "Report generated content": "举报生成的内容",
+      "Terms of use": "使用条款",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "照片和 PDF",
+      "Remove saved data": "移除已保存的数据",
+      "A LITTLE PRACTICE, EVERY DAY": "每天一点点练习",
+      "Read and review": "阅读与复习",
+      "AI providers": "AI 提供商",
+      "Local library": "本地资料库",
+      "About": "关于"
+    },
+    "privacy": [
+      {
+        "title": "本地资料库",
+        "text": "提取的学习文本、课程、卡片和进度会保存在你设备上的本应用中。应用不会创建 AnyPractice 账户，也不提供自有云同步服务。设备备份可能包含应用的本地数据。"
+      },
+      {
+        "title": "照片和 PDF",
+        "text": "文本识别在你的设备上运行。导入的照片和 PDF 也会随学习资料一起保存在本地。使用 Pro 课程时，你可以在审阅并确认后，将照片或所选的完整 PDF 页面发送给 OpenAI。纯文本模式仅发送经过审阅的文本。"
+      },
+      {
+        "title": "AI 提供商",
+        "text": "使用你自己的 API 密钥时，只有选定的段落和生成指令会直接发送至你确认的提供商和模型。密钥保存在此设备的 Keychain 中。提供商可能会根据自身条款保留请求。AnyPractice 无法删除该提供商已持有的副本。"
+      },
+      {
+        "title": "Apple 智能",
+        "text": "Apple Intelligence 可在支持的设备上根据原始资料创建学习卡片。生成和受支持的翻译均在设备本地进行；可能需要下载语言资源。"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "使用 Pro 时，所选文本和你确认发送的原始页面会通过 Vercel 上的 AnyPractice 传送给 OpenAI。原始文件仅为该请求进行处理，服务器不设文件库。Apple 负责处理付款；服务器验证你的订阅，并保存标识符和用量计数。服务商和托管服务会按照各自的政策处理数据。"
+      },
+      {
+        "title": "移除已保存的数据",
+        "text": "删除牌组会从此 App 中移除该牌组保存的文本、本地照片或 PDF 副本、生成的学习资料和进度。使用同一资料的其他牌组会保留各自的副本。“移除连接”会删除已保存的个人密钥。此 App 之外的文件、备份和服务商端的数据需另行管理。"
+      }
+    ],
+    "report": "AI 可能会出错。你可以在应用内编辑或删除生成的资料。如需举报有害内容，请描述问题，不要包含私人信息。"
+  },
+  "zh-Hant": {
+    "labels": {
+      "Your material": "你的內容",
+      "Language": "語言",
+      "Lesson": "課程單元",
+      "Cheat sheet": "重點速查表",
+      "Practice": "練習",
+      "Support": "支援",
+      "Privacy policy": "隱私權政策",
+      "Contact support": "聯絡支援",
+      "Report generated content": "檢舉產生的內容",
+      "Terms of use": "使用條款",
+      "AnyPractice Pro": "AnyPractice Pro",
+      "Photos and PDFs": "照片與 PDF",
+      "Remove saved data": "移除已儲存的資料",
+      "A LITTLE PRACTICE, EVERY DAY": "每天練習一點點",
+      "Read and review": "閱讀與複習",
+      "AI providers": "AI 供應商",
+      "Local library": "本機資料庫",
+      "About": "關於"
+    },
+    "privacy": [
+      {
+        "title": "本機資料庫",
+        "text": "擷取的學習文字、課程、卡片和進度會儲存在你裝置上的這個 App 中。App 不會建立 AnyPractice 帳號，也不提供自有的雲端同步服務。裝置備份可能包含 App 的本機資料。"
+      },
+      {
+        "title": "照片與 PDF",
+        "text": "文字辨識在你的裝置上執行。匯入的照片和 PDF 也會連同學習資料儲存在本機。使用 Pro 課程時，你可以在檢查並確認後，將照片或所選的完整 PDF 頁面傳送給 OpenAI。純文字模式僅傳送檢查過的文字。"
+      },
+      {
+        "title": "AI 供應商",
+        "text": "使用自己的 API 金鑰時，只有選取的段落和內容產生指示會直接傳送至你確認的供應商和模型。金鑰儲存在此裝置的 Keychain 中。供應商可能會依照自身條款保留要求。AnyPractice 無法刪除該供應商已持有的副本。"
+      },
+      {
+        "title": "Apple 智慧",
+        "text": "Apple Intelligence 可在支援的裝置上根據原始資料建立學習卡片。內容產生和支援的翻譯都在裝置上執行；可能需要下載語言資源。"
+      },
+      {
+        "title": "AnyPractice Pro",
+        "text": "使用 Pro 時，所選文字和你確認傳送的原始頁面會透過 Vercel 上的 AnyPractice 傳送至 OpenAI。原始檔案僅為該請求進行處理，伺服器不設檔案庫。Apple 負責處理付款；伺服器驗證你的訂閱，並儲存識別碼和用量計數。服務供應商和託管服務會按照各自的政策處理資料。"
+      },
+      {
+        "title": "移除已儲存的資料",
+        "text": "刪除牌組會從此 App 中移除該牌組儲存的文字、本機照片或 PDF 副本、產生的學習資料和進度。使用相同資料的其他牌組會保留各自的副本。「移除連線」會刪除已儲存的個人金鑰。此 App 以外的檔案、備份和服務供應商端的資料須另行管理。"
+      }
+    ],
+    "report": "AI 可能會出錯。你可以在 App 內編輯或刪除產生的教材。如需檢舉有害內容，請描述問題，不要包含私人資訊。"
+  }
+}

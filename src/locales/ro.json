@@ -1,0 +1,15 @@
+{
+  "navigation": ["Mergi la conținut", "Aplicațiile noastre", "Studioul", "Contact", "Limbă"],
+  "hero": ["Studio independent de aplicații", "Aplicații mici.", "O lume de", "posibilități.", "Ceva nou de învățat. Un motiv să te miști. Un moment de joacă. Creăm aplicații pentru lucrurile mici care îmbogățesc viața.", "Găsește următoarea aplicație", "Un mic tur", "Create cu curiozitate. Gândite pentru fiecare zi."],
+  "motion": ["Animații", "Oprește temporar animațiile", "Activează animațiile", "Animațiile sunt oprite: dispozitivul are activată reducerea mișcării"],
+  "story": ["Descoperă puțin mai mult\nîn fiecare zi."],
+  "learn": ["Curiozitate", "Învață\npuțin mai mult.", "O întrebare devine o descoperire. Explorează elementele și legăturile dintre ele și urmează-ți curiozitatea.", "O lume întreagă de elemente."],
+  "move": ["Mișcare", "Mișcă-te\npuțin mai mult.", "Transformă impulsul de a lua telefonul într-un motiv să te miști. Câteva exerciții pot schimba ritmul zilei.", "Următorul tău pas mic."],
+  "play": ["Momente frumoase", "Joacă-te\npuțin mai mult.", "Un moment liber sau o seară cu prietenii. Alege un joc, lasă grijile deoparte și bucură-te de prezent.", "Puțin mai puțină rutină."],
+  "apps": ["Colecția", "Găsește aplicația potrivită.", "Urmează-ți curiozitatea. Fiecare aplicație are o mică lume de explorat.", "Explorează aplicația"],
+  "studio": ["Idei mici.\nCu sens.", "Ultimate Digital este un studio independent de aplicații. Pornim de la o idee simplă: să creăm ceva util și plăcut de folosit.", "De la o ecuație dificilă la următorul traseu de alergare, transformăm curiozitatea în mici însoțitori digitali.", "Un studio mic.\nO minte deschisă."],
+  "principles": ["Un scop clar", "O idee utilă în centrul fiecărei aplicații.", "Atenție la detalii", "Lucrurile mici fac parte din experiență.", "Loc pentru descoperiri", "Să înveți, să creezi, să te miști și să încerci ceva nou."],
+  "contact": ["Lucrurile bune încep\ncu un salut.", "O întrebare despre o aplicație sau o idee nouă? Ne-ar plăcea să ne scrii.", "Scrie studioului", "Ne găsești pe GitHub", "Sus", "Puțin mai multă curiozitate, în fiecare zi."],
+  "screenshot": ["Captură de ecran a aplicației"],
+  "tags": ["Concentrare și mișcare", "Alergare și explorare", "Plante și comunitate", "Jocuri și companie plăcută", "Natură și joacă", "Studiu și exercițiu", "Chimie", "Fizică", "Biologie", "Geometrie", "Algebră", "Geografie"]
+}

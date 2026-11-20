@@ -1,0 +1,15 @@
+{
+  "navigation": ["Siirry sisältöön", "Sovelluksemme", "Studio", "Ota yhteyttä", "Kieli"],
+  "hero": ["Itsenäinen sovellusstudio", "Pieniä appeja.", "Mahdollisuuksien", "kokonainen maailma.", "Uutta opittavaa. Syy lähteä liikkeelle. Hetki pelaamiselle. Teemme sovelluksia pieniin asioihin, jotka rikastuttavat elämää.", "Löydä seuraava sovelluksesi", "Pieni tutustumiskierros", "Uteliaisuudesta syntyneet. Arkeasi varten."],
+  "motion": ["Animaatiot", "Keskeytä animaatiot", "Ota animaatiot käyttöön", "Animaatiot ovat pois päältä: laitteessasi on käytössä liikkeen vähentäminen"],
+  "story": ["Löydä hieman enemmän\njokaisesta päivästä."],
+  "learn": ["Uteliaisuus", "Opi\nhieman lisää.", "Kysymys muuttuu oivallukseksi. Tutki alkuaineita ja niiden yhteyksiä ja seuraa uteliaisuuttasi.", "Kokonainen alkuaineiden maailma."],
+  "move": ["Liike", "Liiku\nhieman enemmän.", "Muuta halu tarttua puhelimeen syyksi liikkua. Muutama harjoitus voi muuttaa päiväsi rytmin.", "Seuraava pieni askeleesi."],
+  "play": ["Hyvät hetket", "Pelaa\nhieman enemmän.", "Vapaa hetki tai ilta ystävien kanssa. Valitse peli, jätä huolet odottamaan ja nauti tästä hetkestä.", "Hieman vähemmän tavallista."],
+  "apps": ["Kokoelma", "Löydä oma sovelluksesi.", "Seuraa uteliaisuuttasi. Jokainen sovellus on oma pieni tutkittava maailmansa.", "Tutustu sovellukseen"],
+  "studio": ["Pieniä ideoita.\nAitoa merkitystä.", "Ultimate Digital on itsenäinen sovellusstudio. Lähtökohtamme on yksinkertainen: tehdä jotain hyödyllistä, jota on ilo käyttää.", "Vaikeasta yhtälöstä seuraavaan juoksureittiin muutamme uteliaisuuden pieniksi digitaalisiksi kumppaneiksi.", "Pieni studio.\nAvoin mieli."],
+  "principles": ["Selkeä tarkoitus", "Jokaisen sovelluksen ytimessä on hyödyllinen idea.", "Huolella tehdyt yksityiskohdat", "Pienet asiat ovat osa kokemusta.", "Tilaa oivalluksille", "Oppimista, luomista, liikkumista ja uuden kokeilemista."],
+  "contact": ["Hyvät asiat alkavat\ntervehdyksestä.", "Kysymys sovelluksesta tai uusi idea? Kuulemme sinusta mielellämme.", "Lähetä sähköpostia studiolle", "Löydät meidät GitHubista", "Takaisin ylös", "Joka päivä hieman uteliaampana."],
+  "screenshot": ["Sovelluksen kuvakaappaus"],
+  "tags": ["Keskittyminen ja liike", "Juoksu ja tutkiminen", "Kasvit ja yhteisö", "Pelit ja hyvä seura", "Luonto ja leikki", "Opiskelu ja harjoittelu", "Kemia", "Fysiikka", "Biologia", "Geometria", "Algebra", "Maantiede"]
+}
